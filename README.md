@@ -115,3 +115,5 @@ Soy estudiante de Ingeniería de Software. Cuento con conocimientos básicos en 
 **Velarde Luyo Piero Alberto – Ingeniería de Software - u20211A620**  
 Soy estudiante de la carrera de Ingeniería de Software. Escogí esta carrera por mi facilidad en el uso de las computadoras y mi interés en el funcionamiento de estas y en todo lo relacionado con la programación y las tecnologías emergentes. Cuento con habilidades básicas en C++, C#, Python, HTML y CSS.
 
+
+XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
