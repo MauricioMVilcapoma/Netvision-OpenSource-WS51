@@ -115,3 +115,7 @@ Soy estudiante de Ingeniería de Software. Cuento con conocimientos básicos en 
 **Velarde Luyo Piero Alberto – Ingeniería de Software - u20211A620**  
 Soy estudiante de la carrera de Ingeniería de Software. Escogí esta carrera por mi facilidad en el uso de las computadoras y mi interés en el funcionamiento de estas y en todo lo relacionado con la programación y las tecnologías emergentes. Cuento con habilidades básicas en C++, C#, Python, HTML y CSS.
 
+## 1.2. Solution Profile
+
+Eventify ofrece una solución integral para la gestión de eventos, combinando herramientas de planificación, promoción y venta de entradas en una sola plataforma. Permite a los organizadores crear eventos de manera rápida y sencilla, automatizando tareas complejas y proporcionando un sistema de venta de entradas eficiente y seguro. Además, los usuarios pueden acceder a una amplia gama de eventos, comprando entradas de manera simple y confiable.
+
