@@ -36,3 +36,11 @@
 | -         | [Fecha]       | Guzman Chavez Alexander Ramiro<br>Huamani Aguilar Jhon Rony<br>Muñoz Vilcapoma Mauricio Rigoberto<br>Velarde Luyo Piero Alberto<br>Zevallos Linares Alessandro Netto | TEXTO DE EJEMPLO           |
 | -         | [Fecha]       | Guzman Chavez Alexander Ramiro<br>Huamani Aguilar Jhon Rony<br>Muñoz Vilcapoma Mauricio Rigoberto<br>Velarde Luyo Piero Alberto<br>Zevallos Linares Alessandro Netto |  TEXTO DE EJEMPLO                                |
 | -         | [Fecha]       | Guzman Chavez Alexander Ramiro<br>Huamani Aguilar Jhon Rony<br>Muñoz Vilcapoma Mauricio Rigoberto<br>Velarde Luyo Piero Alberto<br>Zevallos Linares Alessandro Netto | TEXTO DE EJEMPLO             |
+
+---
+
+# Project Report Collaboration Insights
+**Repositorio del Informe:** [Enlace del repositorio GitHub](https://github.com/MauricioMVilcapoma/Project-Report-Collaboration-Insights)
+
+
+---
