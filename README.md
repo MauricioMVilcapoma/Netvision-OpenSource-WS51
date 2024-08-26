@@ -189,3 +189,58 @@ El segmento inicial de Eventify se enfocará en organizadores de eventos profesi
 
 8. **How Much (Cuánto):**  
    La ineficiencia en la gestión de eventos puede resultar costosa en términos de tiempo y recursos. Eventify busca reducir estos costos al centralizar y simplificar la gestión de eventos, proporcionando una opción más económica y efectiva.
+
+---
+
+# 2. Capítulo II: Requirements Elicitation & Analysis
+
+## 2.1. Competidores
+
+### 2.1.1. Análisis competitivo
+
+En esta sección se identifican y describen los principales competidores de Eventify, que ofrecen productos digitales similares o parcialmente similares en la gestión y organización de eventos.
+
+#### 1. Joinuss
+
+**Descripción:** Joinuss es una plataforma digital enfocada en la organización y gestión de eventos en línea. Ofrece una solución integral para la creación, promoción y venta de entradas para eventos de todo tipo, desde conferencias y talleres hasta conciertos y festivales. Su plataforma incluye herramientas para la gestión de entradas, marketing, y análisis de datos.
+
+**Modelo de Negocio:** Joinuss genera ingresos a través de comisiones por venta de entradas, suscripciones mensuales para organizadores de eventos, y servicios adicionales como publicidad y análisis avanzado.
+
+**Fortalezas:**
+- Interfaz intuitiva y fácil de usar.
+- Amplias funcionalidades de promoción y marketing.
+- Integración con redes sociales para aumentar la visibilidad de los eventos.
+
+**Debilidades:**
+- Limitaciones en la personalización de las páginas de eventos.
+- Costos adicionales para acceder a características premium.
+
+#### 2. Teleticket
+
+**Descripción:** Teleticket es una plataforma de venta de entradas que ofrece soluciones para la compra y venta de entradas para eventos diversos, como conciertos, teatros, deportes y más. Su enfoque está en facilitar la compra de entradas para el público y la gestión de ventas para los organizadores.
+
+**Modelo de Negocio:** Teleticket obtiene ingresos a través de comisiones por la venta de entradas, tarifas de servicio, y acuerdos comerciales con organizadores de eventos.
+
+**Fortalezas:**
+- Amplia red de puntos de venta físicos y online.
+- Alta visibilidad en el mercado local.
+- Buena experiencia de usuario en la compra de entradas.
+
+**Debilidades:**
+- Limitado en funcionalidades de gestión y promoción para organizadores.
+- La dependencia de la venta de entradas como fuente principal de ingresos puede limitar la diversificación de servicios.
+
+#### 3. Eventbrite
+
+**Descripción:** Eventbrite es una plataforma globalmente reconocida para la organización y gestión de eventos. Ofrece herramientas para crear eventos, vender entradas, y promover eventos tanto a nivel local como global. Es conocida por su facilidad de uso y su capacidad para manejar eventos de diversos tamaños.
+
+**Modelo de Negocio:** Eventbrite monetiza a través de tarifas de servicio por la venta de entradas, opciones de publicidad para eventos, y suscripciones para organizadores que requieren características avanzadas.
+
+**Fortalezas:**
+- Amplia red de usuarios y visibilidad global.
+- Herramientas versátiles para la gestión de eventos.
+- Integraciones con diversas plataformas de pago y marketing.
+
+**Debilidades:**
+- Tarifas relativamente altas para eventos con grandes volúmenes de entradas.
+- Algunas funcionalidades avanzadas requieren suscripciones costosas.
