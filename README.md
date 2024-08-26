@@ -142,3 +142,30 @@ Eventify ofrece una solución integral para la gestión de eventos, combinando h
 7. **How Much (Cuánto):**  
    La ineficiencia en la gestión de eventos puede resultar costosa en términos de tiempo y recursos. Eventify busca reducir estos costos al centralizar y simplificar la gestión de eventos, proporcionando una opción más económica y efectiva.
 
+### 1.2.2. Lean UX Process
+
+#### 1.2.2.1. Lean UX Problem Statements
+
+##### Domain
+El dominio de Eventify es la gestión de eventos, un campo que abarca desde la planificación inicial hasta la ejecución y el análisis post-evento. Este sector requiere soluciones que no solo faciliten la organización de eventos, sino que también mejoren la experiencia de los asistentes y optimicen la eficiencia operativa de los organizadores.
+
+##### Customer Segments
+1. **Organizadores de Eventos Profesionales**: Incluye empresas de eventos, organizadores de conferencias, y productores de festivales que necesitan una plataforma robusta para gestionar eventos de gran escala.
+2. **Pequeños Negocios y Emprendedores**: Pequeñas empresas y emprendedores que organizan eventos como parte de su estrategia de marketing.
+3. **Consumidores Finales**: Personas que buscan asistir a eventos de todo tipo y necesitan una plataforma confiable para descubrir y comprar entradas.
+
+##### Pain Points
+1. **Fragmentación de Herramientas**: Los organizadores de eventos deben usar múltiples herramientas para manejar diferentes aspectos del evento, lo que aumenta la complejidad y el riesgo de errores.
+2. **Costos Operativos Altos**: La falta de una solución integrada incrementa los costos asociados a la gestión de eventos.
+3. **Experiencia de Usuario Inconsistente**: Los asistentes a los eventos a menudo enfrentan dificultades en la compra de entradas y en la obtención de información relevante.
+
+##### Gap
+El mercado carece de una solución centralizada que integre todas las funciones necesarias para la gestión de eventos en una sola plataforma. La ausencia de tal solución crea ineficiencias operativas y afecta negativamente la experiencia tanto de los organizadores como de los asistentes.
+
+##### Vision/Strategy
+La visión de Eventify es ser la plataforma líder en la gestión integral de eventos, ofreciendo una solución todo-en-uno que aborde las necesidades de planificación, promoción, ejecución, y análisis post-evento. La estrategia se centra en la simplificación del proceso de organización de eventos, proporcionando herramientas automatizadas y una experiencia de usuario superior.
+
+##### Initial Segment
+El segmento inicial de Eventify se enfocará en organizadores de eventos profesionales, dado que este grupo tiene la mayor necesidad de una solución integrada y la capacidad de implementar nuevas tecnologías rápidamente. Una vez establecido en este segmento, Eventify expandirá su alcance a pequeños negocios, emprendedores, y eventualmente al mercado de consumidores finales.
+
+
