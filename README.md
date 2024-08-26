@@ -328,11 +328,13 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
        - **Táctica:** Desarrollar herramientas analíticas avanzadas y proporcionar una experiencia de usuario fluida tanto para organizadores como para asistentes. Ofrecer soporte para eventos internacionales con funcionalidades multilingües y de múltiples monedas.
 
 
-## 2.2. Diseño de Entrevistas para Eventify
+## 2.2. Entrevistas
 
-### 1. Preguntas para Organizadores de Eventos
+### 2.2.1. Diseño de entrevistas.
 
-#### 1.1. Información Demográfica
+#### 1. Preguntas para Organizadores de Eventos
+
+##### 1.1. Información Demográfica
 
 1. **Edad y género:**
    - **Pregunta principal:** ¿Podrías indicarme tu edad y género?
@@ -346,7 +348,7 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
    - **Pregunta principal:** ¿Cuál es tu ocupación principal y cuánta experiencia tienes en la organización de eventos?
    - **Complementaria:** ¿Organizas eventos a tiempo completo o como una actividad complementaria?
 
-#### 1.2. Características Personales y Profesionales
+##### 1.2. Características Personales y Profesionales
 
 1. **Motivaciones y objetivos:**
    - **Pregunta principal:** ¿Qué te motiva a organizar eventos y cuáles son tus principales objetivos (e.g., ingresos, networking, etc.)?
@@ -368,9 +370,9 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
    - **Pregunta principal:** ¿Cómo interactúas con los asistentes antes, durante y después del evento?
    - **Complementaria:** ¿Qué tan importante es para ti poder comunicarte eficazmente con los asistentes a través de la plataforma?
 
-### 2. Preguntas para Asistentes a Eventos
+#### 2. Preguntas para Asistentes a Eventos
 
-#### 2.1. Información Demográfica
+##### 2.1. Información Demográfica
 
 1. **Edad y género:**
    - **Pregunta principal:** ¿Podrías indicarme tu edad y género?
@@ -384,7 +386,7 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
    - **Pregunta principal:** ¿Cuál es tu ocupación actual?
    - **Complementaria:** ¿Tu ocupación influye en la frecuencia con la que asistes a eventos?
 
-#### 2.2. Características Personales y Preferencias
+##### 2.2. Características Personales y Preferencias
 
 1. **Tipos de eventos preferidos:**
    - **Pregunta principal:** ¿Qué tipo de eventos sueles asistir con mayor frecuencia (conciertos, conferencias, fiestas, etc.)?
@@ -406,7 +408,7 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
    - **Pregunta principal:** ¿Qué tan importante es para ti recibir actualizaciones o notificaciones del organizador antes y durante el evento?
    - **Complementaria:** ¿Te gustaría tener la opción de comunicarte directamente con el organizador a través de la plataforma?
 
-### Conclusión de la Entrevista
+#### Conclusión de la Entrevista
 
 - **Pregunta final:** ¿Hay algo más que consideras importante compartir sobre tu experiencia como organizador o asistente de eventos?
 
