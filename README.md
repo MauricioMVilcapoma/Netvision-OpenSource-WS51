@@ -196,11 +196,9 @@ El segmento inicial de Eventify se enfocará en organizadores de eventos profesi
 
 ## 2.1. Competidores
 
-### 2.1.1. Análisis competitivo
-
 En esta sección se identifican y describen los principales competidores de Eventify, que ofrecen productos digitales similares o parcialmente similares en la gestión y organización de eventos.
 
-#### 1. Joinuss
+### 1. Joinuss
 
 **Descripción:** Joinuss es una plataforma digital enfocada en la organización y gestión de eventos en línea. Ofrece una solución integral para la creación, promoción y venta de entradas para eventos de todo tipo, desde conferencias y talleres hasta conciertos y festivales. Su plataforma incluye herramientas para la gestión de entradas, marketing, y análisis de datos.
 
@@ -215,7 +213,7 @@ En esta sección se identifican y describen los principales competidores de Even
 - Limitaciones en la personalización de las páginas de eventos.
 - Costos adicionales para acceder a características premium.
 
-#### 2. Teleticket
+### 2. Teleticket
 
 **Descripción:** Teleticket es una plataforma de venta de entradas que ofrece soluciones para la compra y venta de entradas para eventos diversos, como conciertos, teatros, deportes y más. Su enfoque está en facilitar la compra de entradas para el público y la gestión de ventas para los organizadores.
 
@@ -230,7 +228,7 @@ En esta sección se identifican y describen los principales competidores de Even
 - Limitado en funcionalidades de gestión y promoción para organizadores.
 - La dependencia de la venta de entradas como fuente principal de ingresos puede limitar la diversificación de servicios.
 
-#### 3. Eventbrite
+### 3. Eventbrite
 
 **Descripción:** Eventbrite es una plataforma globalmente reconocida para la organización y gestión de eventos. Ofrece herramientas para crear eventos, vender entradas, y promover eventos tanto a nivel local como global. Es conocida por su facilidad de uso y su capacidad para manejar eventos de diversos tamaños.
 
