@@ -139,7 +139,26 @@ Eventify ofrece una solución integral para la gestión de eventos, combinando h
 6. **How (Cómo):**  
    Eventify aborda estos desafíos integrando todas las funciones necesarias en una sola plataforma, ofreciendo herramientas de automatización, promoción, y un sistema seguro de venta de entradas, con el objetivo de optimizar la organización de eventos.
 
-7. **How Much (Cuánto):**  
+### 1.3. Segmentos objetivo
+
+1. **Organizadores de Eventos Profesionales:**
+   - **Demografía:** Profesionales y empresas que organizan eventos corporativos, culturales, y de entretenimiento.
+   - **Necesidades:** Herramientas que simplifiquen la gestión integral de eventos, desde la planificación hasta la venta de entradas.
+   - **Características:** Usuarios con experiencia en la organización de eventos que buscan soluciones eficientes y con menos margen de error.
+
+2. **Consumidores Finales:**
+   - **Demografía:** Personas interesadas en asistir a eventos, desde conciertos y festivales hasta conferencias y seminarios.
+   - **Necesidades:** Una plataforma confiable donde puedan descubrir y comprar entradas para eventos de manera sencilla y segura.
+   - **Características:** Buscan facilidad de uso, seguridad en las transacciones, y la capacidad de descubrir eventos que se ajusten a sus intereses.
+
+**Información Estadística de Sustento:**
+- **Crecimiento del Mercado de Eventos:**  
+  Según estudios recientes, la industria global de eventos se espera que crezca a una tasa anual compuesta del 11% entre 2023 y 2027, impulsada por la digitalización y el creciente interés en experiencias en vivo.
+  
+- **Aumento en la Digitalización:**  
+  Un 85% de los organizadores de eventos están invirtiendo en tecnología para mejorar la gestión y promoción de sus eventos, lo que demuestra una tendencia hacia la adopción de plataformas integradas como Eventify.
+
+8. **How Much (Cuánto):**  
    La ineficiencia en la gestión de eventos puede resultar costosa en términos de tiempo y recursos. Eventify busca reducir estos costos al centralizar y simplificar la gestión de eventos, proporcionando una opción más económica y efectiva.
 
 ### 1.2.2. Lean UX Process
