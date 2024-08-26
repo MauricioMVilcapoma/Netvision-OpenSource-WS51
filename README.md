@@ -245,11 +245,11 @@ En esta sección se identifican y describen los principales competidores de Even
 
 
 
-## 2.1.1. Análisis Competitivo
+### 2.1.1. Análisis Competitivo
 
-### Competitive Analysis Landscape
+#### Competitive Analysis Landscape
 
-#### ¿Por qué llevar a cabo este análisis?
+##### ¿Por qué llevar a cabo este análisis?
 
 Este análisis busca entender mejor a los competidores de Eventify, permitiendo a nuestra startup identificar oportunidades de diferenciación y áreas de mejora, y desarrollar estrategias para competir eficazmente en el mercado de gestión de eventos.
 
@@ -270,3 +270,61 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
 | **Debilidades**                | Requiere suscripciones para acceder a todas las funcionalidades; competencia con plataformas establecidas. | Limitaciones en la personalización; costos adicionales para características premium.         | Funcionalidades limitadas para la gestión y promoción de eventos; dependencia de la venta de entradas. | Costos de servicio para eventos grandes; competencia con plataformas más especializadas.    |
 | **Oportunidades**              | Expansión a nuevos mercados; desarrollo de nuevas funcionalidades basadas en feedback de usuarios. | Crecimiento en la demanda de eventos en línea; posibilidad de expansión a nuevos segmentos de eventos. | Expansión a nuevos mercados y eventos; integración de nuevas tecnologías.                  | Crecimiento en mercados emergentes; desarrollo de nuevas funcionalidades y herramientas.    |
 | **Amenazas**                   | Competencia fuerte; cambios en las tendencias de eventos; evolución tecnológica rápida.          | Competencia de plataformas con características más completas; cambios en la preferencia de los usuarios. | Competencia con plataformas más completas; cambios en las tendencias de consumo de entradas. | Competencia creciente en el mercado global; cambios en las necesidades y expectativas de los usuarios. |
+
+
+
+### 2.1.2. Estrategias y Tácticas Frente a Competidores
+
+#### Contexto y Estrategias para Eventify
+
+**Objetivo:** Desarrollar estrategias y tácticas para que Eventify pueda competir eficazmente contra sus rivales, aprovechando sus propias fortalezas y abordando sus debilidades, al tiempo que responde a las oportunidades y amenazas en el mercado.
+
+#### Estrategias y Tácticas de Eventify
+
+1. **Aprovechar Fortalezas Propias**
+
+   - **Estrategia:** Resaltar la integración de todas las funcionalidades necesarias en una sola plataforma.
+     - **Táctica:** Implementar campañas de marketing que destaquen la facilidad de uso y la eficiencia de la plataforma todo-en-uno. Utilizar estudios de caso y testimonios de clientes que hayan experimentado mejoras significativas en la gestión de eventos.
+
+   - **Estrategia:** Ofrecer soporte técnico superior y atención personalizada.
+     - **Táctica:** Crear un centro de soporte robusto y accesible, y ofrecer formación y asistencia continua a los clientes. Establecer un sistema de retroalimentación para mejorar el producto basado en las necesidades de los usuarios.
+
+2. **Abordar Debilidades Propias**
+
+   - **Estrategia:** Superar la barrera de los costos asociados a las suscripciones.
+     - **Táctica:** Introducir un modelo de precios flexible que incluya opciones de pago por uso o descuentos para suscripciones a largo plazo. Considerar una oferta freemium con características básicas gratuitas para atraer a nuevos usuarios.
+
+   - **Estrategia:** Competir con plataformas establecidas que ya tienen una base de usuarios grande.
+     - **Táctica:** Desarrollar un plan de captación de clientes agresivo que incluya demostraciones gratuitas, promociones especiales y asociaciones estratégicas con organizadores de eventos de alto perfil.
+
+3. **Aprovechar Oportunidades del Mercado**
+
+   - **Estrategia:** Expandir a nuevos mercados y segmentos emergentes.
+     - **Táctica:** Realizar investigaciones de mercado para identificar regiones y sectores con alta demanda de soluciones de gestión de eventos. Adaptar las estrategias de marketing y desarrollo del producto para satisfacer las necesidades específicas de estos mercados.
+
+   - **Estrategia:** Desarrollar nuevas funcionalidades basadas en el feedback de los usuarios.
+     - **Táctica:** Implementar un proceso de innovación continua que involucre a los usuarios en el desarrollo del producto. Realizar encuestas y sesiones de prueba para identificar las características más deseadas y prioritarias.
+
+4. **Responder a Amenazas del Mercado**
+
+   - **Estrategia:** Contrarrestar la competencia creciente en el mercado.
+     - **Táctica:** Diferenciar a Eventify mediante características exclusivas y personalización avanzada. Mantener una vigilancia constante de las tendencias del mercado y ajustar la oferta de productos en consecuencia.
+
+   - **Estrategia:** Adaptarse a cambios rápidos en las tecnologías y tendencias de eventos.
+     - **Táctica:** Invertir en investigación y desarrollo para mantenerse al día con las últimas innovaciones tecnológicas. Establecer alianzas con empresas tecnológicas y expertos en eventos para integrar las últimas tendencias en la plataforma.
+
+5. **Estrategias Competitivas Específicas**
+
+   - **Contra Joinuss:**
+     - **Estrategia:** Superar las limitaciones en la personalización y costos adicionales.
+       - **Táctica:** Ofrecer una mayor flexibilidad en la personalización de eventos y un modelo de precios transparente que minimice los costos adicionales para los usuarios.
+
+   - **Contra Teleticket:**
+     - **Estrategia:** Superar la dependencia de la venta de entradas físicas y mejorar la gestión de eventos.
+       - **Táctica:** Enfatizar la capacidad de Eventify para gestionar eventos completos desde la planificación hasta la venta de entradas y la comunicación con los asistentes, incluyendo una solución integrada para eventos híbridos y digitales.
+
+   - **Contra Eventbrite:**
+     - **Estrategia:** Competir con la robustez de herramientas de análisis y el alcance global.
+       - **Táctica:** Desarrollar herramientas analíticas avanzadas y proporcionar una experiencia de usuario fluida tanto para organizadores como para asistentes. Ofrecer soporte para eventos internacionales con funcionalidades multilingües y de múltiples monedas.
+
+
