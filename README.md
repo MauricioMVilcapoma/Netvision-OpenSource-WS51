@@ -119,3 +119,26 @@ Soy estudiante de la carrera de Ingeniería de Software. Escogí esta carrera po
 
 Eventify ofrece una solución integral para la gestión de eventos, combinando herramientas de planificación, promoción y venta de entradas en una sola plataforma. Permite a los organizadores crear eventos de manera rápida y sencilla, automatizando tareas complejas y proporcionando un sistema de venta de entradas eficiente y seguro. Además, los usuarios pueden acceder a una amplia gama de eventos, comprando entradas de manera simple y confiable.
 
+### 1.2.1. Antecedentes y problemática
+
+1. **Who (Quién):**  
+   Eventify está diseñada para organizadores de eventos, incluyendo tanto grandes empresas de eventos como pequeñas y medianas empresas, así como emprendedores que necesitan gestionar eventos con eficiencia y sin complicaciones.
+
+2. **What (Qué):**  
+   El problema es la falta de una plataforma centralizada que gestione de manera efectiva todas las necesidades de los organizadores de eventos, como planificación, promoción, venta de entradas y logística. Esta carencia obliga a los organizadores a utilizar múltiples herramientas, lo que incrementa la complejidad y el riesgo de errores.
+
+3. **Where (Dónde):**  
+   Este problema es común en mercados saturados de eventos, donde la competencia es alta y los organizadores necesitan soluciones que se puedan aplicar en cualquier lugar con acceso a internet, especialmente en grandes ciudades y centros de negocios.
+
+4. **When (Cuándo):**  
+   La necesidad de una plataforma como Eventify es constante, pero se vuelve más crítica durante períodos de alta demanda, como temporadas festivas, conferencias importantes, y otros grandes eventos. La tendencia hacia eventos híbridos post-pandemia también ha intensificado la necesidad de soluciones tecnológicas integradas.
+
+5. **Why (Por qué):**  
+   La razón principal para desarrollar Eventify es resolver la fragmentación en la organización de eventos, proporcionando una plataforma que simplifique el proceso, mejore la eficiencia operativa, y minimice los errores, garantizando una experiencia positiva tanto para los organizadores como para los asistentes.
+
+6. **How (Cómo):**  
+   Eventify aborda estos desafíos integrando todas las funciones necesarias en una sola plataforma, ofreciendo herramientas de automatización, promoción, y un sistema seguro de venta de entradas, con el objetivo de optimizar la organización de eventos.
+
+7. **How Much (Cuánto):**  
+   La ineficiencia en la gestión de eventos puede resultar costosa en términos de tiempo y recursos. Eventify busca reducir estos costos al centralizar y simplificar la gestión de eventos, proporcionando una opción más económica y efectiva.
+
