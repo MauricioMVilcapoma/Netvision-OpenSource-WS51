@@ -328,3 +328,88 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
        - **Táctica:** Desarrollar herramientas analíticas avanzadas y proporcionar una experiencia de usuario fluida tanto para organizadores como para asistentes. Ofrecer soporte para eventos internacionales con funcionalidades multilingües y de múltiples monedas.
 
 
+## 2.2. Entrevistas
+
+### 2.2.1. Diseño de entrevistas.
+
+#### 1. Preguntas para Organizadores de Eventos
+
+##### 1.1. Información Demográfica
+
+1. **Edad y género:**
+   - **Pregunta principal:** ¿Podrías indicarme tu edad y género?
+   - **Complementaria:** ¿Te consideras una persona joven, adulta o mayor en tu campo de trabajo?
+
+2. **Distrito de residencia:**
+   - **Pregunta principal:** ¿En qué distrito o ciudad resides actualmente?
+   - **Complementaria:** ¿La ubicación de tu residencia influye en la organización de tus eventos?
+
+3. **Ocupación y experiencia:**
+   - **Pregunta principal:** ¿Cuál es tu ocupación principal y cuánta experiencia tienes en la organización de eventos?
+   - **Complementaria:** ¿Organizas eventos a tiempo completo o como una actividad complementaria?
+
+##### 1.2. Características Personales y Profesionales
+
+1. **Motivaciones y objetivos:**
+   - **Pregunta principal:** ¿Qué te motiva a organizar eventos y cuáles son tus principales objetivos (e.g., ingresos, networking, etc.)?
+   - **Complementaria:** ¿Cómo mides el éxito de un evento que organizas?
+
+2. **Herramientas y plataformas:**
+   - **Pregunta principal:** ¿Qué herramientas o plataformas utilizas para la organización de eventos?
+   - **Complementaria:** ¿Has probado alguna solución todo-en-uno para la organización de eventos? ¿Cuál ha sido tu experiencia?
+
+3. **Retos y frustraciones:**
+   - **Pregunta principal:** ¿Cuáles son los principales desafíos que enfrentas al organizar eventos?
+   - **Complementaria:** ¿Cómo manejas estos desafíos? ¿Hay alguna área específica donde sientas que necesitas más apoyo o mejores herramientas?
+
+4. **Expectativas tecnológicas:**
+   - **Pregunta principal:** ¿Qué características tecnológicas consideras esenciales en una plataforma para la organización de eventos?
+   - **Complementaria:** ¿Qué te gustaría que una plataforma como Eventify mejorara o incluyera para facilitar tu trabajo?
+
+5. **Interacción con asistentes:**
+   - **Pregunta principal:** ¿Cómo interactúas con los asistentes antes, durante y después del evento?
+   - **Complementaria:** ¿Qué tan importante es para ti poder comunicarte eficazmente con los asistentes a través de la plataforma?
+
+#### 2. Preguntas para Asistentes a Eventos
+
+##### 2.1. Información Demográfica
+
+1. **Edad y género:**
+   - **Pregunta principal:** ¿Podrías indicarme tu edad y género?
+   - **Complementaria:** ¿En qué rango de edad sueles asistir a más eventos (juvenil, adulto, etc.)?
+
+2. **Distrito de residencia:**
+   - **Pregunta principal:** ¿En qué distrito o ciudad resides actualmente?
+   - **Complementaria:** ¿Prefieres asistir a eventos cerca de tu residencia o estás dispuesto a viajar?
+
+3. **Ocupación:**
+   - **Pregunta principal:** ¿Cuál es tu ocupación actual?
+   - **Complementaria:** ¿Tu ocupación influye en la frecuencia con la que asistes a eventos?
+
+##### 2.2. Características Personales y Preferencias
+
+1. **Tipos de eventos preferidos:**
+   - **Pregunta principal:** ¿Qué tipo de eventos sueles asistir con mayor frecuencia (conciertos, conferencias, fiestas, etc.)?
+   - **Complementaria:** ¿Qué aspectos consideras al elegir un evento al que asistir (ubicación, precio, reputación, etc.)?
+
+2. **Experiencia en eventos:**
+   - **Pregunta principal:** ¿Qué es lo que más disfrutas al asistir a un evento?
+   - **Complementaria:** ¿Hay algún aspecto que te haya frustrado o decepcionado en eventos anteriores?
+
+3. **Uso de plataformas para comprar entradas:**
+   - **Pregunta principal:** ¿Qué plataformas o métodos usas para comprar entradas para eventos?
+   - **Complementaria:** ¿Prefieres comprar tus entradas en línea o en persona? ¿Por qué?
+
+4. **Interacción con la tecnología:**
+   - **Pregunta principal:** ¿Qué tan cómodo te sientes usando aplicaciones móviles o plataformas web para buscar y comprar entradas para eventos?
+   - **Complementaria:** ¿Qué características tecnológicas te gustaría ver en una plataforma que gestione eventos?
+
+5. **Comunicación con organizadores:**
+   - **Pregunta principal:** ¿Qué tan importante es para ti recibir actualizaciones o notificaciones del organizador antes y durante el evento?
+   - **Complementaria:** ¿Te gustaría tener la opción de comunicarte directamente con el organizador a través de la plataforma?
+
+#### Conclusión de la Entrevista
+
+- **Pregunta final:** ¿Hay algo más que consideras importante compartir sobre tu experiencia como organizador o asistente de eventos?
+
+
