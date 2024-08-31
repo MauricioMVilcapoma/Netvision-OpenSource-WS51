@@ -422,6 +422,31 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
 ### 2.3.5. As-is Scenario Mapping
 ### 2.4. Ubiquitous Language
 
+1. **Event Management Platform (Plataforma de gestión de eventos)**
+   - **Definición:** Un sistema centralizado que permite a los organizadores de eventos planificar, gestionar y ejecutar eventos de manera eficiente. Esta plataforma integra varias herramientas y funcionalidades, como la venta de entradas, la promoción del evento y la gestión logística.
+
+2. **Ticketing System (Sistema de venta de entradas)**
+   - **Definición:** Un componente clave de una plataforma de gestión de eventos que permite la emisión, venta y seguimiento de entradas. Este sistema facilita la compra segura de entradas por parte de los asistentes y proporciona a los organizadores herramientas para gestionar las ventas y el acceso al evento.
+
+3. **Operational Efficiency (Eficiencia operativa)**
+   - **Definición:** La capacidad de una empresa o plataforma para optimizar sus recursos y procesos, minimizando el tiempo y costo necesarios para realizar actividades, mientras maximiza la productividad y la calidad del servicio ofrecido.
+
+4. **Event Promotion (Promoción de eventos)**
+   - **Definición:** El conjunto de estrategias y tácticas utilizadas para publicitar un evento y atraer a la audiencia deseada. Esto puede incluir marketing en redes sociales, campañas de correo electrónico, anuncios pagados y otras formas de comunicación para aumentar la visibilidad del evento.
+
+5. **Event Planning (Planificación de eventos)**
+   - **Definición:** El proceso de organización de todos los elementos necesarios para llevar a cabo un evento, incluyendo la selección del lugar, la gestión de proveedores, la coordinación logística y la programación de actividades.
+
+6. **User Experience (Experiencia del usuario)**
+   - **Definición:** La percepción y respuesta de los usuarios al interactuar con una plataforma o servicio. En el contexto de Eventify, se refiere a la facilidad y satisfacción con la que los organizadores de eventos y asistentes usan la plataforma para crear y asistir a eventos.
+
+7. **Stakeholder (Parte interesada)**
+   - **Definición:** Individuos o grupos que tienen un interés en el éxito de un evento o en la funcionalidad de la plataforma Eventify. Esto puede incluir organizadores de eventos, asistentes, proveedores de servicios y patrocinadores.
+
+8. **Market Saturation (Saturación del mercado)**
+   - **Definición:** Una situación en la que el número de productos o servicios ofrecidos en un mercado es tan alto que limita el crecimiento y la participación de nuevos competidores. En el caso de los eventos, significa una competencia alta entre organizadores para atraer asistentes.
+
+
 # 3. Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
