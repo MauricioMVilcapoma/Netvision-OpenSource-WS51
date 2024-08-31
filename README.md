@@ -416,7 +416,7 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
 #### Entrevista 1
 | **Datos del entrevistado** | 
 |--------------------------|
-| **Nombre:** Mauricio Mondoñedo |
+| **Nombre:** Mauriksio Ahmed |
 | **Edad:** 20 años |
 | **Procedencia:** San Isidro, Lima |
 | **Segmento:** Asistente a Eventos |
