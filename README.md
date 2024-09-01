@@ -451,6 +451,59 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
 
 ## 3.1. To-Be Scenario Mapping
 ## 3.2. User Stories
+
+#### Epic: Gestión de Eventos
+##### Epic ID: E001
+###### Título: Gestión Integral de Eventos
+**Descripción**: Como organizador de eventos, quiero una plataforma que me permita gestionar todos los aspectos de mis eventos en un solo lugar, para optimizar el proceso y evitar errores.
+
+| Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
+|----------|--------|-------------|-------------------------|---------------------------|
+| US001    | Creación de Evento | Como organizador, quiero poder crear un evento especificando detalles como nombre, fecha, lugar, y descripción, para tener toda la información centralizada. | **Dado** que soy un organizador en la plataforma,<br>**Cuando** intento crear un evento nuevo ingresando todos los datos requeridos,<br>**Entonces** el sistema debe guardar el evento y mostrarlo en la lista de eventos creados. | E001 |
+| US002    | Venta de Entradas | Como organizador, quiero habilitar la venta de entradas para mi evento, para que los asistentes puedan comprarlas de manera sencilla y segura. | **Dado** que soy un organizador con un evento creado,<br>**Cuando** habilito la venta de entradas y defino los precios,<br>**Entonces** los asistentes deberían poder comprar entradas a través de la plataforma de manera segura. | E001 |
+| US003    | Promoción de Evento | Como organizador, quiero poder promocionar mi evento a través de diferentes canales integrados en la plataforma, para atraer más asistentes. | **Dado** que tengo un evento creado en la plataforma,<br>**Cuando** configuro una campaña de promoción en redes sociales desde Eventify,<br>**Entonces** la plataforma debe automatizar la publicación en los canales seleccionados. | E001 |
+| US004    | Gestión de Invitados | Como organizador, quiero gestionar la lista de invitados, para tener un control claro sobre quiénes asistirán al evento. | **Dado** que soy un organizador con un evento creado,<br>**Cuando** agrego o elimino invitados,<br>**Entonces** la lista de invitados debe actualizarse en tiempo real. | E001 |
+| US005    | Seguimiento de Asistencia | Como organizador, quiero hacer seguimiento de la asistencia en tiempo real, para saber cuántas personas han llegado al evento. | **Dado** que soy un organizador en un evento activo,<br>**Cuando** los asistentes escanean su entrada al ingresar,<br>**Entonces** el sistema debe actualizar el número de asistentes presentes en tiempo real. | E001 |
+
+#### Epic: Experiencia de Usuario
+##### Epic ID: E002
+###### Título: Mejorar la Experiencia del Asistente
+**Descripción**: Como asistente de eventos, quiero poder encontrar y comprar entradas para eventos fácilmente, para tener una experiencia de usuario fluida y satisfactoria.
+
+| Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
+|----------|--------|-------------|-------------------------|---------------------------|
+| US006    | Búsqueda de Eventos | Como asistente, quiero buscar eventos por categoría, fecha o ubicación, para encontrar los eventos que me interesen. | **Dado** que soy un usuario registrado o invitado,<br>**Cuando** utilizo la barra de búsqueda en Eventify,<br>**Entonces** el sistema debería mostrar los eventos que coincidan con los filtros seleccionados. | E002 |
+| US007    | Compra de Entradas | Como asistente, quiero poder comprar entradas para eventos de manera rápida y segura, para asegurar mi lugar en el evento. | **Dado** que he encontrado un evento al que quiero asistir,<br>**Cuando** selecciono la opción de comprar entradas,<br>**Entonces** el sistema debe permitir la compra de entradas y confirmar la transacción de manera segura. | E002 |
+| US008    | Compartir Ubicación | Como asistente, quiero compartir mi ubicación con otros asistentes en el evento, para facilitar el encuentro en el lugar. | **Dado** que estoy en un evento,<br>**Cuando** uso la opción de compartir ubicación con amigos,<br>**Entonces** el sistema debe enviar mi ubicación actual a los contactos seleccionados. | E002 |
+| US009    | Notificaciones de Eventos | Como asistente, quiero recibir notificaciones sobre eventos que me interesen, para no perderme ninguna oportunidad de asistir. | **Dado** que soy un usuario registrado,<br>**Cuando** sigo un evento o categoría de eventos,<br>**Entonces** el sistema debe enviarme notificaciones relevantes a través de la app o email. | E002 |
+| US010    | Registro en Eventos | Como asistente, quiero poder registrarme para recibir actualizaciones y entradas anticipadas para eventos exclusivos, para asegurar mi lugar en estos eventos. | **Dado** que soy un usuario registrado,<br>**Cuando** me inscribo en la lista de registro de un evento exclusivo,<br>**Entonces** el sistema debe enviarme actualizaciones y la oportunidad de comprar entradas antes que el público general. | E002 |
+
+#### Epic: Desarrollo del API
+##### Epic ID: E003
+###### Título: RESTful API para Gestión de Eventos
+**Descripción**: Como desarrollador, quiero contar con un RESTful API que me permita interactuar con las funcionalidades de gestión de eventos, para integrar Eventify con otras aplicaciones.
+
+| Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
+|----------|--------|-------------|-------------------------|---------------------------|
+| US011    | Endpoint para Crear Eventos | Como desarrollador, quiero un endpoint para crear eventos a través del API, para permitir la integración con otras aplicaciones. | **Dado** que soy un desarrollador utilizando el API de Eventify,<br>**Cuando** envío una petición POST con los detalles del evento,<br>**Entonces** el sistema debe crear el evento y devolver un ID único para el mismo. | E003 |
+| US012    | Endpoint para Venta de Entradas | Como desarrollador, quiero un endpoint que permita la gestión de venta de entradas a través del API, para integrarlo en sistemas de terceros. | **Dado** que soy un desarrollador utilizando el API de Eventify,<br>**Cuando** envío una petición POST para habilitar la venta de entradas para un evento,<br>**Entonces** el sistema debe procesar la solicitud y activar la venta de entradas para el evento especificado. | E003 |
+| US013    | Endpoint para Listar Eventos | Como desarrollador, quiero un endpoint para obtener la lista de eventos disponibles a través del API, para mostrar los eventos en otras aplicaciones. | **Dado** que soy un desarrollador utilizando el API de Eventify,<br>**Cuando** envío una petición GET para listar los eventos,<br>**Entonces** el sistema debe devolver una lista de eventos con sus detalles. | E003 |
+| US014    | Endpoint para Actualizar Evento | Como desarrollador, quiero un endpoint para actualizar la información de un evento, para reflejar cualquier cambio en tiempo real. | **Dado** que soy un desarrollador utilizando el API de Eventify,<br>**Cuando** envío una petición PUT para actualizar detalles de un evento,<br>**Entonces** el sistema debe guardar los cambios y actualizar la información del evento en la base de datos. | E003 |
+| US015    | Endpoint para Eliminar Evento | Como desarrollador, quiero un endpoint para eliminar un evento a través del API, para mantener la base de datos limpia y actualizada. | **Dado** que soy un desarrollador utilizando el API de Eventify,<br>**Cuando** envío una petición DELETE para eliminar un evento,<br>**Entonces** el sistema debe borrar el evento y confirmar la eliminación exitosa. | E003 |
+
+#### Epic: Landing Page
+##### Epic ID: E004
+###### Título: Landing Page Informativa
+**Descripción**: Como visitante, quiero acceder a una página de aterrizaje que me proporcione información clara sobre Eventify, para entender cómo funciona la plataforma y sus beneficios.
+
+| Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
+|----------|--------|-------------|-------------------------|---------------------------|
+| US016    | Información General | Como visitante, quiero acceder a una página que me explique las características principales de Eventify, para entender qué ofrece la plataforma. | **Dado** que soy un visitante de la página,<br>**Cuando** navego por la landing page,<br>**Entonces** debo encontrar secciones que expliquen las características clave de la plataforma, como gestión de eventos, venta de entradas, y promociones. | E004 |
+| US017    | Call-to-Action | Como visitante, quiero ver un llamado a la acción claro en la landing page, para registrarme o aprender más sobre Eventify. | **Dado** que soy un visitante de la página,<br>**Cuando** reviso la landing page,<br>**Entonces** debo encontrar un botón destacado para registrarme o aprender más sobre la plataforma. | E004 |
+| US018    | Sección de Testimonios | Como visitante, quiero leer testimonios de otros usuarios en la landing page, para confiar en la calidad del servicio que ofrece Eventify. | **Dado** que soy un visitante de la página,<br>**Cuando** reviso la landing page,<br>**Entonces** debería poder ver una sección con testimonios reales de usuarios satisfechos. | E004 |
+| US019    | Integración con Redes Sociales | Como visitante, quiero ver la integración de Eventify con redes sociales en la landing page, para conocer cómo puedo compartir eventos fácilmente. | **Dado** que soy un visitante de la página,<br>**Cuando** reviso la landing page,<br>**Entonces** debería encontrar información sobre cómo compartir eventos en redes sociales directamente desde Eventify. | E004 |
+| US020    | Sección de Preguntas Frecuentes | Como visitante, quiero acceder a una sección de preguntas frecuentes en la landing page, para resolver cualquier duda común sobre el uso de Eventify. | **Dado** que soy un visitante de la página,<br>**Cuando** reviso la landing page,<br>**Entonces** debería encontrar una sección de preguntas frecuentes que aborde temas como la creación de eventos, compra de entradas, y soporte técnico. | E004 |
+
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
 
