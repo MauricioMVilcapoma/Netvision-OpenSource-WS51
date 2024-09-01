@@ -417,6 +417,86 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
 ### 2.3. Needfinding
 ### 2.3.1. User Personas
 ### 2.3.2. User Task Matrix
+
+<table style="undefined;table-layout: fixed; width: 550px">
+<tbody>
+<tr>
+    <td rowspan="2">Task Matrix</td>
+    <td colspan="2">Asistente</td>
+    <td colspan="2">Organizador</td>
+  </tr>
+  <tr>
+    <td>Frecuencia</td>
+    <td>Importancia</td>
+    <td>Frecuencia</td>
+    <td>Importancia</td>
+  </tr>
+   <tr>
+    <td>Visualizar anuncios de próximos eventos</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Revisar cuándo se realizan los próximos eventos </td>
+    <td>Alta</td>
+    <td>Alta</td>
+    <td>Baja</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Buscar qué envento me es más relevante</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Analizar el precio de la entrada</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>Baja</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Revisar la seguridad del proceso de compra</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Comprar la entrada para el evento</td>
+    <td>Media</td>
+    <td>Alta</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Establecer la fecha del evento</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Personalizar la página del evento</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Baja</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Promocionar el evento</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  </tbody>
+</table>
+
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
