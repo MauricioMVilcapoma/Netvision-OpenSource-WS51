@@ -413,6 +413,26 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
 - **Pregunta final:** ¿Hay algo más que consideras importante compartir sobre tu experiencia como organizador o asistente de eventos?
 
 ### 2.2.2. Registro de entrevistas
+
+#### Entrevista 1
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Nombre:** Mauriksio Ahmed |
+| **Edad:** 20 años |
+| **Procedencia:** San Isidro, Lima |
+| **Segmento:** Asistente a Eventos |
+| **Resumen:** Mauricio Mondoñedo, un joven de 20 años residente en San Isidro, Lima, es un apasionado asistente de eventos, especialmente de fútbol, debido a la atmósfera vibrante que se vive en los estadios. Prefiere comprar sus entradas a través de Teleticket en línea, ya que considera que adquirirlas de forma presencial es una pérdida de tiempo. Se siente cómodo utilizando aplicaciones móviles y plataformas web para gestionar sus entradas. Mauricio sugiere que las plataformas de compra de boletos deberían incluir una inteligencia artificial que recomiende eventos basados en las preferencias del usuario. Además, considera crucial recibir actualizaciones y notificaciones constantes sobre los eventos a los que asiste para mantenerse informado. También valora la posibilidad de poder comunicarse directamente con el organizador del evento para resolver dudas o recibir información adicional. |
+
+#### Entrevista 2
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Nombre:** Andre Robles |
+| **Edad:** 20 años |
+| **Procedencia:** San Isidro, Lima |
+| **Segmento:** Organizador de Eventos |
+| **Resumen:** Andre Robles, un joven de 20 años residente en San Isidro, Lima, es estudiante y cuenta con 2 años de experiencia en la organización de eventos como una actividad complementaria. Lo motiva principalmente los ingresos que genera esta actividad, y su objetivo a futuro es profesionalizarse en el ámbito de la organización de eventos. Andre considera que un evento es exitoso cuando se superan las ganancias esperadas. Utiliza Excel para la organización y las redes sociales para la promoción de eventos. En cuanto a adoptar una solución "todo en uno", está interesado en explorarlas en el futuro. Uno de los desafíos que menciona es la comunicación y el manejo del presupuesto entre los organizadores. También considera esencial que estas soluciones ofrezcan la posibilidad de crear una página propia para vender tickets directamente, lo cual sería una ventaja significativa para los organizadores de eventos. |
+
+
 ### 2.2.3. Análisis de entrevistas
 ### 2.3. Needfinding
 ### 2.3.1. User Personas
