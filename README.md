@@ -530,32 +530,19 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
 
 #### Captura del AS-IS Scenario Mapping:
 
-| **Phases**                   | **Doing**                                                                                  | **Thinking**                                                                        | **Feeling**                                                           |
-|------------------------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| **Búsqueda de Eventos**      | Busca eventos deportivos, especialmente de fútbol, en plataformas de entradas y en Google.  | "Necesito encontrar el próximo partido de mi equipo favorito."                       | Entusiasmo por encontrar un evento, pero frustración si hay pocos resultados. |
-| **Selección de Entradas**    | Compara precios y ubicaciones de asientos, verifica detalles del evento.                    | "¿Cuál es la mejor opción en términos de precio y ubicación?"                        | Confusión si la información es limitada o si hay tarifas ocultas.            |
-| **Compra de Entradas**       | Completa la compra en línea en la plataforma seleccionada.                                  | "Espero que el proceso sea rápido y seguro."                                         | Estrés si hay problemas con la carga de la página o con los métodos de pago. |
-| **Confirmación de Compra**   | Recibe confirmación por correo y guarda las entradas digitalmente.                          | "¿Qué debo hacer si hay un problema con mi entrada?"                                 | Alivio tras recibir confirmación, pero incertidumbre si la comunicación es escasa. |
-| **Asistencia al Evento**     | Usa la entrada digital para ingresar al evento.                                             | "¿Todo estará organizado según lo previsto?"                                         | Emoción por el evento, pero preocupación si hay cambios inesperados.          |
+![asis1-QMYRzPk0s-transformed](https://github.com/user-attachments/assets/2d56dda4-3055-4811-8aba-0fc423186a76)
 
 #### Áreas Positivas y Negativas:
 - **Positivas:** Comodidad al comprar entradas en línea, accesibilidad a las plataformas.
 - **Negativas:** Falta de recomendaciones personalizadas, información limitada en plataformas, tarifas ocultas.
 
----
-
 ### AS-IS Scenario Mapping para Organizador de Eventos
 
 
-#### AS-IS Scenario Mapping:
+####  Captura del AS-IS Scenario Mapping:
 
-| **Phases**                   | **Doing**                                                                                   | **Thinking**                                                                        | **Feeling**                                                           |
-|------------------------------|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| **Planificación del Evento** | Define el tipo de evento, establece objetivos, elabora un presupuesto inicial.               | "¿Cómo puedo optimizar los costos sin comprometer la calidad?"                       | Desafío por la falta de herramientas integradas y colaborativas.     |
-| **Gestión de Proveedores**   | Coordina la logística con proveedores y socios.                                              | "¿Los proveedores cumplirán a tiempo y dentro del presupuesto?"                      | Ansiedad debido a la comunicación fragmentada y posibles malentendidos. |
-| **Promoción del Evento**     | Crea y publica campañas de marketing en redes sociales para atraer participantes.             | "¿Estoy alcanzando al público adecuado?"                                             | Satisfacción cuando las campañas funcionan, frustración con las limitaciones de análisis. |
-| **Venta de Entradas**        | Usa plataformas de terceros para vender entradas.                                            | "¿Estamos perdiendo ingresos por las comisiones de estas plataformas?"               | Preocupación por el control limitado de la base de datos de clientes. |
-| **Gestión del Evento**       | Supervisa el evento en tiempo real, coordina al equipo y maneja imprevistos.                 | "¿Podré manejar los problemas que surjan de última hora?"                            | Estrés por la falta de comunicación fluida con el equipo en el lugar. |
+![asis2](https://github.com/user-attachments/assets/64e7edcd-07fc-4d94-a05b-abfd5e3ec5a4)
+
 
 #### Áreas Positivas y Negativas:
 - **Positivas:** Uso efectivo de redes sociales para la promoción, manejo básico de presupuestos.
