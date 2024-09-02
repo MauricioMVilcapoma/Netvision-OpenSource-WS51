@@ -642,6 +642,9 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
 | US020    | Sección de Preguntas Frecuentes | Como visitante, quiero acceder a una sección de preguntas frecuentes en la landing page, para resolver cualquier duda común sobre el uso de Eventify. | **Dado** que soy un visitante de la página,<br>**Cuando** reviso la landing page,<br>**Entonces** debería encontrar una sección de preguntas frecuentes que aborde temas como la creación de eventos, compra de entradas, y soporte técnico. | E004 |
 
 ## 3.3. Impact Mapping
+
+![impact map](https://github.com/user-attachments/assets/45560468-1200-447d-ae94-d3edb10de08f)
+
 ## 3.4. Product Backlog
 
 # 4. Capítulo IV: Product Design
