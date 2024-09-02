@@ -647,6 +647,26 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
 
 ## 3.4. Product Backlog
 
+
+| **# Orden** | **User Story ID** | **Título**                      | **Descripción**                                                                                                                    | **Story Points (1/2/3/5/8)** |
+|-------------|-------------------|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
+| 1           | US017             | Call-to-Action                  | Como visitante, quiero ver un llamado a la acción claro en la landing page, para registrarme o aprender más sobre Eventify.          | 3                            |
+| 2           | US016             | Información General             | Como visitante, quiero acceder a una página que me explique las características principales de Eventify, para entender qué ofrece la plataforma. | 3                            |
+| 3           | US019             | Integración con Redes Sociales  | Como visitante, quiero ver la integración de Eventify con redes sociales en la landing page, para conocer cómo puedo compartir eventos fácilmente. | 2                            |
+| 4           | US002             | Venta de Entradas               | Como organizador, quiero habilitar la venta de entradas para mi evento, para que los asistentes puedan comprarlas de manera sencilla y segura. | 5                            |
+| 5           | US007             | Compra de Entradas              | Como asistente, quiero poder comprar entradas para eventos de manera rápida y segura, para asegurar mi lugar en el evento.          | 5                            |
+| 6           | US001             | Creación de Evento              | Como organizador, quiero poder crear un evento especificando detalles como nombre, fecha, lugar, y descripción, para tener toda la información centralizada. | 5                            |
+| 7           | US018             | Sección de Testimonios          | Como visitante, quiero leer testimonios de otros usuarios en la landing page, para confiar en la calidad del servicio que ofrece Eventify. | 2                            |
+| 8           | US009             | Notificaciones de Eventos       | Como asistente, quiero recibir notificaciones sobre eventos que me interesen, para no perderme ninguna oportunidad de asistir.       | 3                            |
+| 9           | US003             | Promoción de Evento             | Como organizador, quiero poder promocionar mi evento a través de diferentes canales integrados en la plataforma, para atraer más asistentes. | 8                            |
+| 10          | US004             | Gestión de Invitados            | Como organizador, quiero gestionar la lista de invitados, para tener un control claro sobre quiénes asistirán al evento.            | 3                            |
+| 11          | US006             | Búsqueda de Eventos             | Como asistente, quiero buscar eventos por categoría, fecha o ubicación, para encontrar los eventos que me interesen.                | 3                            |
+| 12          | US010             | Registro en Eventos             | Como asistente, quiero poder registrarme para recibir actualizaciones y entradas anticipadas para eventos exclusivos, para asegurar mi lugar en estos eventos. | 3                            |
+| 13          | US005             | Seguimiento de Asistencia       | Como organizador, quiero hacer seguimiento de la asistencia en tiempo real, para saber cuántas personas han llegado al evento.      | 5                            |
+| 14          | US020             | Sección de Preguntas Frecuentes | Como visitante, quiero acceder a una sección de preguntas frecuentes en la landing page, para resolver cualquier duda común sobre el uso de Eventify. | 2                            |
+| 15          | US008             | Compartir Ubicación             | Como asistente, quiero compartir mi ubicación con otros asistentes en el evento, para facilitar el encuentro en el lugar.           | 3                            |
+
+
 # 4. Capítulo IV: Product Design
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
