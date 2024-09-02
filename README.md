@@ -666,6 +666,13 @@ Una plataforma "todo en uno" que facilite la gestión de eventos, permita la cre
 # 3. Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
+
+**Asistente de eventos**
+  <img src="https://cdn.discordapp.com/attachments/531875410770788373/1280047073734955038/asistente_de_eventos.jpeg?ex=66d6a83c&is=66d556bc&hm=fc48abbf1bd3fdd978aa2d5cacf2c396ce70b84dcf09bb0ee314585120874433&"/>
+
+**Organizador de eventos**
+  <img src="https://media.discordapp.net/attachments/531875410770788373/1280047074230013982/organizador_de_eventos.jpeg?ex=66d6a83c&is=66d556bc&hm=1c8ce585f672e3180547942203b704e060902c48d802c7521f6052cc23f66764&"/>
+
 ## 3.2. User Stories
 
 #### Epic: Gestión de Eventos
