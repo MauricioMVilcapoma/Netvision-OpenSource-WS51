@@ -436,86 +436,11 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
 ### 2.2.3. Análisis de entrevistas
 ### 2.3. Needfinding
 ### 2.3.1. User Personas
-**Segmento:** Asistente a Eventos
+**ASISTENTE DE EVENTOS**
+![Mauriksio Ahmed](https://github.com/user-attachments/assets/a37ab54a-4daf-4b3e-8aaa-a914a9ae2d00)
 
-**Información Personal:**
-
-- **Nombre:** Mauriksio Ahmed
-- **Edad:** 20 años
-- **Ubicación:** San Isidro, Lima, Perú
-- **Ocupación:** Estudiante universitario y asistente frecuente de eventos
-
-**Contexto Personal:**
-
-- Vive en San Isidro, Lima, y asiste a eventos regularmente, especialmente de fútbol.
-- Altamente familiarizado con la tecnología, usa aplicaciones móviles y plataformas web para comprar entradas.
-- Prefiere usar su smartphone para transacciones y gestión de eventos.
-- Busca aplicaciones con experiencias de usuario fluidas y recomendaciones basadas en intereses.
-
-**Motivaciones y Necesidades:**
-
-- **Conveniencia:** Prefiere métodos rápidos y eficientes para comprar entradas.
-- **Personalización:** Desea recibir recomendaciones de eventos que coincidan con sus intereses.
-- **Información Actualizada:** Considera crucial recibir notificaciones automáticas sobre los eventos.
-- **Interacción Directa:** Valora poder comunicarse con los organizadores de eventos para resolver dudas.
-
-**Frustraciones:**
-
-- **Pérdida de tiempo:** Encuentra frustrante comprar entradas presencialmente.
-- **Falta de Personalización:** Se siente decepcionado si no recibe recomendaciones relevantes.
-- **Comunicación Inadecuada:** Se molesta si no obtiene respuestas rápidas o información clara.
-
-**Objetivos:**
-
-- Optimizar su experiencia en eventos utilizando herramientas digitales.
-- Acceso a información relevante sobre los eventos a los que asiste.
-- Tener una experiencia personalizada en la gestión de sus eventos.
-
-**Solución Ideal:**
-
-Una plataforma que facilite la compra rápida y segura de entradas, ofrezca recomendaciones personalizadas basadas en sus preferencias, y proporcione actualizaciones constantes sobre los eventos, además de permitir la comunicación directa con los organizadores.
-
-
-
-**Segmento:** Organizador de Eventos
-
-**Información Personal:**
-
-- **Nombre:** Andre Robles
-- **Edad:** 20 años
-- **Procedencia:** San Isidro, Lima
-- **Ocupación:** Estudiante y organizador de eventos
-
-**Contexto Personal/Comportamiento Digital:**
-
-- Reside en San Isidro, Lima, y organiza eventos como una actividad complementaria.
-- Utiliza Excel para la organización y redes sociales para la promoción de eventos.
-- Está interesado en explorar soluciones "todo en uno" en el futuro.
-- Prefiere herramientas que integren múltiples funcionalidades para simplificar la gestión de eventos.
-
-**Motivaciones y Necesidades:**
-
-- **Ingresos:** Lo motiva principalmente los ingresos generados por la organización de eventos.
-- **Profesionalización:** Desea profesionalizarse en el ámbito de la organización de eventos.
-- **Éxito del Evento:** Considera que un evento es exitoso cuando se superan las ganancias esperadas.
-- **Facilidad de Uso:** Busca herramientas que le permitan una gestión eficiente y simplificada de eventos.
-
-**Frustraciones:**
-
-- **Comunicación:** Encuentra desafiante la comunicación y el manejo del presupuesto entre los organizadores.
-- **Presupuesto:** La gestión del presupuesto puede ser complicada sin una herramienta adecuada.
-- **Falta de Integración:** Siente que las soluciones actuales no ofrecen la posibilidad de crear una página propia para vender tickets directamente.
-
-**Objetivos:**
-
-- Optimizar la organización de eventos para mejorar la eficiencia y los ingresos.
-- Explorar soluciones integradas que ofrezcan funcionalidades completas para la gestión de eventos.
-- Superar las expectativas de ganancias en cada evento.
-
-**Solución Ideal:**
-
-Una plataforma "todo en uno" que facilite la gestión de eventos, permita la creación de una página propia para la venta de tickets, y ofrezca herramientas integradas para mejorar la comunicación y el manejo del presupuesto entre organizadores.
-
+**ORGANIZADOR DE EVENTOS**
+![Andre Robles](https://github.com/user-attachments/assets/849f7a58-25e4-4800-9eb7-e352c3458aad)
 ### 2.3.2. User Task Matrix
 
 <table style="undefined;table-layout: fixed; width: 550px">
