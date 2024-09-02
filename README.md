@@ -524,6 +524,15 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
 
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
+
+#### Empathy Mapping para Asistente de Eventos
+![Empathy map (1)](https://github.com/user-attachments/assets/110e4be2-0e1c-45eb-9c04-302fed79adef)
+
+
+#### Empathy Mapping para Organizador de Eventos
+![Empathy map](https://github.com/user-attachments/assets/b8804059-cd51-42b5-a48b-d7246aef07e7)
+
+
 ### 2.3.5. As-is Scenario Mapping
 
 ### AS-IS Scenario Mapping para Asistente de Eventos
