@@ -668,10 +668,12 @@ Una plataforma "todo en uno" que facilite la gestión de eventos, permita la cre
 ## 3.1. To-Be Scenario Mapping
 
 **Asistente de eventos**
-  <img src="https://cdn.discordapp.com/attachments/531875410770788373/1280047073734955038/asistente_de_eventos.jpeg?ex=66d6a83c&is=66d556bc&hm=fc48abbf1bd3fdd978aa2d5cacf2c396ce70b84dcf09bb0ee314585120874433&"/>
+![asistente de eventos](https://github.com/user-attachments/assets/8d9ec320-21b1-44e5-b13d-46fdf3b28336)
+
 
 **Organizador de eventos**
-  <img src="https://media.discordapp.net/attachments/531875410770788373/1280047074230013982/organizador_de_eventos.jpeg?ex=66d6a83c&is=66d556bc&hm=1c8ce585f672e3180547942203b704e060902c48d802c7521f6052cc23f66764&"/>
+![organizador de eventos](https://github.com/user-attachments/assets/2acf21ab-c241-48a4-b7b2-ab14251ef02e)
+
 
 ## 3.2. User Stories
 
