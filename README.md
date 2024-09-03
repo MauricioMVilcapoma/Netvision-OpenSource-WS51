@@ -716,12 +716,85 @@ Este color se utilizará para contrastar ciertos recuadros y diferenciarlos del 
 Para los estándares visuales hemos decidido que las imágenes que utilizaremos sean de alta calidad, al igual que estas deban estar vinculadas al ámbito musical o de eventos. Para ello se emplearán ilustraciones de escenarios, publico en eventos, entre otros. 
 En lo que respecta a los espacios y el diseño buscamos que este sea limpio, intuitivo y organizado. Para lograrlo se deberá aplicar un espaciado adecuado entre los elementos visuales.
 
+
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
+
+En nuestra app web de venta de boletos para eventos, se diseñaron distintos sistemas de organización de la información con el fin proporcionar una experiencia de usuario eficiente e intuitiva.
+
+Para la organización visual del contenido se decidió por una que combine tanto elementos jerárquicos como secuenciales con la finalidad de brindar comprensión por parte del usuario y facilidad de navegación para este último.
+
+**Visual Hierarchy:** En la página principal, los eventos cuya fecha esté más próxima serán los que suelan visualizarse, esto para darle información al usuario sobre los eventos más cercanos.
+
+**Step-by-step:** Durante el proceso de creación de un perfil de usuario o en el proceso de compra de un boleto, se guiará al usuario por medio de pasos secuenciales con el fin de esclarecer todo el proceso y evitar confusiones.
+
+Para la categorización de contenido se aplicarán categorías con el objetivo de facilitar la búsqueda y exploración por los múltiples eventos.
+
+**Cronológico:** Los eventos estarán ordenados de forma cronológica mostrando los eventos más próximos primero y descendiendo hasta los que se encuentren más alejados de su fecha.
+
+**Alfabético:** Se ordenarán alfabéticamente los nombres de los eventos para que, los usuarios que deseen, los encuentren de esa manera.
+
+**Por tópicos:** Se categorizarán los eventos en base al tipo de estos últimos, ya sean conciertos, obras de teatro, ferias gastronmicas entre otros.
+
+**Por audiencia:** En base al tipo de usuario, sea este un asistente a evento o un organizador, se le facilitará en acceso a apartados y herramientas específicas que satisfagan sus necesidades.
+
 ### 4.2.2. Labeling Systems
+
+Para el óptimo funcionamiento de nuestra aplicación web nos es primordial presentar los datos de manera clara y concisa con el fin de evitar confusiones y mejorar la navegación de los usuarios.
+
+El etiquetado de los eventos será de tal manera que se incluya información relevante.
+
+*Nombre del evento*
+
+*Fecha y hora*
+
+*Precio de entrada*
+
+*Ubicación*
+
+
 ### 4.2.3. SEO Tags and Meta Tags
+
+**Landing Page**
+
+**Title:** "Descubre los eventos más cercanos y no te pierdas de ninguno"
+
+**Meta Tags:**
+
+**Description:** "Descubre y explora todos los eventos cerca de ti. Únete a nosotros y disfruta de cada uno con total comodidad."
+
+**Keywords:** "Eventos, Conciertos, Obras de teatro, Ferias de arte, Ferias gastronómicas, Funciones de cine, Eventos deportivos, Descubrimiento de eventos."
+
+**Author:** "NetVision - Eventify"
+
+
+**Web Application**
+
+**Title:** "Explora tus eventos más próximos"
+
+**Meta Tags:**
+
+**Description:** "Explora una gran variedad de eventos próximos a acontecer cerca tuyo. Descubre la mejor manera de poder formar parte del próximo."
+
+**Keywords:** "Explorar eventos, Conciertos, Obras de teatro, Ferias de arte, Ferias gastronómicas, Funciones de cine, Eventos deportivos, Compra de boletos."
+
+**Author:** "NetVision - Eventify"
+
+
 ### 4.2.4. Searching Systems
+
+En las opciones de búsqueda planteadas para nuestro proyecto se busca brindar al usuario la capacidad de encontrar eventos que cumplan sus criterios y preferencias, esto con la finalidad que reduzcan la cantidad de información a su conveniencia. 
+
+Se incluirá una barra de búsqueda visible en todo momento en la página principal, al igual que en el resto de las páginas relevantes de nuestra aplicación. En esta los usuarios tendrán la capacidad de buscar eventos en particular ingresando palabras clave como el nombre del evento, tipo de evento, ubicaciones entre otros.
+
+Se utilizarán también filtros de búsqueda con el fin de brindarle la información al usuario en base a sus criterios. Entre estos filtros se encuentran el de precio, en este el usuario podrá ingresar el rango de precio que desee; categorías, se le brindará una serie de etiquetas referentes al tipo de categorías de eventos; ciudad, se mostrarán múltiples etiquetas con las distintas localidades con eventos próximos; y fechas, en esta el usuario podrá ingresar un rango de fechas.
+
+Luego de ingresadas las palabras clave o filtros deseados se procederá a mostrar los resultados de la búsqueda. En esta se mostrará una serie de cartas las cuales contendrán la información relevante de los eventos que cumplen los criterios deseados por el usuario.
+
 ### 4.2.5. Navigation Systems
+
+Se optó por el uso del componente denominado 'Breadcrumb' (migas de pan) para poder facilitar la navegación de los usuarios. Este tiene la capacidad de informar al usuario con respecto a la ubicación actual de la página que esté actualmente visitando, así como de las que exploró previamente para llegar a la que está. 
+
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 ### 4.3.2. Landing Page Mock-up
