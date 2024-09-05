@@ -802,7 +802,20 @@ Se optó por el uso del componente denominado 'Breadcrumb' (migas de pan) para p
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+
+![LandingPageWireframe](https://github.com/user-attachments/assets/c9670f28-84e6-4def-b451-ebfef65c8bbb)
+
+- **Principios de diseño**: El wireframe establece una jerarquía visual clara con el título principal "Your Ultimate Event Experience Awaits" que atrae la atención de inmediato, seguido por botones de llamada a la acción (CTAs) visibles como "Explore Now". Las secciones están bien espaciadas y alineadas, facilitando la lectura y navegación de la página.
+- **Diseño inclusivo**: Se prioriza la accesibilidad con botones grandes y etiquetas bien definidas que permiten a los usuarios interactuar fácilmente, incluso aquellos con menos experiencia tecnológica. Además, el diseño evita la sobrecarga cognitiva al mantener el contenido claro y conciso.
+- **Arquitectura de información**: El contenido está bien estructurado, comenzando con una introducción que da paso a eventos destacados, información sobre los servicios ofrecidos y una categorización clara de eventos adicionales. El menú en la parte superior facilita una navegación rápida hacia secciones clave como "Contact Us" para acceder a información de contacto sin sobrecargar la página.
 ### 4.3.2. Landing Page Mock-up
+
+![Landing-Page-Mock-Ups](https://github.com/user-attachments/assets/d5fda79b-7a47-462f-bfcb-d2631fc7518c)
+
+- **Principios de diseño**: El mock-up añade estilo y color, utilizando un esquema de colores contrastantes (azul oscuro y amarillo) que atrae la atención a los elementos importantes sin resultar abrumador. La tipografía es coherente y legible, con encabezados destacados que guían a los usuarios por el contenido de manera intuitiva.
+- **Diseño inclusivo**: El mock-up demuestra un diseño adaptable, optimizado tanto para escritorio como para dispositivos móviles. Las versiones móviles conservan la jerarquía visual y accesibilidad, asegurando que la navegación y la interacción sean igualmente fluidas y eficaces en pantallas pequeñas. Se utiliza un buen contraste para mejorar la legibilidad, beneficiando a los usuarios con discapacidades visuales leves.
+- **Arquitectura de información**: Se mantiene la estructura lógica del wireframe, con botones de acción clave como "Learn More" y "Book Now" fácilmente accesibles y bien distribuidos en toda la página. El diseño organiza el contenido de manera coherente, garantizando que los usuarios puedan encontrar rápidamente lo que buscan sin distracciones.
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
