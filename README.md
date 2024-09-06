@@ -843,8 +843,23 @@ Se optó por el uso del componente denominado 'Breadcrumb' (migas de pan) para p
 
 - Wireframes de la sección eventos
 ![Popular Events (2)](https://github.com/user-attachments/assets/c2ea501a-30a6-4eb6-b7ba-a645e759748a)
+Enlace a los wireframes de la App Web en Figma: https://www.figma.com/design/Yt9EEcER3gZwHsZXLPUeuC/wireframes?node-id=27-418&t=V8Wk4aipe7vwQ1B9-1
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+**User goal, usuario inicia sesion, se registra y recupera su contraseña**
+![wireflow-sesion](https://github.com/user-attachments/assets/24aba0d9-9138-4258-b2b0-ef22ca08071e)
+
+**Descripcion**
+Al iniciar la aplicación, el usuario se encuentra en la página inicio, donde puede iniciar sesión mediante correo electrónico o las plataformas de Google y Facebook. El usuario también puede registrar una nueva cuenta utilizando su correo electrónico o las plataformas mencionadas anteriormente. En caso de olvidar su contraseña, el usuario tiene la opción de recuperarla utilizando su correo electrónico.
+
+**User goal,compra de una entrada para un evento en especifico**
+![wireflow-evento](https://github.com/user-attachments/assets/dc7c758e-9afb-446f-8261-3d0e5580212c)
+
+**Descripcion**
+El recorrido inicia en una pantalla de categorías, donde el usuario puede seleccionar diferentes tipos de eventos. Después de elegir una categoría, se muestra una lista de eventos disponibles, con opciones para ver más detalles. Finalmente, el usuario llega a la sección de precios donde puede seleccionar y comprar entradas, además de ver opciones adicionales
+
+Enlace a los Wireflow Diagrams en la App Web lucidchart: https://lucid.app/lucidchart/249a2f6a-bf8d-48d8-8223-bc2953a7eddd/edit?invitationId=inv_71d29885-5c72-49e4-ac10-53526a9c92fb&page=0_0
+
 ### 4.4.2. Web Applications Mock-ups
 ### 4.4.3. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
