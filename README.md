@@ -824,8 +824,17 @@ Se optó por el uso del componente denominado 'Breadcrumb' (migas de pan) para p
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
+![structurizr-94825-SystemContext-001](https://github.com/user-attachments/assets/d94fbade-ba62-4a1d-8f3c-3be850609495)
+![structurizr-94825-SystemContext-001-key](https://github.com/user-attachments/assets/d69df320-7319-4b5c-93cb-daea37a06659)
+
 ### 4.6.2. Software Architecture Container Diagrams
+![structurizr-94827-Container-001](https://github.com/user-attachments/assets/1af2782e-fef4-4fbd-927d-382419a415a0)
+![structurizr-94827-Container-001-key](https://github.com/user-attachments/assets/4739b982-9900-4d04-92ef-6e0db1591bad)
+
 ### 4.6.3. Software Architecture Components Diagrams
+![structurizr-94832-Component-001](https://github.com/user-attachments/assets/559b45a9-fb33-4857-bfaa-95cdff0d6602)
+![structurizr-94832-Component-001-key](https://github.com/user-attachments/assets/8e24fc47-46e0-4cde-ba20-3b88ad1ae154)
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 ### 4.7.2. Class Dictionary
