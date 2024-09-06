@@ -818,6 +818,32 @@ Se optó por el uso del componente denominado 'Breadcrumb' (migas de pan) para p
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+- Wireframe de la sección ventana principal
+![Main-Desktop (1)](https://github.com/user-attachments/assets/272768c8-4df5-4c09-a1cd-67896e745c12)
+
+- Wireframes de la sección inicio de sesión
+![Iniciar sesión 1](https://github.com/user-attachments/assets/830c647a-d6db-4d88-9b9e-d6d33e55aa02)
+![Iniciar sesión 2](https://github.com/user-attachments/assets/485202d6-87a6-4ead-b5ea-f2aa49ff3d30)
+
+- Wireframes de la sección registro
+![Registro (desktop) (1)](https://github.com/user-attachments/assets/4ad318b4-075d-4fc8-abcb-5bc78ad8f204)
+![Editar Cuenta (desktop)](https://github.com/user-attachments/assets/28ef6e6a-efb6-4e75-bdc9-c20f6777f8b8)
+
+- Wireframes de la sección editar cuenta & perfil
+![Editar Perfil (desktop)](https://github.com/user-attachments/assets/e4908c84-08dc-499e-83b9-a920058ff766)
+
+- Wireframes de la sección recuperar contraseña
+![Recuperar contraseña (desktop) (1)](https://github.com/user-attachments/assets/516a8ced-e8ae-4506-b395-18595656baa8)
+
+- Wireframes de la sección reviews
+![Reviews](https://github.com/user-attachments/assets/27c28b8d-9fcb-4cc4-99e8-daf50f10016a)
+
+- Wireframes de la sección categorias
+![categorias (2)](https://github.com/user-attachments/assets/b11ecd93-2a44-44fa-b8a5-216114d513e2)
+
+- Wireframes de la sección eventos
+![Popular Events (2)](https://github.com/user-attachments/assets/c2ea501a-30a6-4eb6-b7ba-a645e759748a)
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.2. Web Applications Mock-ups
 ### 4.4.3. Web Applications User Flow Diagrams
