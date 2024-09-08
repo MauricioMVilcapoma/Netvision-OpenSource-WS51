@@ -190,6 +190,30 @@ El segmento inicial de Eventify se enfocará en organizadores de eventos profesi
 8. **How Much (Cuánto):**  
    La ineficiencia en la gestión de eventos puede resultar costosa en términos de tiempo y recursos. Eventify busca reducir estos costos al centralizar y simplificar la gestión de eventos, proporcionando una opción más económica y efectiva.
 
+#### 1.2.2.2. Lean UX Assumptions
+1. **Asunción 1:** Los organizadores de eventos pequeños prefieren una plataforma que ofrezca personalización sin costos adicionales.
+
+2. **Asunción 2:** Los asistentes a eventos están más inclinados a comprar boletos si el proceso es sencillo y rápido.
+
+3. **Asunción 3:** Los organizadores necesitan herramientas integradas para la promoción de eventos y la venta de boletos.
+
+4. **Asunción 4:** Las empresas buscan estadísticas en tiempo real sobre la venta de boletos y la participación en eventos.
+
+5. **Asunción 5:** Una interfaz intuitiva y un soporte técnico efectivo son cruciales para la adopción de la plataforma.
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+1. **Hipótesis 1:** Creemos que al ofrecer a los organizadores de eventos una plataforma que permita la personalización, aumentaremos su satisfacción y fidelidad. Sabremos que hemos tenido éxito cuando notemos un incremento en el número de eventos repetidos por los mismos organizadores dentro de los primeros seis meses.
+
+2. **Hipótesis 2:** Creemos que al simplificar y agilizar el proceso de compra de boletos, los asistentes estarán más inclinados a adquirir boletos con mayor frecuencia. Sabremos que hemos tenido éxito cuando notemos un aumento en las ventas de boletos en eventos nuevos.
+
+3. **Hipótesis 3:** Creemos que al integrar herramientas de promoción y venta de boletos en una sola plataforma, facilitaremos la gestión de eventos para los organizadores. Sabremos que hemos tenido éxito cuando notemos que al menos el 50% de los organizadores utilizan las herramientas integradas para más del 60% de sus eventos.
+
+4. **Hipótesis 4:** Creemos que al proporcionar estadísticas en tiempo real sobre la venta de boletos y la participación en eventos, las empresas tomarán decisiones más informadas y eficientes. Sabremos que hemos tenido éxito cuando notemos que más del 50% de las empresas revisan las estadísticas diariamente para ajustar sus estrategias de marketing y ventas.
+
+5. **Hipótesis 5:** Creemos que al diseñar una interfaz intuitiva y ofrecer soporte técnico efectivo, facilitaremos la adopción de la plataforma por parte de nuevos usuarios. Sabremos que hemos tenido éxito cuando notemos que los nuevos usuarios completan su primer evento sin necesidad de asistencia adicional dentro del primer mes de uso.
+
+#### 1.2.2.4. Lean UX Canvas
+![LeanUXCanvas](LeanUXCanvas.png)
 ---
 
 # 2. Capítulo II: Requirements Elicitation & Analysis
