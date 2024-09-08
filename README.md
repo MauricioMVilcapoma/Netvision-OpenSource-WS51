@@ -1161,8 +1161,23 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 | **Sprint 1 Velocity**              | 5 Points                                                                                             |
 | **Sum of Story Points**            | 5   Points
 
-#### 5.2.X.2. Sprint Backlog n
-aa
+#### 5.2.2.2. Sprint Backlog 1
+
+| **Sprint #** | **Sprint 1** |
+|--------------|--------------|
+
+| **User Story** | **Work-Item / Task** |
+|--------------|--------------|
+
+| **Id**        | **Title**                                | **Id**  | **Title**                     | **Description**                                                    | **Estimation (Hours)** | **Assigned To**                    | **Status** |
+|--------------|------------------------------------------|---------|-------------------------------|--------------------------------------------------------------------|------------------------|-----------------------------------|------------|
+| US001        | Definir estructura de la landing page     | T001    | Crear estructura HTML          | Implementar la estructura básica de la landing page en HTML.       | 4                      | Ramiro Guzman        | Done       |
+| US001        | Definir estructura de la landing page     | T002    | Estilizar con CSS              | Aplicar el diseño visual utilizando CSS, siguiendo los lineamientos del proyecto. | 6                      | Mauricio Muñoz         | Done       |
+| US002        | Implementar elementos interactivos        | T003    | Configurar carrusel de imágenes | Desarrollar el componente de carrusel para mostrar imágenes en la landing page. | 5                      | Ramiro Guzman        | Done       |
+| US002        | Implementar elementos interactivos        | T004    | Crear formularios de contacto  | Crear y validar los formularios de contacto en la landing page.    | 3                      | Piero Velarde        | Done       |
+| US003        | Pruebas y ajustes finales                 | T005    | Realizar pruebas de funcionalidad | Ejecutar pruebas para asegurar que todos los elementos interactivos funcionen correctamente. | 2                      | Alessandro Zevallos       | Done       |
+| US003        | Pruebas y ajustes finales                 | T006    | Ajustar según feedback         | Modificar elementos de diseño y funcionalidad basado en el feedback recibido. | 4                      | Jhon Huamani        | Done       |
+
 #### 5.2.X.3. Development Evidence for Sprint Review
 aa
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review
