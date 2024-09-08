@@ -1147,8 +1147,20 @@ Commits de evidencia del trabajo
 ### 5.2.1. Sprint 1
 Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing page para el proyecto Eventify. En este sprint, nos dedicamos a diseñar y construir la interfaz inicial que los usuarios verán al acceder a la plataforma. Este esfuerzo fue crucial para definir la estética y la estructura de nuestra página de inicio, asegurando que cumpliera con los requisitos de diseño moderno y funcionalidad necesarios para captar la atención de los usuarios y proporcionar una primera impresión efectiva.
 
-#### 5.2.X.1. Sprint Planning n
-aa
+#### 5.2.1.1. Sprint Planning 1
+| **Sprint #**                        | 1                                                                                              |
+|-----------------------------------|------------------------------------------------------------------------------------------------------------|
+| **Date**                           | 2024-008-30                                                                                                 |
+| **Time**                           | 11:00 PM                                                                                                    |
+| **Location**                       | Zoom Meetings                                                                                   |
+| **Prepared By**                    | Ramiro Guzman                                                                              |
+| **Attendees (to planning meeting)**| Guzman Chavez Alexander Ramiro - U202217062 <br>Huamani Aguilar Jhon Rony - U20211d859<br>Muñoz Vilcapoma Mauricio Rigoberto - U202217212  <br>Velarde Luyo Piero Alberto - U20211A620<br>Zevallos Linares Alessandro Netto - U202216035 |
+| **Sprint 1 – 1 Review Summary**    |Landing Page.                                                 |
+| **Sprint 1 – 1 Retrospective Summary** | Basado en la retroalimentación del Sprint anterior, se identificaron áreas clave para mejorar la eficiencia del equipo y la calidad del producto. La revisión de la landing page reveló que, aunque se cumplió con los objetivos iniciales, hubo desafíos en la integración de elementos interactivos y en la consistencia del diseño visual. El equipo acordó que era crucial abordar estos problemas en el próximo sprint para asegurar una experiencia de usuario fluida. Además, se decidió implementar revisiones más frecuentes y establecer una documentación más clara del proceso para evitar malentendidos y mejorar la colaboración. La planificación del Sprint 1 se centra en aplicar estas lecciones aprendidas, optimizando el diseño y la funcionalidad de la landing page para cumplir con los estándares de calidad y las expectativas del Product Owner. |
+| **Sprint 1 Goal**                  |  Definir la estructura y el diseño de la landing page, asegurando que cumpla con los requisitos de funcionalidad y estética establecidos. El objetivo es crear una página que no solo sea visualmente atractiva sino también funcional, con una navegación intuitiva y adaptabilidad a dispositivos móviles. Este sprint busca sentar las bases para el desarrollo continuo de la plataforma, estableciendo un diseño que facilite la implementación de características futuras y mejore la experiencia del usuario.                                                     |
+| **Sprint 1 Velocity**              | 5 Points                                                                                             |
+| **Sum of Story Points**            | 5   Points
+
 #### 5.2.X.2. Sprint Backlog n
 aa
 #### 5.2.X.3. Development Evidence for Sprint Review
