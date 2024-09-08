@@ -1102,6 +1102,7 @@ Link LucidChart: https://lucid.app/lucidchart/57f1a752-5aae-4d38-b2b1-5afe0d980e
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
+![Eventify- App Web](https://hackmd.io/_uploads/HyMk8rtnA.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
