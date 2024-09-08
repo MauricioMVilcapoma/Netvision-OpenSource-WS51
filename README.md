@@ -1124,7 +1124,8 @@ En esta sección, se definen las herramientas utilizadas en cada fase del desarr
 | Markdown           | Lenguaje de marcado que permite la documentación técnica, utiliza un formato de texto sencillo fácil de convertir en HTML. | [Markdown Guide](https://www.markdownguide.org/)                                             |
 
 ### 5.1.2. Source Code Management
-|Nombre completo | Nombre de la cuenta|
+| Nombre completo | Nombre de la cuenta|
+| ------------------ |------------------------- |
 | Ramiro Alexander Guzman Chavez | RamiroGuzmanCh | 
 | Jhon Rony Huamani Aguilar | JhonHuam | 
 | Alessandro Netto Zevallos Linares | OutBreakAZL |
@@ -1143,6 +1144,15 @@ Commits de evidencia del trabajo
 
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
+Nuestro proyecto está alojado en un repositorio de GitHub y para el despliegue de nuestro landing page se a usado el GithubPages, ya que es una excelente manera de mostrar tu sitio web de forma gratuita y accesible en línea
+![Captura de pantalla 2024-09-07 210111](https://github.com/user-attachments/assets/5b352da3-4738-4cc3-b6da-a5eb811d0fcc)
+
+Se a subido todos los archivos que conforman en landign Page, tanto como los archivos HTML, CSS y JS.
+![Captura de pantalla 2024-09-07 210358](https://github.com/user-attachments/assets/4dfdb6d0-f1fd-4d4b-9813-d5343f4a5df9)
+
+Y por ultimo se carga todo y se genera un enlace de pagina web donde esta se encuentra nuestro landing Page
+[Enlace del landing Page](https://mauriciomvilcapoma.github.io/LandingPageEventify/)
+
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing page para el proyecto Eventify. En este sprint, nos dedicamos a diseñar y construir la interfaz inicial que los usuarios verán al acceder a la plataforma. Este esfuerzo fue crucial para definir la estética y la estructura de nuestra página de inicio, asegurando que cumpliera con los requisitos de diseño moderno y funcionalidad necesarios para captar la atención de los usuarios y proporcionar una primera impresión efectiva.
