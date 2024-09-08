@@ -827,7 +827,7 @@ Se optó por el uso del componente denominado 'Breadcrumb' (migas de pan) para p
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 
-![LandingPageWireframe](https://github.com/user-attachments/assets/c9670f28-84e6-4def-b451-ebfef65c8bbb)
+![EventifyLandingPage](https://github.com/user-attachments/assets/6f93f339-0c8a-4441-8f85-b5b338e31d67)
 
 - **Principios de diseño**: El wireframe establece una jerarquía visual clara con el título principal "Your Ultimate Event Experience Awaits" que atrae la atención de inmediato, seguido por botones de llamada a la acción (CTAs) visibles como "Explore Now". Las secciones están bien espaciadas y alineadas, facilitando la lectura y navegación de la página.
 - **Diseño inclusivo**: Se prioriza la accesibilidad con botones grandes y etiquetas bien definidas que permiten a los usuarios interactuar fácilmente, incluso aquellos con menos experiencia tecnológica. Además, el diseño evita la sobrecarga cognitiva al mantener el contenido claro y conciso.
