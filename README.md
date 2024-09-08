@@ -1144,23 +1144,42 @@ Commits de evidencia del trabajo
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation
-### 5.2.X. Sprint n
+### 5.2.1. Sprint 1
+Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing page para el proyecto Eventify. En este sprint, nos dedicamos a diseñar y construir la interfaz inicial que los usuarios verán al acceder a la plataforma. Este esfuerzo fue crucial para definir la estética y la estructura de nuestra página de inicio, asegurando que cumpliera con los requisitos de diseño moderno y funcionalidad necesarios para captar la atención de los usuarios y proporcionar una primera impresión efectiva.
+
 #### 5.2.X.1. Sprint Planning n
+aa
 #### 5.2.X.2. Sprint Backlog n
+aa
 #### 5.2.X.3. Development Evidence for Sprint Review
+aa
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review
+aa
 #### 5.2.X.5. Execution Evidence for Sprint Review
+aa
 #### 5.2.X.6. Services Documentation Evidence for Sprint Review
+aa
 #### 5.2.X.7. Software Deployment Evidence for Sprint Review
+aa
 #### 5.2.X.8. Team Collaboration Insights during Sprint
+aa
 ## 5.3. Validation Interviews
+aa
 ### 5.3.1. Diseño de Entrevistas
+aa
 ### 5.3.2. Registro de Entrevistas
+aa
 ### 5.3.3. Evaluaciones según heurísticas
+aa
 ## 5.4. Video About-the-Product
+aa
  
 # Conclusiones
+aa
 # Conclusiones y recomendaciones
+aa
 # Video About-the-Team
+aa
 # Bibliografía
+aa
 # Anexos
