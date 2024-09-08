@@ -1124,6 +1124,23 @@ En esta sección, se definen las herramientas utilizadas en cada fase del desarr
 | Markdown           | Lenguaje de marcado que permite la documentación técnica, utiliza un formato de texto sencillo fácil de convertir en HTML. | [Markdown Guide](https://www.markdownguide.org/)                                             |
 
 ### 5.1.2. Source Code Management
+|Nombre completo | Nombre de la cuenta|
+| Ramiro Alexander Guzman Chavez | RamiroGuzmanCh | 
+| Jhon Rony Huamani Aguilar | JhonHuam | 
+| Alessandro Netto Zevallos Linares | OutBreakAZL |
+| Piero Alberto Velarde Luyo | P1er0VL |
+| Mauricio Muñoz Vilcapoma Rigoberto | MauricioM |
+
+Evidencia de la creacion del repositorio de trabajo. Enlace del repossitorio: https://github.com/MauricioMVilcapoma/Netvision-OpenSource-WS51
+![Captura de pantalla 2024-09-07 205116](https://github.com/user-attachments/assets/3525ddda-8e7a-4df4-a0c7-c504f528c132)
+
+Creacion de las ramas de trabajo (branchs).
+![Captura de pantalla 2024-09-07 205217](https://github.com/user-attachments/assets/f561e305-4122-4c3e-8d73-520248c6308c)
+
+Commits de evidencia del trabajo
+![Captura de pantalla 2024-09-07 205548](https://github.com/user-attachments/assets/68fdc7bb-27ab-49c2-b377-adf3d61ff1b5)
+
+
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation
