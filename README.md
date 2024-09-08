@@ -76,18 +76,17 @@
 ---
 
 # Student Outcome 3
+
 El curso contribuye al cumplimiento del Student Outcome ABET:  
 **ABET – EAC - Student Outcome 3**
 
-**Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias.
-En el siguiente cuadro se describe las acciones realizadas y enunciados de
-conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
-del ABET – EAC - Student Outcome 3.
+**Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias.  
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia.** |  TEXTO DE EJEMPLO| TEXTO DE EJEMPLO |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia.** |TEXTO DE EJEMPLO | TEXTO DE EJEMPLO|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia.** | Durante el desarrollo del proyecto, se realizaron presentaciones orales para diversos públicos, incluyendo: <br> - **Presentación del perfil de la startup** a mentores y posibles inversores, explicando la misión, visión y modelo de negocio. <br> - **Reuniones con el equipo** para discutir el proceso Lean UX y el análisis competitivo, asegurando que todos los miembros comprendieran los objetivos y estrategias. <br> - **Defensa del diseño del producto** frente a un panel de expertos en UX/UI, donde se justificaron las decisiones de diseño basadas en los hallazgos del análisis de requisitos. | Las presentaciones orales fueron efectivas al adaptar el contenido según el nivel de conocimiento del público. Los feedbacks recibidos indicaron claridad en la comunicación y la habilidad para traducir conceptos técnicos en explicaciones comprensibles para no especialistas. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia.** | Se elaboraron varios documentos y reportes dirigidos a audiencias específicas, tales como: <br> - **Informe del perfil de la startup** y el perfil de la solución, diseñado para stakeholders internos y externos, explicando detalladamente el contexto y la propuesta de valor. <br> - **Documentación técnica**, incluyendo el análisis competitivo, mapas de escenarios y diseños de interfaces, que se dirigieron a desarrolladores y diseñadores para la implementación del producto. <br> - **Reportes de avance y documentación de sprint**, que proporcionan una visión detallada del progreso, problemas encontrados y soluciones implementadas, facilitando la comunicación con el equipo y otros interesados. | Los documentos escritos fueron bien recibidos por las distintas audiencias, demostrando la capacidad para adaptar el contenido según el nivel técnico del lector. La claridad en la documentación técnica facilitó el trabajo de desarrollo y diseño, mientras que los informes de avance fueron útiles para la toma de decisiones y el seguimiento del proyecto. |
 
 ---  
 # 1. Capítulo I: Introducción
