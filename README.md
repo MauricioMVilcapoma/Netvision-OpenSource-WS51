@@ -1233,7 +1233,27 @@ aa
 #### 5.2.X.7. Software Deployment Evidence for Sprint Review
 aa
 #### 5.2.X.8. Team Collaboration Insights during Sprint
-aa
+Durante este Sprint, el equipo ha colaborado en la creación de los productos planificados, centrándose en la **Landing Page**. A continuación, se ofrece un resumen sobre el desarrollo de las actividades, acompañado de capturas que muestran los analíticos de colaboración y los commits realizados en GitHub por los miembros del equipo.
+
+### Actividades de Implementación
+
+Las tareas de implementación se han organizado en diferentes áreas clave para asegurar que todos los integrantes del equipo contribuyan activamente al proyecto. Entre las actividades realizadas se encuentran:
+
+#### Landing Page:
+- Diseño y estructura visual.
+- Desarrollo de secciones importantes, como el encabezado, el pie de página y el contenido dinámico.
+- Configuración y despliegue en el entorno de producción.
+- Pruebas y correcciones finales para garantizar un resultado de calidad.
+
+### Analíticos de Colaboración
+
+A continuación, se presentan capturas de los informes de colaboración en GitHub, donde se puede observar la participación de cada integrante en cuanto a commits y contribuciones.
+
+![insights-pulse](https://github.com/user-attachments/assets/ef8b3fc9-a801-4b86-903e-94b5811a2e22)
+![insights-traffic](https://github.com/user-attachments/assets/b11e9733-2c79-4891-871a-dc9041561051)
+![insights-network](https://github.com/user-attachments/assets/7a94a253-b721-4a06-8e04-025218196ffa)
+
+
 ## 5.3. Validation Interviews
 aa
 ### 5.3.1. Diseño de Entrevistas
