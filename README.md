@@ -902,6 +902,203 @@ Maneja las transacciones y métodos de pago y se encarga de la gestión de méto
 Link LucidChart: https://lucid.app/lucidchart/57f1a752-5aae-4d38-b2b1-5afe0d980e51/edit?viewport_loc=-7581%2C-1638%2C2742%2C1343%2C0_0&invitationId=inv_88b2ad43-b247-48f8-98f2-cd0237564469
 
 ### 4.7.2. Class Dictionary
+#### 1. User Management
+
+**1. User**
+
+| Nombre del Atributo | Definición | Tipo de Dato | Rango | Unidad de Medida | Valores Restringidos |
+|---------------------|------------|--------------|-------|------------------|----------------------|
+| userId              | Identificador único del usuario | int | Valores positivos | - | - |
+| name                | Nombre completo del usuario | String | - | - | - |
+| email               | Correo electrónico del usuario | String | - | - | - |
+| password        | Hash de la contraseña del usuario | String | - | - | - |
+| contactNumber       | Número de contacto del usuario | String | - | - | - |
+| address             | Dirección del usuario | String | - | - | - |
+| userType            | Tipo de usuario (Organizer o Attendee) | String | - | - | Organizer, Attendee |
+
+**2. Organizer (Extiende de User)**
+
+| Nombre del Atributo | Definición | Tipo de Dato | Rango | Unidad de Medida | Valores Restringidos |
+|---------------------|------------|--------------|-------|------------------|----------------------|
+| organizationName    | Nombre de la organización del organizador | String | - | - | - |
+
+**3. Attendee (Extiende de User)**
+
+| Nombre del Atributo | Definición | Tipo de Dato | Rango | Unidad de Medida | Valores Restringidos |
+|---------------------|------------|--------------|-------|------------------|----------------------|
+| -                   | -          | -            | -     | -                | - |
+
+**4. UserProfile**
+
+| Nombre del Atributo | Definición | Tipo de Dato | Rango | Unidad de Medida | Valores Restringidos |
+|---------------------|------------|--------------|-------|------------------|----------------------|
+| profileId           | Identificador único del perfil de usuario | int | Valores positivos | - | - |
+| userId              | Identificador del usuario asociado | int | Valores positivos | - | - |
+| bio                 | Biografía del usuario | String | - | - | - |
+| profilePicture      | Imagen de perfil del usuario | String | - | - | - |
+
+#### 2. Event Management
+
+**1. Event**
+
+| Nombre del Atributo | Definición | Tipo de Dato | Rango | Unidad de Medida | Valores Restringidos |
+|---------------------|------------|--------------|-------|------------------|----------------------|
+| eventId             | Identificador único del evento | int | Valores positivos | - | - |
+| title               | Título del evento | String | - | - | - |
+| description         | Descripción del evento | String | - | - | - |
+| location            | Ubicación del evento | String | - | - | - |
+| date                | Fecha del evento | LocalDate | - | - | - |
+| time                | Hora del evento | LocalTime | - | - | - |
+| isPublished         | Indica si el evento está publicado | boolean | - | - | - |
+| createdAt           | Fecha y hora de creación del evento | LocalDateTime | - | - | - |
+| updatedAt           | Fecha y hora de última actualización del evento | LocalDateTime | - | - | - |
+
+**2. Venue**
+
+| Nombre del Atributo | Definición | Tipo de Dato | Rango | Unidad de Medida | Valores Restringidos |
+|---------------------|------------|--------------|-------|------------------|----------------------|
+| venueId             | Identificador único del lugar | int | Valores positivos | - | - |
+| name                | Nombre del lugar | String | - | - | - |
+| address             | Dirección del lugar | String | - | - | - |
+| capacity            | Capacidad del lugar | int | Valores positivos | - | - |
+| description         | Descripción del lugar | String | - | - | - |
+
+**3. EventVenue**
+
+| Nombre del Atributo | Definición | Tipo de Dato | Rango | Unidad de Medida | Valores Restringidos |
+|---------------------|------------|--------------|-------|------------------|----------------------|
+| eventId             | Identificador del evento | int | Valores positivos | - | - |
+| venueId             | Identificador del lugar | int | Valores positivos | - | - |
+
+**4. Promotion**
+
+| Nombre del Atributo | Definición | Tipo de Dato | Rango | Unidad de Medida | Valores Restringidos |
+|---------------------|------------|--------------|-------|------------------|----------------------|
+| promotionId         | Identificador único de la promoción | int | Valores positivos | - | - |
+| eventId             | Identificador del evento asociado | int | Valores positivos | - | - |
+| code                | Código de la promoción | String | - | - | - |
+| discountPercentage  | Porcentaje de descuento | BigDecimal | 0-100 | % | - |
+| startDate           | Fecha de inicio de la promoción | LocalDate | - | - | - |
+| endDate             | Fecha de finalización de la promoción | LocalDate | - | - | - |
+| createdAt           | Fecha y hora de creación de la promoción | LocalDateTime | - | - | - |
+| updatedAt           | Fecha y hora de última actualización de la promoción | LocalDateTime | - | - | - |
+
+**5. EventCategory**
+
+| Nombre del Atributo | Definición | Tipo de Dato | Rango | Unidad de Medida | Valores Restringidos |
+|---------------------|------------|--------------|-------|------------------|----------------------|
+| categoryId          | Identificador único de la categoría | int | Valores positivos | - | - |
+| name                | Nombre de la categoría | String | - | - | - |
+| description         | Descripción de la categoría | String | - | - | - |
+
+**6. EventTag**
+
+| Nombre del Atributo | Definición | Tipo de Dato | Rango | Unidad de Medida | Valores Restringidos |
+|---------------------|------------|--------------|-------|------------------|----------------------|
+| eventTagId          | Identificador único del evento y etiqueta | int | Valores positivos | - | - |
+| eventId             | Identificador del evento | int | Valores positivos | - | - |
+| tagId               | Identificador de la etiqueta | int | Valores positivos | - | - |
+
+**7. Tag**
+
+| Nombre del Atributo | Definición | Tipo de Dato | Rango | Unidad de Medida | Valores Restringidos |
+|---------------------|------------|--------------|-------|------------------|----------------------|
+| tagId               | Identificador único de la etiqueta | int | Valores positivos | - | - |
+| name                | Nombre de la etiqueta | String | - | - | - |
+
+**8. EventNotification**
+
+| Nombre del Atributo | Definición | Tipo de Dato | Rango | Unidad de Medida | Valores Restringidos |
+|---------------------|------------|--------------|-------|------------------|----------------------|
+| eventNotificationId | Identificador único de la notificación | int | Valores positivos | - | - |
+| eventId             | Identificador del evento asociado | int | Valores positivos | - | - |
+| notificationType    | Tipo de notificación | String | - | - | - |
+| notificationMessage | Mensaje de la notificación | String | - | - | - |
+| notificationDate    | Fecha y hora de la notificación | LocalDateTime | - | - | - |
+
+#### 3. Ticketing
+
+**1. Ticket**
+
+| Nombre del Atributo | Definición | Tipo de Dato | Rango | Unidad de Medida | Valores Restringidos |
+|---------------------|------------|--------------|-------|------------------|----------------------|
+| ticketId            | Identificador único del ticket | int | Valores positivos | - | - |
+| eventId             | Identificador del evento asociado | int | Valores positivos | - | - |
+| type                | Tipo de ticket (general, VIP, etc.) | String | - | - | - |
+| price               | Precio del ticket | BigDecimal | Valores positivos | Soles | - |
+| stock               | Cantidad de tickets disponibles | int | Valores positivos | - | - |
+| createdAt           | Fecha y hora de creación del ticket | LocalDateTime | - | - | - |
+| updatedAt           | Fecha y hora de última actualización del ticket | LocalDateTime | - | - | - |
+
+**2. TicketSale**
+
+| Nombre del Atributo | Definición | Tipo de Dato | Rango | Unidad de Medida | Valores Restringidos |
+|---------------------|------------|--------------|-------|------------------|----------------------|
+| saleId              | Identificador único de la venta | int | Valores positivos | - | - |
+| attendeeId          | Identificador del asistente que compró el ticket | int | Valores positivos | - | - |
+| ticketId            | Identificador del ticket comprado | int | Valores positivos | - | - |
+| quantity            | Cantidad de tickets comprados | int | Valores positivos | - | - |
+| totalPrice          | Precio total de la venta | BigDecimal | Valores positivos | Soles | - |
+| promotionId         | Identificador de la promoción aplicada (opcional) | int | Valores positivos | - | - |
+| paymentMethodId     | Identificador del método de pago utilizado | int | Valores positivos | - | - |
+| purchaseDate        | Fecha y hora de la compra | LocalDateTime | - | - | - |
+
+**3. QRCode**
+
+| Nombre del Atributo | Definición | Tipo de Dato | Rango | Unidad de Medida | Valores Restringidos |
+|---------------------|------------|--------------|-------|------------------|----------------------|
+| qrCodeId            | Identificador único del código QR | int | Valores positivos | - | - |
+| ticketId            | Identificador del ticket asociado | int | Valores positivos | - | - |
+| attendeeId          | Identificador del asistente asociado | int | Valores positivos | - | - |
+| isValid             | Indica si el código QR es válido | boolean | - | - | - |
+| scannedAt           | Fecha y hora de escaneo del código QR | LocalDateTime | - | - | - |
+
+#### 4. Payment Processing
+
+**1. PaymentMethod**
+
+| Nombre del Atributo | Definición | Tipo de Dato | Rango | Unidad de Medida | Valores Restringidos |
+|---------------------|------------|--------------|-------|------------------|----------------------|
+| paymentMethodId     | Identificador único del método de pago | int | Valores positivos | - | - |
+| methodName          | Nombre del método de pago | String | - | - | - |
+
+**2. PaymentTransaction**
+
+| Nombre del Atributo | Definición | Tipo de Dato | Rango | Unidad de Medida | Valores Restringidos |
+|---------------------|------------|--------------|-------|------------------|----------------------|
+| transactionId       | Identificador único de la transacción | int | Valores positivos | - | - |
+| saleId              | Identificador de la venta asociada | int | Valores positivos | - | - |
+| paymentMethodId     | Identificador del método de pago utilizado | int | Valores positivos | - | - |
+| amount              | Monto de la transacción | BigDecimal | Valores positivos | Soles | - |
+| transactionDate     | Fecha y hora de la transacción | LocalDateTime | - | - | - |
+
+**3. Refund**
+
+| Nombre del Atributo | Definición | Tipo de Dato | Rango | Unidad de Medida | Valores Restringidos |
+|---------------------|------------|--------------|-------|------------------|----------------------|
+| refundId            | Identificador único del reembolso | int | Valores positivos | - | - |
+| transactionId       | Identificador de la transacción asociada | int | Valores positivos | - | - |
+| amount              | Monto del reembolso | BigDecimal | Valores positivos | Soles | - |
+| refundDate          | Fecha y hora del reembolso | LocalDateTime | - | - | - |
+| reason              | Razón del reembolso | String | - | - | - |
+
+**4. TransactionLog**
+
+| Nombre del Atributo | Definición | Tipo de Dato | Rango | Unidad de Medida | Valores Restringidos |
+|---------------------|------------|--------------|-------|------------------|----------------------|
+| logId               | Identificador único del registro | int | Valores positivos | - | - |
+| transactionId       | Identificador de la transacción asociada | int | Valores positivos | - | - |
+| logDate             | Fecha y hora del registro | LocalDateTime | - | - | - |
+| logMessage          | Mensaje del registro | String | - | - | - |
+
+**5. PaymentGateway**
+
+| Nombre del Atributo | Definición | Tipo de Dato | Rango | Unidad de Medida | Valores Restringidos |
+|---------------------|------------|--------------|-------|------------------|----------------------|
+| gatewayId           | Identificador único del gateway de pago | int | Valores positivos | - | - |
+| name                | Nombre del gateway de pago | String | - | - | - |
+| apiEndpoint         | Endpoint de la API del gateway de pago | String | - | - | - |
+| apiKey              | Clave API para autenticación del gateway | String | - | - | - |
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
