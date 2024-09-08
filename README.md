@@ -1106,6 +1106,9 @@ Link LucidChart: https://lucid.app/lucidchart/57f1a752-5aae-4d38-b2b1-5afe0d980e
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
+
+Para el desarrollo de nuestro proyecto, el documento es gestionado través de GitHub, que sirve como nuestro repositorio remoto y plataforma de control de versiones.  Hemos utilizado un flujo de trabajo basado en ramas para organizar el desarrollo, dichas ramas permiten visualizar el proceso de documentación, corrección y producción de los items, lo que asegura una integración ordenada y eficiente. Se ha hecho uso de mensajes commit en Git, las cuales nos permiten mantener un historial claro dentro de nuestro repositorio, siguiendo un formato estandarizado. Además, empleamos GitHub Actions para la integración continua, que automatiza pruebas y validaciones, garantizando que los cambios sean revisados y aprobados antes de su fusión, dichas integraciones se realizan mediante pull requests revisadas constantemente por el equipo.
+
 ### 5.1.1. Software Development Environment Configuration
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
