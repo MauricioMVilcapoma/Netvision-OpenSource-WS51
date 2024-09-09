@@ -1,4 +1,4 @@
-# Universidad Peruana de Ciencias Aplicadas
+![Imagen de WhatsApp 2024-09-08 a las 17 52 57_1caf9017](https://github.com/user-attachments/assets/822e59b0-3c4c-4787-afce-4fe1ee982c8e)# Universidad Peruana de Ciencias Aplicadas
 
 **Carrera:** Ingeniería de Software  
 **Ciclo:** Sexto
@@ -181,18 +181,22 @@ NetVision es una startup tecnológica que se enfoca en crear soluciones innovado
 
 **Muñoz Vilcapoma Mauricio – Ingeniería de Software – U202217212**  
 Soy estudiante de Ingeniería de Software en mi quinto ciclo. Deseo desempeñar un papel fundamental en el mundo de la tecnología, creando soluciones innovadoras y avanzadas como desarrollador de software. Estoy comprometido con mi desarrollo profesional y con hacer una diferencia en el campo de la ingeniería de software.
+![Captura de pantalla 2024-09-09 014936](https://github.com/user-attachments/assets/0b23f8bd-a5e9-4244-96da-64adf16ce924)
 
 **Guzmán Chávez Alexander Ramiro – Ingeniería de Software – U202217062**  
 Mi perfil se basa en ser una persona responsable, disciplinada en todo aspecto y comprometida con las actividades que me puedan tocar. Considero que tengo una experiencia altamente capacitada para este tipo de tareas. Suelo desarrollarme de manera positiva en los trabajos grupales y tengo conocimientos en bases de datos, lo cual puede aportar de manera importante al equipo.
+![Imagen de WhatsApp 2024-09-08 a las 17 32 48_72b91ec0](https://github.com/user-attachments/assets/95366c1b-5048-4021-9a19-2641058eb6b6)
 
 **Zevallos Linares Alessandro Netto – Ingeniería de Software – U202216035**  
 Soy estudiante de Ingeniería de Software con un fuerte interés en el desarrollo de productos digitales y la tecnología. En mi tiempo libre, me gusta jugar videojuegos. También tengo un interés especial en la música, lo que me ayuda a equilibrar mi vida académica y personal. Cuento con habilidades en gestión de bases de datos y tengo experiencia en análisis de datos, lo que me ayuda a tomar decisiones informadas y crear soluciones efectivas.
+![Imagen de WhatsApp 2024-09-08 a las 17 52 57_1caf9017](https://github.com/user-attachments/assets/58646c78-9cd8-4d0a-9be5-43c54656aff5)
 
 **Huamani Aguilar Jhon Rony – Ingeniería de Software - U20211d859**  
 Soy estudiante de Ingeniería de Software. Cuento con conocimientos básicos en C++, SQL, Python, HTML y CSS. A lo largo de la carrera, he desarrollado habilidades que me permiten ofrecer soluciones efectivas a los desafíos que se presenten.
 
 **Velarde Luyo Piero Alberto – Ingeniería de Software - u20211A620**  
 Soy estudiante de la carrera de Ingeniería de Software. Escogí esta carrera por mi facilidad en el uso de las computadoras y mi interés en el funcionamiento de estas y en todo lo relacionado con la programación y las tecnologías emergentes. Cuento con habilidades básicas en C++, C#, Python, HTML y CSS.
+![Imagen de WhatsApp 2024-09-08 a las 17 56 48_7d6591fd](https://github.com/user-attachments/assets/2f68bf3e-4288-4cfc-bb07-e9a6fdb41a62)
 
 ## 1.2. Solution Profile
 
