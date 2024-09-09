@@ -912,6 +912,17 @@ User goal, usuario selecciona categoria, evento y compra
 Enlace a los User Flow Diagrams en la App Web lucidchart: https://lucid.app/lucidchart/4a6e204f-cc3a-447d-ae14-c70f09ef72f3/edit?viewport_loc=-3934%2C675%2C4020%2C1923%2C0_0&invitationId=inv_b08529c0-01bc-4e00-91d4-151304493c64
 
 ## 4.5. Web Applications Prototyping
+A continuación se presentan los prototipos de la aplicación web de ArtCollab, los cuales fueron realizados en Figma. Además, se adjunta el enlace al video completo de la presentación del prototipo: https://www.figma.com/proto/Yt9EEcER3gZwHsZXLPUeuC/wireframes?node-id=2005-334&node-type=CANVAS&t=1tSvJdxTxOy9YR1b-1&scaling=min-zoom&content-scaling=fixed&page-id=2005%3A117&starting-point-node-id=2005%3A334
+capturas de referencia:
+![venta1](https://github.com/user-attachments/assets/3e4450ec-c34b-40de-a18a-07cf845c2fa6)
+![reseñas](https://github.com/user-attachments/assets/ab0d4e64-2946-4ddd-8958-846c0fce467c)
+![registro](https://github.com/user-attachments/assets/b0e92510-c8d1-4da0-9ae4-fc2af5febaf4)
+![contraseña](https://github.com/user-attachments/assets/8a884e5b-a5ac-4e82-9a10-03acf76a81b1)
+![compra](https://github.com/user-attachments/assets/e5ebea16-4ff0-4a8a-83ba-3952ec7e6db8)
+![precios](https://github.com/user-attachments/assets/fe548348-3da2-4e51-955a-45c756ef4e7b)
+![compra_finalizada](https://github.com/user-attachments/assets/d596f6d3-8794-41c6-bae8-b8321ff3297e)
+
+
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 ![structurizr-94825-SystemContext-001](https://github.com/user-attachments/assets/d94fbade-ba62-4a1d-8f3c-3be850609495)
