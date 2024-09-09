@@ -1244,8 +1244,26 @@ En esta seccion se busca detallar el proceso por la cual se trabajo el Sprint 1 
 
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review
 aa
-#### 5.2.X.5. Execution Evidence for Sprint Review
-aa
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+Para este sprint, siendo el primero de nuestro proyecto, se pudo realizar una primera versión de nuestra Landing Page desplegada por medio de GitHub Pages.
+Estás son algunas capturas de nuestra landing.
+
+![landing-1](https://github.com/user-attachments/assets/ff912a8c-6a94-4c73-9312-94a6f2ecf4a6)
+
+![landing-2](https://github.com/user-attachments/assets/e52a78b0-4047-480d-a1f2-58275df64d4b)
+
+![landing-3](https://github.com/user-attachments/assets/4ad161b9-b83f-4513-8b25-c0f0b60c39f5)
+
+![landing-4](https://github.com/user-attachments/assets/4e47cbd3-9b39-46b9-88d4-f63bb8600403)
+
+![landing-5](https://github.com/user-attachments/assets/bcb77c63-9ee7-44d7-86a2-462cbfc5980f)
+
+![landing-6](https://github.com/user-attachments/assets/f4087c0a-e1ce-4a43-8c2f-ef4dd812048f)
+
+![landing-7](https://github.com/user-attachments/assets/c759218e-4540-4430-bc92-e895ab80c62c)
+
+
 #### 5.2.X.6. Services Documentation Evidence for Sprint Review
 aa
 #### 5.2.X.7. Software Deployment Evidence for Sprint Review
