@@ -1266,8 +1266,18 @@ Estás son algunas capturas de nuestra landing.
 
 #### 5.2.X.6. Services Documentation Evidence for Sprint Review
 aa
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review
-aa
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Para esta primera entrega se fue desplegada una primera versión de nuestro landing page, se requirió de los siguientes lenguajes para poder desarrollarla.
+
+JavaScript: Se utlizó para ciertas funcionalidades interactivas de nuestra página.
+HTML: Nos ayudó a poder crear la estructura de nuestra landing page.
+CSS: Este lenguaje nos permitió agregar estilos y diseños a nuestra página.
+
+En lo que respecta al despliegue, este fue realizado utilizando GitHub Pages. Esto debido a que es una herramienta que nos permitió realizar dicha labor de forma rápida, sencilla y gratuita.
+
+![Captura de pantalla 2024-09-07 210111](https://github.com/user-attachments/assets/5b352da3-4738-4cc3-b6da-a5eb811d0fcc)
+
 #### 5.2.X.8. Team Collaboration Insights during Sprint
 Durante este Sprint, el equipo ha colaborado en la creación de los productos planificados, centrándose en la **Landing Page**. A continuación, se ofrece un resumen sobre el desarrollo de las actividades, acompañado de capturas que muestran los analíticos de colaboración y los commits realizados en GitHub por los miembros del equipo.
 
