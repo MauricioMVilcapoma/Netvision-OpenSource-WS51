@@ -1264,8 +1264,10 @@ Estás son algunas capturas de nuestra landing.
 ![landing-7](https://github.com/user-attachments/assets/c759218e-4540-4430-bc92-e895ab80c62c)
 
 
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review
-aa
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Para esta primera entrega no fue requerido el uso de ningún servicio. Esto es, por el propio alcance de los objetivos propuestos para este primer sprint. Es por lo anterior mencionado, que no se agregó ninguna documentación respecto a web services empleados. 
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 Para esta primera entrega se fue desplegada una primera versión de nuestro landing page, se requirió de los siguientes lenguajes para poder desarrollarla.
