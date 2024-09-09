@@ -458,6 +458,51 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
 
 
 ### 2.2.3. Análisis de entrevistas
+
+En esta sección, se presenta un análisis de las entrevistas realizadas a organizadores y asistentes de eventos. El objetivo es identificar patrones comunes y puntos clave que ayudarán en el desarrollo de una aplicación eficaz para la gestión de eventos.
+
+#### ¿Qué tipo de eventos suelen realizar con más frecuencia nuestros usuarios?
+
+Los organizadores de eventos entrevistados manejan una variedad amplia de eventos, incluyendo:
+
+- **Eventos Corporativos:** Tales como presentaciones, reuniones de negocios y conferencias.
+- **Eventos Sociales y Privados:** Incluyen bodas, aniversarios y celebraciones personales.
+- **Eventos de Entretenimiento:** Como conciertos, festivales de música y eventos de ocio.
+
+**Análisis:** La diversidad en el tipo de eventos que los usuarios organizan sugiere que la plataforma debe ser flexible y adaptarse a diferentes tipos de eventos. La capacidad de manejar diversos formatos y requisitos es crucial para satisfacer las necesidades de una amplia gama de usuarios.
+
+#### ¿Qué características valoran más en una plataforma de contratación de eventos para nuestros usuarios?
+
+Los organizadores valoran principalmente:
+
+- **Facilidad de Uso:** Una interfaz intuitiva y accesible es esencial para gestionar eventos de manera eficiente.
+- **Transparencia y Seguridad:** La claridad en la información y la protección en las transacciones financieras son altamente apreciadas.
+- **Integración Tecnológica:** La posibilidad de conectar con una amplia gama de artistas y proveedores a través de la plataforma es clave.
+- **Automatización de Procesos:** Herramientas que simplifican la gestión y administración de eventos, como la firma electrónica y la integración de sistemas de pago seguro.
+
+**Análisis:** Las características más valoradas son aquellas que facilitan la gestión y la organización de eventos, garantizando una experiencia segura y eficiente tanto para los organizadores como para los asistentes.
+
+#### ¿Cómo gestionan actualmente la promoción de sus eventos?
+
+La promoción de eventos se lleva a cabo principalmente a través de:
+
+- **Redes Sociales:** Para llegar a una audiencia amplia y generar interés.
+- **Plataformas de Streaming y Webs Especializadas:** Que ofrecen visibilidad adicional y apoyo en la promoción.
+- **Colaboraciones y Patrocinios:** Asociaciones con otras marcas y artistas para aumentar el alcance del evento.
+
+**Análisis:** La necesidad de integrar la plataforma con redes sociales y herramientas de promoción es evidente. Facilitar la difusión y el marketing de eventos es crucial para maximizar su éxito y visibilidad.
+
+#### ¿Qué herramientas o funciones les gustaría ver a nuestros usuarios en una plataforma para simplificar la gestión de contratos y eventos?
+
+Las herramientas y funciones más deseadas incluyen:
+
+- **Automatización de Procesos:** Para simplificar tareas repetitivas y ahorrar tiempo.
+- **Firma Electrónica de Contratos:** Para facilitar la gestión administrativa.
+- **Gestión de Calendarios:** Para coordinar horarios y fechas de eventos de manera eficiente.
+- **Integración con Sistemas de Pago Seguro:** Para garantizar transacciones financieras seguras.
+
+**Análisis:** La implementación de funciones que automaticen y simplifiquen la gestión de eventos será clave para mejorar la eficiencia operativa y la satisfacción del usuario. La capacidad de manejar contratos, calendarios y pagos de manera integrada es altamente valorada.
+
 ### 2.3. Needfinding
 ### 2.3.1. User Personas
 **ASISTENTE DE EVENTOS**
