@@ -213,7 +213,7 @@ El segmento inicial de Eventify se enfocará en organizadores de eventos profesi
 5. **Hipótesis 5:** Creemos que al diseñar una interfaz intuitiva y ofrecer soporte técnico efectivo, facilitaremos la adopción de la plataforma por parte de nuevos usuarios. Sabremos que hemos tenido éxito cuando notemos que los nuevos usuarios completan su primer evento sin necesidad de asistencia adicional dentro del primer mes de uso.
 
 #### 1.2.2.4. Lean UX Canvas
-![LeanUXCanvas](LeanUXCanvas.png)
+![Lean UX Canvas](https://github.com/RamiroGuzmanCh/Diagrams/blob/main/canvasUX.png)
 ---
 
 # 2. Capítulo II: Requirements Elicitation & Analysis
