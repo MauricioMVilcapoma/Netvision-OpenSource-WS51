@@ -885,6 +885,24 @@ El recorrido inicia en una pantalla de categorías, donde el usuario puede selec
 Enlace a los Wireflow Diagrams en la App Web lucidchart: https://lucid.app/lucidchart/249a2f6a-bf8d-48d8-8223-bc2953a7eddd/edit?invitationId=inv_71d29885-5c72-49e4-ac10-53526a9c92fb&page=0_0
 
 ### 4.4.2. Web Applications Mock-ups
+Mock-ups de la sección Iniciar sesión 
+![Iniciar sesión 2](https://github.com/user-attachments/assets/39e9032f-b5d6-49b5-aeaa-b4962959fe05)
+Mock-ups de la sección Registro
+![Registro (desktop) (1)](https://github.com/user-attachments/assets/f632a7c0-df5b-4047-b52f-db780cd01e42)
+Mock-ups de la sección Pagina principal
+![Main-Desktop (1)](https://github.com/user-attachments/assets/cf4a6e26-00a2-4722-8fe5-664587e8c99d)
+Mock-ups de la sección Editar cuenta
+![Editar Cuenta (desktop)](https://github.com/user-attachments/assets/630b8a9b-b9d5-443e-a2f7-de0e56ac5f17)
+Mock-ups de la sección Recuparar contraseña
+![Recuperar contraseña (desktop) (1)](https://github.com/user-attachments/assets/597cd2ef-19f8-479d-904e-c652ea9854d9)
+Mock-ups de la sección Reviews
+![Reviews](https://github.com/user-attachments/assets/a0041fc8-79b7-4286-abb2-12e17bb8a097)
+Mock-ups de la sección eventos
+![Popular Events (2)](https://github.com/user-attachments/assets/85bbce0a-4995-4c1c-96fd-0a3af47ad49a)
+![Popular Events (3)](https://github.com/user-attachments/assets/d119665e-eec9-4752-86a0-6f91cfeee1a0)
+
+Enlace a los mockups de la App Web en Figma: https://www.figma.com/design/Yt9EEcER3gZwHsZXLPUeuC/wireframes?node-id=2005-117&t=IFfGNblTCqext4MD-1
+
 ### 4.4.3. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
