@@ -213,7 +213,8 @@ El segmento inicial de Eventify se enfocará en organizadores de eventos profesi
 5. **Hipótesis 5:** Creemos que al diseñar una interfaz intuitiva y ofrecer soporte técnico efectivo, facilitaremos la adopción de la plataforma por parte de nuevos usuarios. Sabremos que hemos tenido éxito cuando notemos que los nuevos usuarios completan su primer evento sin necesidad de asistencia adicional dentro del primer mes de uso.
 
 #### 1.2.2.4. Lean UX Canvas
-![LeanUXCanvas](LeanUXCanvas.png)
+![LeanUXCanvas](https://github.com/user-attachments/assets/177dc513-8683-456f-9ae7-852395768262)
+
 ---
 
 # 2. Capítulo II: Requirements Elicitation & Analysis
@@ -437,25 +438,65 @@ Este análisis busca entender mejor a los competidores de Eventify, permitiendo 
 - **Pregunta final:** ¿Hay algo más que consideras importante compartir sobre tu experiencia como organizador o asistente de eventos?
 
 ### 2.2.2. Registro de entrevistas
+Video de entrevista de ambos segmentos Objeticos (OneDrive): https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217212_upc_edu_pe/EZmI2wT4tcZMqnL5XP6FpJ0Bd8gCOAoWyeqMqGVbNoxn1g?e=WqbKTi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+###  1. Segmento Objetivo: Asistente de eventos
 
 #### Entrevista 1
 | **Datos del entrevistado** | 
 |--------------------------|
-| **Nombre:** Mauriksio Ahmed |
-| **Edad:** 20 años |
-| **Procedencia:** San Isidro, Lima |
-| **Segmento:** Asistente a Eventos |
-| **Resumen:** Mauricio Mondoñedo, un joven de 20 años residente en San Isidro, Lima, es un apasionado asistente de eventos, especialmente de fútbol, debido a la atmósfera vibrante que se vive en los estadios. Prefiere comprar sus entradas a través de Teleticket en línea, ya que considera que adquirirlas de forma presencial es una pérdida de tiempo. Se siente cómodo utilizando aplicaciones móviles y plataformas web para gestionar sus entradas. Mauricio sugiere que las plataformas de compra de boletos deberían incluir una inteligencia artificial que recomiende eventos basados en las preferencias del usuario. Además, considera crucial recibir actualizaciones y notificaciones constantes sobre los eventos a los que asiste para mantenerse informado. También valora la posibilidad de poder comunicarse directamente con el organizador del evento para resolver dudas o recibir información adicional. |
+| **Apellidos y nombres:** Mauriksio Ahmed |
+| **Edad:**  20 años |
+| **Distrito:**  San Isidro, Lima |
+|![Captura de pantalla 2024-09-08 233229](https://github.com/user-attachments/assets/6c53651e-dd95-417c-8a85-b093e80256c3) |
+| **Resumen:** Mauricio Mondoñedo, un joven de 20 años residente en San Isidro, Lima, es un apasionado asistente de eventos, especialmente de fútbol, debido a la atmósfera vibrante que se vive en los estadios. Prefiere comprar sus entradas a través de Teleticket en línea, ya que considera que adquirirlas de forma presencial es una pérdida de tiempo. Se siente cómodo utilizando aplicaciones móviles y plataformas web para gestionar sus entradas. Mauricio sugiere que las plataformas de compra de boletos deberían incluir una inteligencia artificial que recomiende eventos basados en las preferencias del usuario. Además, considera crucial recibir actualizaciones y notificaciones constantes sobre los eventos a los que asiste para mantenerse informado. También valora la posibilidad de poder comunicarse directamente con el organizador del evento para resolver dudas o recibir información adicional. || **Datos del entrevistado** | 
 
 #### Entrevista 2
 | **Datos del entrevistado** | 
 |--------------------------|
-| **Nombre:** Andre Robles |
-| **Edad:** 20 años |
-| **Procedencia:** San Isidro, Lima |
-| **Segmento:** Organizador de Eventos |
+| **Apellidos y nombres:** Joaquín Pedraza |
+| **Edad:**  20 años |
+| **Distrito:**  San Isidro, Lima |
+|![Captura de pantalla 2024-09-08 234724](https://github.com/user-attachments/assets/aa4d2ccf-1616-44ab-b96a-1729c2119817)|
+| **Resumen:** Joaquín Pedraza, un joven de 20 años residente en San Isidro, Lima, es un entusiasta de eventos, especialmente conferencias y conciertos. Prefiere asistir a eventos cercanos a su residencia, aunque está dispuesto a viajar si el evento es de gran interés. Para la compra de entradas, utiliza principalmente plataformas en línea como Ticketmaster y Entradas.com, ya que considera que comprar en persona es menos conveniente. Se siente muy cómodo con el uso de aplicaciones móviles y plataformas web para gestionar entradas y sugiere que las plataformas de eventos deberían ofrecer características como notificaciones automáticas de actualizaciones, integración con calendarios personales y opciones para compartir eventos en redes sociales. Joaquín también valora recibir actualizaciones y notificaciones constantes del organizador del evento y considera útil la opción de comunicarse directamente con ellos para resolver dudas o obtener información adicional. Además, cree que sería beneficioso mejorar la accesibilidad para personas con discapacidades y asegurar que la información del evento sea siempre clara y actualizada. |
+
+#### Entrevista 3
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Apellidos y nombres:** Joaquín Reyna |
+| **Edad:**  21 años |
+| **Distrito:**  Miraflores, Lima |
+|![Captura de pantalla 2024-09-08 234922](https://github.com/user-attachments/assets/1bd2c784-d296-4b98-ae6f-fa02cdcfd879)|
+| **Resumen:** Joaquín Reyna, un hombre de 21 años residente en Miraflores, Lima, es estudiante de Administración y frecuenta eventos como conciertos, festivales de música, y conferencias de tecnología y emprendimiento. Asiste a eventos sociales aproximadamente dos veces al mes, valorando principalmente la organización y la seguridad, junto con un buen ambiente y música de calidad. Para la adquisición de entradas, Joaquín prefiere las plataformas digitales. Destaca la importancia de contar con herramientas para compartir su ubicación en eventos y recibir notificaciones en tiempo real sobre la llegada de amigos o cambios en el evento. Entre los problemas que ha enfrentado en eventos se encuentran las largas filas, problemas de seguridad y mala señal de internet. Le gustaría mejorar la señal de internet y contar con más puntos de información en los eventos. Joaquín utiliza principalmente su smartphone para comprar entradas e interactuar en eventos, y menciona aplicaciones como Eventbrite, Meetup, y Facebook para organizar su vida social. |
+
+###  2. Segmento Objetivo: Organizadores de Eventos
+#### Entrevista 4
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Apellidos y nombres:** Andre Robles |
+| **Edad:**  20 años |
+| **Distrito:**  San Isidro, Lima |
+|![Captura de pantalla 2024-09-08 234311](https://github.com/user-attachments/assets/094fafa4-90ce-4f3b-acb2-deb580fe22dc)|
 | **Resumen:** Andre Robles, un joven de 20 años residente en San Isidro, Lima, es estudiante y cuenta con 2 años de experiencia en la organización de eventos como una actividad complementaria. Lo motiva principalmente los ingresos que genera esta actividad, y su objetivo a futuro es profesionalizarse en el ámbito de la organización de eventos. Andre considera que un evento es exitoso cuando se superan las ganancias esperadas. Utiliza Excel para la organización y las redes sociales para la promoción de eventos. En cuanto a adoptar una solución "todo en uno", está interesado en explorarlas en el futuro. Uno de los desafíos que menciona es la comunicación y el manejo del presupuesto entre los organizadores. También considera esencial que estas soluciones ofrezcan la posibilidad de crear una página propia para vender tickets directamente, lo cual sería una ventaja significativa para los organizadores de eventos. |
 
+#### Entrevista 5
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Apellidos y nombres:** Carlos Miñan |
+| **Edad:**  19 años |
+| **Distrito:**  San Isidro, Lima |
+|![entrevista](https://github.com/user-attachments/assets/b4393c12-2ec7-4150-94ba-c274fcae4410)|
+| **Resumen:** El entrevistado es un organizador de eventos de 19 años, con 5 años de experiencia, especializado en conciertos y festivales. Reside en Miraflores, Lima, y es propietario y coordinador de una empresa de eventos. Los principales desafíos que enfrenta incluyen la logística, la gestión de multitudes y la comunicación con los asistentes en tiempo real. Utiliza herramientas como Eventbrite, Trello y Google Drive. Prioriza ofrecer experiencias memorables y valora la integración tecnológica para facilitar la gestión y mejorar la interacción con los asistentes. Sus frustraciones incluyen contratiempos logísticos y herramientas ineficaces. Imagina un futuro con eventos más interactivos, utilizando realidad aumentada y mejores sistemas de personalización para los asistentes.|
+
+#### Entrevista 6
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Apellidos y nombres:** Andy Acosta |
+| **Edad:**  25 años |
+| **Distrito:**  San miguel, Lima |
+|![Captura de pantalla 2024-09-09 002828](https://github.com/user-attachments/assets/10629508-1004-4dbe-a0b3-9cfb4637b4fd)|
+| **Resumen:** Es un hombre de 25 años, organizador de eventos con más de 5 años de experiencia. Vive en La Molina, Lima, y aunque reside en una zona tranquila, organiza eventos en diferentes distritos. Se dedica a la organización de eventos a tiempo completo, y su principal motivación es superar las expectativas de los clientes, creando oportunidades de negocio. Utiliza herramientas como Monday.com, Eventbrite y Slack para gestionar los eventos, y ha experimentado con plataformas como Whova y Hopin. Aunque estas plataformas son útiles, considera que aún pueden mejorar en áreas como la personalización y la automatización. Los principales desafíos a los que se enfrenta son la coordinación con proveedores y los cambios de última hora, que gestiona con una planificación estricta y una buena comunicación. Valora mucho las plataformas tecnológicas que centralizan la organización y proporcionan reportes detallados. Le gustaría ver una mayor integración con redes sociales y más opciones de personalización. Para él, la interacción efectiva con los asistentes antes, durante y después del evento es esencial, y prefiere herramientas que permitan una comunicación ágil para asegurar una experiencia fluida.|
 
 ### 2.2.3. Análisis de entrevistas
 ### 2.3. Needfinding
