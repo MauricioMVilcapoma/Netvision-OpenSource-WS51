@@ -904,6 +904,13 @@ Mock-ups de la sección eventos
 Enlace a los mockups de la App Web en Figma: https://www.figma.com/design/Yt9EEcER3gZwHsZXLPUeuC/wireframes?node-id=2005-117&t=IFfGNblTCqext4MD-1
 
 ### 4.4.3. Web Applications User Flow Diagrams
+User goal, usuario inicia sesion, se registra y recupera su contraseña
+![mockup_sesion](https://github.com/user-attachments/assets/bd8765da-56ae-484b-bb43-5a62240f44c9)
+
+User goal, usuario selecciona categoria, evento y compra
+![mockup_compra](https://github.com/user-attachments/assets/786f35f9-ee3d-4b91-9af9-d37f88c10032)
+Enlace a los User Flow Diagrams en la App Web lucidchart: https://lucid.app/lucidchart/4a6e204f-cc3a-447d-ae14-c70f09ef72f3/edit?viewport_loc=-3934%2C675%2C4020%2C1923%2C0_0&invitationId=inv_b08529c0-01bc-4e00-91d4-151304493c64
+
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
