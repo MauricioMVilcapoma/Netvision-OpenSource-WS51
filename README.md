@@ -632,6 +632,50 @@ Las herramientas y funciones más deseadas incluyen:
 ![Andre Robles](https://github.com/user-attachments/assets/849f7a58-25e4-4800-9eb7-e352c3458aad)
 ### 2.3.2. User Task Matrix
 
+#### Introducción
+
+En este análisis se consideran dos segmentos principales basados en los **User Personas** desarrollados:
+
+1. **Asistente a eventos**: Este grupo está representado por Mauriksio Ahmed, un asistente frecuente a eventos deportivos que utiliza herramientas digitales para mejorar su experiencia. Busca comodidad, personalización y una compra segura de entradas.
+
+2. **Organizador de eventos**: Este grupo está representado por Andre Robles, un organizador de eventos que utiliza soluciones tecnológicas para gestionar y promocionar los eventos. Su prioridad es maximizar las ganancias y optimizar la organización del evento.
+
+#### Análisis de tareas con mayor frecuencia e importancia
+
+##### **Asistente de eventos (Mauriksio Ahmed)**
+
+1. **Revisar cuándo se realizan los próximos eventos**: 
+   - **Frecuencia**: Alta
+   - **Importancia**: Alta
+   - Esta tarea es de vital importancia para los asistentes, quienes constantemente buscan mantenerse informados sobre los próximos eventos disponibles para planificar su asistencia.
+
+2. **Comprar la entrada para el evento**: 
+   - **Frecuencia**: Media
+   - **Importancia**: Alta
+   - Aunque no lo realizan con tanta frecuencia, esta tarea es crítica porque sin la compra de la entrada, no pueden participar en el evento. Asegurar que el proceso sea rápido y seguro es clave.
+
+3. **Revisar la seguridad del proceso de compra**: 
+   - **Frecuencia**: Media
+   - **Importancia**: Alta
+   - Los asistentes valoran la seguridad de sus transacciones, por lo que revisar la seguridad del proceso de compra es una tarea de gran importancia para ellos.
+
+##### **Organizador de eventos (Andre Robles)**
+
+1. **Establecer la fecha del evento**: 
+   - **Frecuencia**: Media
+   - **Importancia**: Alta
+   - Establecer una fecha adecuada para el evento es crucial para la planificación y promoción efectiva, asegurando una buena asistencia.
+
+2. **Promocionar el evento**: 
+   - **Frecuencia**: Alta
+   - **Importancia**: Alta
+   - Promocionar los eventos es una tarea fundamental para los organizadores. Es necesario realizarlo constantemente para asegurar la participación de la audiencia deseada.
+
+3. **Personalizar la página del evento**: 
+   - **Frecuencia**: Baja
+   - **Importancia**: Alta
+   - Aunque no es algo que se haga con frecuencia, la personalización de la página del evento es clave para destacarse de la competencia y atraer a los asistentes adecuados.
+
 <table style="undefined;table-layout: fixed; width: 550px">
 <tbody>
 <tr>
