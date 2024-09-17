@@ -270,15 +270,43 @@ El segmento inicial de Eventify se enfocará en organizadores de eventos profesi
    La ineficiencia en la gestión de eventos puede resultar costosa en términos de tiempo y recursos. Eventify busca reducir estos costos al centralizar y simplificar la gestión de eventos, proporcionando una opción más económica y efectiva.
 
 #### 1.2.2.2. Lean UX Assumptions
-1. **Asunción 1:** Los organizadores de eventos pequeños prefieren una plataforma que ofrezca personalización sin costos adicionales.
 
-2. **Asunción 2:** Los asistentes a eventos están más inclinados a comprar boletos si el proceso es sencillo y rápido.
+##### **Business Outcomes**
+- **Reducir el tiempo de planificación de eventos en un 20%** gracias a la integración de herramientas automatizadas en la plataforma.
+- **Aumentar la cantidad de eventos organizados en un 15% en los próximos 6 meses** mediante la implementación de una solución centralizada que simplifique el proceso de gestión.
+- **Incrementar la satisfacción de los organizadores de eventos en un 18%** en el próximo año, medido a través de encuestas periódicas y reseñas de usuarios.
+- **Aumento en la repetición de eventos por los mismos organizadores** en un 10% dentro del primer año de uso, lo que reflejará la fidelización y confianza en la plataforma.
+- **Reducción del costo operativo en la gestión de eventos en un 25%** mediante la optimización del proceso de planificación y promoción en una sola plataforma.
+- **Mejor visibilidad y reconocimiento de marca en el sector de la gestión de eventos** mediante la expansión del mercado objetivo hacia pequeños y medianos organizadores.
+- **Incremento en el uso de la plataforma por parte de consumidores finales**, lo que resulta en más ventas de boletos, gracias a una experiencia de compra de entradas más rápida y segura.
+- **Reducción de problemas técnicos en la organización de eventos en un 30%** al consolidar todas las funciones en una sola plataforma eficiente y fácil de usar.
+- **Expansión de la base de usuarios en un 20% en el primer año** a través de estrategias de adquisición de clientes que incluyen campañas de marketing dirigidas.
+- **Aumento en la confianza de los usuarios en la plataforma**, medido por un incremento en las transacciones y una disminución en las consultas de soporte técnico.
+- **Generación de ingresos consistentes para Eventify** mediante la venta de boletos y el uso de herramientas promocionales dentro de la plataforma.
 
-3. **Asunción 3:** Los organizadores necesitan herramientas integradas para la promoción de eventos y la venta de boletos.
+##### **User Outcomes**
+- **Organizadores de eventos profesionales** ahorran tiempo en la planificación y gestión de eventos, ya que la plataforma automatiza muchas de las tareas administrativas que solían requerir múltiples herramientas.
+- **Pequeños negocios y emprendedores** obtienen acceso a una solución integrada que les permite gestionar sus eventos de manera más eficiente sin la necesidad de contratar personal adicional.
+- **Consumidores finales** disfrutan de una experiencia de compra de boletos rápida, confiable y accesible desde cualquier dispositivo, lo que les facilita el acceso a eventos de su interés.
 
-4. **Asunción 4:** Las empresas buscan estadísticas en tiempo real sobre la venta de boletos y la participación en eventos.
+##### **User Assumptions**
+- **¿Quién será nuestro usuario principal?**  
+  Nuestro usuario principal son organizadores de eventos profesionales, pequeños negocios y emprendedores que necesitan una plataforma centralizada para gestionar eventos de forma eficiente.
 
-5. **Asunción 5:** Una interfaz intuitiva y un soporte técnico efectivo son cruciales para la adopción de la plataforma.
+- **¿Dónde encajará nuestro producto en la vida diaria de nuestros usuarios?**  
+  Eventify será una herramienta esencial para la planificación y ejecución de eventos, encajando en la rutina de trabajo diaria de los organizadores, así como en los momentos de ocio de los consumidores finales interesados en asistir a eventos.
+
+- **¿Cuáles son los principales problemas que enfrentan nuestros usuarios al utilizar múltiples herramientas?**  
+  Los problemas incluyen la fragmentación de las herramientas de planificación, promoción y venta de entradas, lo que aumenta el riesgo de errores, el tiempo de gestión y los costos. Podemos resolver esto ofreciendo una plataforma unificada que optimice todos estos procesos en una sola solución.
+
+- **¿Cómo y con qué frecuencia utilizarán nuestros usuarios Eventify?**  
+  Los organizadores de eventos utilizarán Eventify de manera diaria o semanal, dependiendo de la cantidad de eventos que gestionen, mientras que los consumidores finales utilizarán la plataforma principalmente durante temporadas de eventos o para descubrir nuevos eventos.
+
+- **¿Qué características son consideradas imprescindibles por nuestros usuarios?**  
+  Los organizadores valoran herramientas de automatización, estadísticas en tiempo real, y un sistema de venta de entradas seguro. Los consumidores finales buscan facilidad en la compra de boletos, seguridad en las transacciones y la posibilidad de descubrir eventos que coincidan con sus intereses.
+
+- **¿Cómo debería lucir visualmente Eventify para que sea atractivo y fácil de usar?**  
+  El diseño de Eventify debe ser intuitivo, moderno y limpio. Debe tener una interfaz clara con características claramente visibles y accesibles tanto para organizadores de eventos como para asistentes, con un flujo de navegación fluido y opciones de soporte accesibles.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 1. **Hipótesis 1:** Creemos que al ofrecer a los organizadores de eventos una plataforma que permita la personalización, aumentaremos su satisfacción y fidelidad. Sabremos que hemos tenido éxito cuando notemos un incremento en el número de eventos repetidos por los mismos organizadores dentro de los primeros seis meses.
