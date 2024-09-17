@@ -1043,7 +1043,9 @@ Se optó por el uso del componente denominado 'Breadcrumb' (migas de pan) para p
 - **Arquitectura de información**: El contenido está bien estructurado, comenzando con una introducción que da paso a eventos destacados, información sobre los servicios ofrecidos y una categorización clara de eventos adicionales. El menú en la parte superior facilita una navegación rápida hacia secciones clave como "Contact Us" para acceder a información de contacto sin sobrecargar la página.
 ### 4.3.2. Landing Page Mock-up
 
-![Landing-Page-Mock-Ups](https://github.com/user-attachments/assets/d5fda79b-7a47-462f-bfcb-d2631fc7518c)
+![Landing-Page-Mock-Up1](https://github.com/user-attachments/assets/30d48c23-0307-4768-bbea-546497694b9c)
+
+![Landing-Page-Mock-Up2](https://github.com/user-attachments/assets/e6e8e2a6-7326-45ff-b5a6-f6ef35899b83)
 
 - **Principios de diseño**: El mock-up añade estilo y color, utilizando un esquema de colores contrastantes (azul oscuro y amarillo) que atrae la atención a los elementos importantes sin resultar abrumador. La tipografía es coherente y legible, con encabezados destacados que guían a los usuarios por el contenido de manera intuitiva.
 - **Diseño inclusivo**: El mock-up demuestra un diseño adaptable, optimizado tanto para escritorio como para dispositivos móviles. Las versiones móviles conservan la jerarquía visual y accesibilidad, asegurando que la navegación y la interacción sean igualmente fluidas y eficaces en pantallas pequeñas. Se utiliza un buen contraste para mejorar la legibilidad, beneficiando a los usuarios con discapacidades visuales leves.
