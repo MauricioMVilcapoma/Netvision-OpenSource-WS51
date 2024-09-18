@@ -222,30 +222,25 @@ Eventify ofrece una solución integral para la gestión de eventos, combinando h
 
 ### 1.2.2. Lean UX Process
 
-#### 1.2.2.1. Lean UX Problem Statements
+### 1.2.2.1. Lean UX Problem Statements
 
 ##### Domain
-El dominio de Eventify es la gestión de eventos, un campo que abarca desde la planificación inicial hasta la ejecución y el análisis post-evento. Este sector requiere soluciones que no solo faciliten la organización de eventos, sino que también mejoren la experiencia de los asistentes y optimicen la eficiencia operativa de los organizadores.
+Eventify opera en el ámbito de la gestión de eventos, abarcando la planificación, ejecución y análisis post-evento. Este sector enfrenta desafíos significativos que afectan tanto a organizadores como a asistentes.
 
 ##### Customer Segments
-1. **Organizadores de Eventos Profesionales**: Incluye empresas de eventos, organizadores de conferencias, y productores de festivales que necesitan una plataforma robusta para gestionar eventos de gran escala.
-2. **Pequeños Negocios y Emprendedores**: Pequeñas empresas y emprendedores que organizan eventos como parte de su estrategia de marketing.
-3. **Consumidores Finales**: Personas que buscan asistir a eventos de todo tipo y necesitan una plataforma confiable para descubrir y comprar entradas.
+1. **Organizadores de Eventos Profesionales**: Empresas que manejan conferencias, festivales y otros eventos de gran escala, con necesidades complejas.
+2. **Consumidores Finales**: Personas que desean asistir a eventos y enfrentan dificultades para encontrar y comprar entradas.
 
 ##### Pain Points
-1. **Fragmentación de Herramientas**: Los organizadores de eventos deben usar múltiples herramientas para manejar diferentes aspectos del evento, lo que aumenta la complejidad y el riesgo de errores.
-2. **Costos Operativos Altos**: La falta de una solución integrada incrementa los costos asociados a la gestión de eventos.
-3. **Experiencia de Usuario Inconsistente**: Los asistentes a los eventos a menudo enfrentan dificultades en la compra de entradas y en la obtención de información relevante.
+1. **Fragmentación de Herramientas**: Los organizadores deben utilizar diversas plataformas para gestionar diferentes aspectos del evento, aumentando la complejidad y el riesgo de errores.
+2. **Altos Costos Operativos**: La dependencia de múltiples herramientas y procesos desconectados provoca ineficiencia y costos adicionales.
+3. **Experiencia de Usuario Inconsistente**: Los asistentes a menudo tienen problemas para navegar por la información del evento, lo que complica la compra de entradas y el acceso a detalles relevantes.
 
 ##### Gap
-El mercado carece de una solución centralizada que integre todas las funciones necesarias para la gestión de eventos en una sola plataforma. La ausencia de tal solución crea ineficiencias operativas y afecta negativamente la experiencia tanto de los organizadores como de los asistentes.
-
-##### Vision/Strategy
-La visión de Eventify es ser la plataforma líder en la gestión integral de eventos, ofreciendo una solución todo-en-uno que aborde las necesidades de planificación, promoción, ejecución, y análisis post-evento. La estrategia se centra en la simplificación del proceso de organización de eventos, proporcionando herramientas automatizadas y una experiencia de usuario superior.
+La falta de una solución centralizada para la gestión de eventos genera ineficiencias operativas y una experiencia insatisfactoria, afectando negativamente tanto a organizadores como a asistentes.
 
 ##### Initial Segment
-El segmento inicial de Eventify se enfocará en organizadores de eventos profesionales, dado que este grupo tiene la mayor necesidad de una solución integrada y la capacidad de implementar nuevas tecnologías rápidamente. Una vez establecido en este segmento, Eventify expandirá su alcance a pequeños negocios, emprendedores, y eventualmente al mercado de consumidores finales.
-
+El enfoque inicial se centrará en organizadores de eventos profesionales, quienes enfrentan mayores desafíos en la gestión y tienen una necesidad urgente de optimizar sus procesos.
 
 ### 1.3. Segmentos objetivo
 
