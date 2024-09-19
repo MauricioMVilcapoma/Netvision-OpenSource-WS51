@@ -1569,22 +1569,29 @@ Durante este sprint, se realizó el despliegue inicial de la **Landing Page** de
    - Validación visual y funcional de la landing page en diferentes navegadores y dispositivos.
    - Verificación de enlaces, formularios y elementos interactivos para asegurar su correcto funcionamiento.
 
-## Evidencias del Proceso de Despliegue
+### Evidencias del Proceso de Despliegue
 
 ![Captura de pantalla 2024-09-07 210111](https://github.com/user-attachments/assets/5b352da3-4738-4cc3-b6da-a5eb811d0fcc)
 
 #### 5.2.X.8. Team Collaboration Insights during Sprint
-Durante este Sprint, el equipo ha colaborado en la creación de los productos planificados, centrándose en la **Landing Page**. A continuación, se ofrece un resumen sobre el desarrollo de las actividades, acompañado de capturas que muestran los analíticos de colaboración y los commits realizados en GitHub por los miembros del equipo.
+Durante este Sprint, el equipo ha colaborado en la creación de los productos planificados, centrándose en la **Landing Page**. A continuación, se ofrece un resumen sobre el desarrollo de las actividades que fueron divididas entre los integrantes del equipo.
 
 ### Actividades de Implementación
 
-Las tareas de implementación se han organizado en diferentes áreas clave para asegurar que todos los integrantes del equipo contribuyan activamente al proyecto. Entre las actividades realizadas se encuentran:
+#### Diseño de la Estructura de la Landing Page
+Durante la primera fase del sprint, el equipo colaboró en el diseño inicial de la estructura de la landing page. Esto incluyó la creación del wireframe y la definición de las secciones principales, como el encabezado, las secciones de características y el pie de página. Se discutieron diversas opciones y se seleccionó la más adecuada para garantizar una navegación intuitiva y atractiva. 
 
-#### Landing Page:
-- Diseño y estructura visual.
-- Desarrollo de secciones importantes, como el encabezado, el pie de página y el contenido dinámico.
-- Configuración y despliegue en el entorno de producción.
-- Pruebas y correcciones finales para garantizar un resultado de calidad.
+#### Desarrollo de la Interfaz y Estilos Visuales
+Se trabajó en la implementación del diseño visual utilizando HTML y CSS. El equipo definió la paleta de colores y los estilos tipográficos siguiendo las directrices de la identidad de King Reserve. Se realizaron sesiones de trabajo conjuntas para ajustar detalles de la interfaz y asegurar la consistencia visual en todos los dispositivos. 
+
+#### Implementación de Funcionalidades Dinámicas
+En esta etapa, se integraron las funcionalidades dinámicas de la landing page utilizando JavaScript. Se añadieron animaciones y se mejoraron las interacciones con el usuario, como los botones de navegación y el formulario de contacto. El equipo trabajó en estrecha colaboración para probar y optimizar estas funcionalidades, asegurando una experiencia de usuario fluida y sin errores. 
+
+#### Configuración y Automatización del Despliegue
+Se configuró el entorno de despliegue utilizando GitHub Pages. El equipo estableció un flujo de trabajo automatizado con GitHub Actions para realizar pruebas y despliegues continuos cada vez que se actualizaba el repositorio. Esto facilitó la integración de cambios y permitió realizar despliegues rápidos y confiables. 
+
+#### Pruebas de Calidad y Validación Final
+Finalmente, se llevaron a cabo pruebas exhaustivas para garantizar la calidad del producto. Se realizaron pruebas en distintos navegadores y dispositivos para verificar la compatibilidad y el rendimiento. El equipo también recopiló retroalimentación de stakeholders y usuarios para hacer ajustes finales antes de la entrega del sprint. 
 
 ### Analíticos de Colaboración
 
