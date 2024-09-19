@@ -655,8 +655,6 @@ Las herramientas y funciones más deseadas incluyen:
 ![Andre Robles](https://github.com/user-attachments/assets/849f7a58-25e4-4800-9eb7-e352c3458aad)
 ### 2.3.2. User Task Matrix
 
-#### Introducción
-
 En este análisis se consideran dos segmentos principales basados en los **User Personas** desarrollados:
 
 1. **Asistente a eventos**: Este grupo está representado por Mauriksio Ahmed, un asistente frecuente a eventos deportivos que utiliza herramientas digitales para mejorar su experiencia. Busca comodidad, personalización y una compra segura de entradas.
@@ -699,84 +697,18 @@ En este análisis se consideran dos segmentos principales basados en los **User 
    - **Importancia**: Alta
    - Aunque no es algo que se haga con frecuencia, la personalización de la página del evento es clave para destacarse de la competencia y atraer a los asistentes adecuados.
 
-<table style="undefined;table-layout: fixed; width: 550px">
-<tbody>
-<tr>
-    <td rowspan="2">Task Matrix</td>
-    <td colspan="2">Asistente</td>
-    <td colspan="2">Organizador</td>
-  </tr>
-  <tr>
-    <td>Frecuencia</td>
-    <td>Importancia</td>
-    <td>Frecuencia</td>
-    <td>Importancia</td>
-  </tr>
-   <tr>
-    <td>Visualizar anuncios de próximos eventos</td>
-    <td>Media</td>
-    <td>Alta</td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>Revisar cuándo se realizan los próximos eventos </td>
-    <td>Alta</td>
-    <td>Alta</td>
-    <td>Baja</td>
-    <td>Media</td>
-  </tr>
-  <tr>
-    <td>Buscar qué envento me es más relevante</td>
-    <td>Media</td>
-    <td>Alta</td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>Analizar el precio de la entrada</td>
-    <td>Media</td>
-    <td>Alta</td>
-    <td>Baja</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Revisar la seguridad del proceso de compra</td>
-    <td>Media</td>
-    <td>Alta</td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>Comprar la entrada para el evento</td>
-    <td>Media</td>
-    <td>Alta</td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>Establecer la fecha del evento</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Media</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Personalizar la página del evento</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Baja</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Promocionar el evento</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Alta</td>
-    <td>Alta</td>
-  </tr>
-  </tbody>
-</table>
+| Task Matrix                                   | Asistente         |               | Organizador        |               |
+|-----------------------------------------------|-------------------|---------------|--------------------|---------------|
+|                                               | **Frecuencia**    | **Importancia** | **Frecuencia**     | **Importancia** |
+| Visualizar anuncios de próximos eventos       | Media             | Alta          | -                  | -             |
+| Revisar cuándo se realizan los próximos eventos| Alta              | Alta          | Baja               | Media         |
+| Buscar qué evento me es más relevante         | Media             | Alta          | -                  | -             |
+| Analizar el precio de la entrada              | Media             | Alta          | Baja               | Alta          |
+| Revisar la seguridad del proceso de compra    | Media             | Alta          | -                  | -             |
+| Comprar la entrada para el evento             | Media             | Alta          | -                  | -             |
+| Establecer la fecha del evento                | -                 | -             | Media              | Alta          |
+| Personalizar la página del evento             | -                 | -             | Baja               | Alta          |
+| Promocionar el evento                         | -                 | -             | Alta               | Alta          |
 
 ### 2.3.3. User Journey Mapping
 **ASISTENTE DE EVENTOS**
