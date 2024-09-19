@@ -1055,6 +1055,20 @@ Luego de ingresadas las palabras clave o filtros deseados se procederá a mostra
 
 Se optó por el uso del componente denominado 'Breadcrumb' (migas de pan) para poder facilitar la navegación de los usuarios. Este tiene la capacidad de informar al usuario con respecto a la ubicación actual de la página que esté actualmente visitando, así como de las que exploró previamente para llegar a la que está. 
 
+Actualmente en nuestra landing page se tienen las siguientes secciones para la navegación del susuario.
+
+**Inicio:** En este apartado se le dará la bienvenida al usuario, esto junto con una frase atractiva para los dos segmentos objetivos. *"Your ultimate event experience awaits"*. 
+
+**About:** Acá el visitante podrá obtener información del objetivo de nuestra aplicación a su vez de nuestra finalidad. Se incluye in botón para que esté pueda acceder a información más detallada. 
+
+**Popular:** En este segmento el visitante visualizará 3 de los eventos registrados más populares en nuestra plataforma. 
+
+**Features:** Aquí el visitante podrá informarse sobre las múltiples características con las que cuenta nuestra aplicación.  
+
+**Events:** En este apartado se mostrán múltiples y diversos eventos que están disponibles para asistir en nuestra aplicación.
+
+**Review:** En esta sección se observarán distintas reseñas dejadas por usuarios que han utilizado nuestro servicio.
+
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 
