@@ -973,8 +973,13 @@ Este color se utilizará para contrastar ciertos recuadros y diferenciarlos del 
 
 ### 4.1.2. Web Style Guidelines
 
-Para los estándares visuales hemos decidido que las imágenes que utilizaremos sean de alta calidad, al igual que estas deban estar vinculadas al ámbito musical o de eventos. Para ello se emplearán ilustraciones de escenarios, publico en eventos, entre otros. 
-En lo que respecta a los espacios y el diseño buscamos que este sea limpio, intuitivo y organizado. Para lograrlo se deberá aplicar un espaciado adecuado entre los elementos visuales.
+Todas estas decisiones tomadas a continuación forman parte para el óptimo uso de nuestra aplicación por parte del usuario independientemente del tamaño de su pantalla.
+
+**Estándares visuales:** Para los estándares visuales hemos decidido que las imágenes que utilizaremos sean de alta calidad con el objetivo que la visualización sea generalizada sin importar el tamaño de la ventana. A su vez, estas últimas mencionadas deben estar vinculadas al ámbito musical o de eventos. Para ello se emplearán ilustraciones de escenarios, publico en eventos, entre otros. 
+
+**Diseño y Espacio:** En lo que respecta a los espacios y el diseño buscamos que este sea limpio, intuitivo y organizado con el objetivo de mantener el orden de los componentes visuales y que estos se puedan ajustar a las dimensiones de la pantalla. Para lograrlo se deberá aplicar un espaciado adecuado entre los elementos visuales, al igual que los colores establecidos en el General Style Guidelines, predominando principlamente el color azul oscuro.
+
+**Tipografía:** Como se mencionó en el General Style Guidelines, para la tipografía principal de nuestra aplicación se utilizará Poppins por su naturaleza visual creativa y limpia, esto con el objetivo de reducir la sobrecarga visual en nuestra aplicación.
 
 
 ## 4.2. Information Architecture
