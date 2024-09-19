@@ -314,7 +314,8 @@ El enfoque inicial se centrará en organizadores de eventos profesionales, quien
 5. **Hipótesis 5:** Creemos que al diseñar una interfaz intuitiva y ofrecer soporte técnico efectivo, facilitaremos la adopción de la plataforma por parte de nuevos usuarios. Sabremos que hemos tenido éxito cuando notemos que los nuevos usuarios completan su primer evento sin necesidad de asistencia adicional dentro del primer mes de uso.
 
 #### 1.2.2.4. Lean UX Canvas
-![Lean UX Canvas](https://github.com/RamiroGuzmanCh/Diagrams/blob/main/canvasUX.png)
+
+![Lean UX Canvas](https://github.com/user-attachments/assets/45c9ff3d-429b-49d0-846a-6fd2fa433b6f)
 ---
 
 # 2. Capítulo II: Requirements Elicitation & Analysis
