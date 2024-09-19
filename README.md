@@ -1544,13 +1544,32 @@ Para esta primera entrega no fue requerido el uso de ningún servicio. Esto es, 
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-Para esta primera entrega se fue desplegada una primera versión de nuestro landing page, se requirió de los siguientes lenguajes para poder desarrollarla.
+Durante este sprint, se realizó el despliegue inicial de la **Landing Page** del proyecto. Este proceso incluyó la configuración de recursos y la implementación de estrategias para garantizar un despliegue exitoso. A continuación, se detallan las actividades realizadas, los pasos seguidos y las herramientas utilizadas para completar el proceso de deployment.
 
-JavaScript: Se utlizó para ciertas funcionalidades interactivas de nuestra página.
-HTML: Nos ayudó a poder crear la estructura de nuestra landing page.
-CSS: Este lenguaje nos permitió agregar estilos y diseños a nuestra página.
+#### Proceso de Deployment Realizado
 
-En lo que respecta al despliegue, este fue realizado utilizando GitHub Pages. Esto debido a que es una herramienta que nos permitió realizar dicha labor de forma rápida, sencilla y gratuita.
+1. **Creación y Configuración de Repositorio en GitHub:**
+   - Se creó un repositorio dedicado para la **Landing Page** en GitHub.
+   - Se configuraron las ramas necesarias para gestionar el flujo de trabajo y garantizar la estabilidad del código desplegado.
+
+2. **Desarrollo de la Landing Page:**
+   - **HTML:** Se utilizó para definir la estructura base de la landing page, incluyendo el header, footer, secciones de contenido y enlaces.
+   - **CSS:** Se aplicaron estilos personalizados para alinear la apariencia de la página con la identidad visual de King Reserve, incorporando fuentes, colores y layout responsive.
+   - **JavaScript:** Se implementaron interacciones dinámicas como formularios, botones y efectos visuales para mejorar la experiencia del usuario.
+
+3. **Configuración de GitHub Pages:**
+   - Se habilitó la funcionalidad de GitHub Pages desde la configuración del repositorio.
+   - Se seleccionó la rama `main` como fuente de publicación para la landing page.
+   - Se personalizó la URL del sitio publicado para facilitar su acceso y visibilidad.
+
+4. **Automatización del Despliegue:**
+   - Se configuró un flujo de trabajo de GitHub Actions para automatizar el despliegue. Esto incluye la ejecución de scripts de validación y la publicación automática de la landing page en cada actualización de la rama `main`.
+
+5. **Pruebas Post-Despliegue:**
+   - Validación visual y funcional de la landing page en diferentes navegadores y dispositivos.
+   - Verificación de enlaces, formularios y elementos interactivos para asegurar su correcto funcionamiento.
+
+## Evidencias del Proceso de Despliegue
 
 ![Captura de pantalla 2024-09-07 210111](https://github.com/user-attachments/assets/5b352da3-4738-4cc3-b6da-a5eb811d0fcc)
 
