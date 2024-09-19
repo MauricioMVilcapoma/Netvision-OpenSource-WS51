@@ -1497,8 +1497,9 @@ En esta seccion se busca detallar el proceso por la cual se trabajo el Sprint 1 
 aa
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
-Para este sprint, siendo el primero de nuestro proyecto, se pudo realizar una primera versión de nuestra Landing Page desplegada por medio de GitHub Pages.
-Estás son algunas capturas de nuestra landing.
+Para este sprint, siendo el primero de nuestro proyecto, se pudo realizar una primera versión de nuestra Landing Page desplegada por medio de GitHub Pages. En esta se puede apreciar que están siendo aplicados todos los Style Guidelines establecidos para nuestro proyecto. A su vez, para este entregable, pudimos ofrecer una Landing Page que activamente le muestra al usuario lo que podrá realizar con nuestra aplicación al igual que múltiples call to action.
+
+Las siguientes imágenes son algunas capturas de nuestra landing.
 
 ![landing-1](https://github.com/user-attachments/assets/ff912a8c-6a94-4c73-9312-94a6f2ecf4a6)
 
@@ -1513,6 +1514,8 @@ Estás son algunas capturas de nuestra landing.
 ![landing-6](https://github.com/user-attachments/assets/f4087c0a-e1ce-4a43-8c2f-ef4dd812048f)
 
 ![landing-7](https://github.com/user-attachments/assets/c759218e-4540-4430-bc92-e895ab80c62c)
+
+A continuación, por medio de este enlace, podrá visualizar una demostración del funcionamiento de nuestra landing page: [Execution Evidence Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a620_upc_edu_pe/EfMyHmefM1ZMgAT3tJBFvKIB03M-k2qBNjJNG7Opsmykvw?e=LNAhgt)
 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
