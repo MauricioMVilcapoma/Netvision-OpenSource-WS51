@@ -225,20 +225,19 @@ Eventify ofrece una solución integral para la gestión de eventos, combinando h
 ### 1.2.2.1. Lean UX Problem Statements
 
 ##### Domain
-Eventify opera en el ámbito de la gestión de eventos, abarcando la planificación, ejecución y análisis post-evento. Este sector enfrenta desafíos significativos que afectan tanto a organizadores como a asistentes.
+La gestión de eventos es un proceso complejo que involucra múltiples etapas, desde la planificación hasta la ejecución y evaluación post-evento. En este sector, los organizadores enfrentan desafíos significativos relacionados con la coordinación y eficiencia operativa, mientras que los asistentes se ven afectados por problemas de accesibilidad y experiencia.
 
 ##### Customer Segments
-1. **Organizadores de Eventos Profesionales**: Empresas que manejan conferencias, festivales y otros eventos de gran escala, con necesidades complejas.
-2. **Consumidores Finales**: Personas que desean asistir a eventos y enfrentan dificultades para encontrar y comprar entradas.
+1. **Organizadores de Eventos Profesionales**: Empresas y organizaciones que manejan eventos de gran escala como conferencias, festivales y ferias.
+2. **Consumidores Finales**: Personas que desean asistir a eventos, quienes suelen experimentar dificultades en la compra de entradas y el acceso a la información relevante.
 
 ##### Pain Points
-1. **Fragmentación de Herramientas**: Los organizadores deben utilizar diversas plataformas para gestionar diferentes aspectos del evento, aumentando la complejidad y el riesgo de errores.
-2. **Altos Costos Operativos**: La dependencia de múltiples herramientas y procesos desconectados provoca ineficiencia y costos adicionales.
-3. **Experiencia de Usuario Inconsistente**: Los asistentes a menudo tienen problemas para navegar por la información del evento, lo que complica la compra de entradas y el acceso a detalles relevantes.
+1. **Fragmentación de Herramientas**: Los organizadores luchan por manejar múltiples herramientas y plataformas desconectadas, lo que genera ineficiencias y aumenta el riesgo de errores.
+2. **Altos Costos Operativos**: Los asistentes enfrentan problemas al comprar entradas debido a sistemas fragmentados y poco integrados.
+3. **Experiencia de Usuario Inconsistente**: La falta de coherencia en la experiencia del usuario, tanto para los organizadores como para los asistentes, genera insatisfacción y fricciones durante el proceso del evento.
 
 ##### Gap
-La falta de una solución centralizada para la gestión de eventos genera ineficiencias operativas y una experiencia insatisfactoria, afectando negativamente tanto a organizadores como a asistentes.
-
+Existe una falta de soluciones unificadas que aborden todas las necesidades en la gestión de eventos, lo que genera costos adicionales, errores y una experiencia insatisfactoria para los usuarios.
 ##### Initial Segment
 El enfoque inicial se centrará en organizadores de eventos profesionales, quienes enfrentan mayores desafíos en la gestión y tienen una necesidad urgente de optimizar sus procesos.
 
