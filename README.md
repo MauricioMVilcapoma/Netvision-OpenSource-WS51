@@ -1144,6 +1144,20 @@ User goal, usuario inicia sesion, se registra y recupera su contraseña
 
 User goal, usuario selecciona categoria, evento y compra
 ![mockup_compra](https://github.com/user-attachments/assets/786f35f9-ee3d-4b91-9af9-d37f88c10032)
+
+User goal, usuario agrega metodo de pago
+![metodo_pago](https://github.com/user-attachments/assets/9f7af290-6fdf-4ba0-9951-69e5259eab7c)
+
+User goal, usuario filtra eventos por fecha y categoria
+![filtrar_evento](https://github.com/user-attachments/assets/129230ea-3c32-439c-8a35-5d6f33953edf)
+
+User goal, usuario administrador de eventos publica un evento
+![pubicar_evento](https://github.com/user-attachments/assets/2e401e88-06e7-41a2-b377-b6d7c20d3d0e)
+
+User goal, usuario administrador de eventos edita evento activo
+![editar_evento](https://github.com/user-attachments/assets/a22f6ee4-fff2-4722-b345-2ad3faa9e6b6)
+
+
 Enlace a los User Flow Diagrams en la App Web lucidchart: https://lucid.app/lucidchart/4a6e204f-cc3a-447d-ae14-c70f09ef72f3/edit?viewport_loc=-3934%2C675%2C4020%2C1923%2C0_0&invitationId=inv_b08529c0-01bc-4e00-91d4-151304493c64
 
 ## 4.5. Web Applications Prototyping
