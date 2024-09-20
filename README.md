@@ -1205,6 +1205,11 @@ capturas de referencia:
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+
+**Class Diagram**
+A continuación se muestra el diagrama de clases completo el cual esta dividido en 5 Bounded Contexts.
+![](https://github.com/RamiroGuzmanCh/Diagrams/blob/DIAGRAMA/diagramaCOMPLETO.png)
+
 **User Management**
 
 Maneja la gestión de usuarios, autenticación, y perfiles y se encarga de la gestión de usuarios y sus datos, sin necesidad de conocer detalles de otros contextos como eventos o pagos.
@@ -1213,7 +1218,7 @@ Maneja la gestión de usuarios, autenticación, y perfiles y se encarga de la ge
 **Event Management**
 
 Maneja la creación, actualización y administración de eventos y relaciona eventos con lugares, categorías, etiquetas y notificaciones, pero no directamente con la venta de tickets o métodos de pago.
-![](https://github.com/RamiroGuzmanCh/Diagrams/blob/main/EventManagement.png)
+![](https://github.com/RamiroGuzmanCh/Diagrams/blob/event2/eventManagement2.png)
 
 **Ticketing**
 
@@ -1225,6 +1230,11 @@ Maneja la venta y el control de tickets para eventos y relaciona tickets con eve
 Maneja las transacciones y métodos de pago y se encarga de la gestión de métodos de pago y transacciones, sin necesidad de saber detalles específicos de eventos, usuarios o tickets.
 
 ![](https://github.com/RamiroGuzmanCh/Diagrams/blob/main/PaymentProcessing.png)
+
+**Notification & Promotion Management**
+
+Este Bounded Context se centra en la gestión de notificaciones y promociones relacionadas con eventos. Su objetivo es facilitar la comunicación efectiva con los asistentes y optimizar la promoción de eventos mediante descuentos y ofertas.
+![](https://github.com/RamiroGuzmanCh/Diagrams/blob/event2/NotificationAndPromotion.png)
 
 Link LucidChart: https://lucid.app/lucidchart/57f1a752-5aae-4d38-b2b1-5afe0d980e51/edit?viewport_loc=-7581%2C-1638%2C2742%2C1343%2C0_0&invitationId=inv_88b2ad43-b247-48f8-98f2-cd0237564469
 
