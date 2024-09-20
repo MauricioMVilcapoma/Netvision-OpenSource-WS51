@@ -1093,20 +1093,48 @@ Enlace a los Wireflow Diagrams en la App Web lucidchart: https://lucid.app/lucid
 
 ### 4.4.2. Web Applications Mock-ups
 Mock-ups de la sección Iniciar sesión 
+
 ![Iniciar sesión 2](https://github.com/user-attachments/assets/39e9032f-b5d6-49b5-aeaa-b4962959fe05)
+
 Mock-ups de la sección Registro
+
 ![Registro (desktop) (1)](https://github.com/user-attachments/assets/f632a7c0-df5b-4047-b52f-db780cd01e42)
+
 Mock-ups de la sección Pagina principal
+
 ![Main-Desktop (1)](https://github.com/user-attachments/assets/cf4a6e26-00a2-4722-8fe5-664587e8c99d)
+
 Mock-ups de la sección Editar cuenta
+
 ![Editar Cuenta (desktop)](https://github.com/user-attachments/assets/630b8a9b-b9d5-443e-a2f7-de0e56ac5f17)
+
 Mock-ups de la sección Recuparar contraseña
+
 ![Recuperar contraseña (desktop) (1)](https://github.com/user-attachments/assets/597cd2ef-19f8-479d-904e-c652ea9854d9)
+
 Mock-ups de la sección Reviews
+
 ![Reviews](https://github.com/user-attachments/assets/a0041fc8-79b7-4286-abb2-12e17bb8a097)
+
 Mock-ups de la sección eventos
+
 ![Popular Events (2)](https://github.com/user-attachments/assets/85bbce0a-4995-4c1c-96fd-0a3af47ad49a)
 ![Popular Events (3)](https://github.com/user-attachments/assets/d119665e-eec9-4752-86a0-6f91cfeee1a0)
+![Events-resultados](https://github.com/user-attachments/assets/f9f717f1-d0a0-4c09-b653-4537113e2dba)
+
+Mock-ups de la sección publicar y administrar eventos
+![Perfil Organizador de Evento](https://github.com/user-attachments/assets/fcdf5804-35c5-4549-9314-59894866ed62)
+![evento_ administrar](https://github.com/user-attachments/assets/278d4a07-a585-4409-924e-aa98854192ae)
+![detalles evento](https://github.com/user-attachments/assets/0dc845d5-b58c-4b08-97e0-e93a341feadf)
+![publicar evento](https://github.com/user-attachments/assets/1267c995-6ed7-49ef-936f-0126eb987f79)
+![detalles evento (1)](https://github.com/user-attachments/assets/4a34054d-e51c-4fa7-b2c0-91f517d70db9)
+
+Mock-ups de la sección metodos de pago
+
+![metodos pago 2](https://github.com/user-attachments/assets/cb7876bf-0fb0-4ffe-9b92-3776de4eb223)
+![metodos pago](https://github.com/user-attachments/assets/f14e9a8a-5d81-4fbe-bc21-68cd7df1f1ef)
+
+Mock-ups de la sección eventos
 
 Enlace a los mockups de la App Web en Figma: https://www.figma.com/design/Yt9EEcER3gZwHsZXLPUeuC/wireframes?node-id=2005-117&t=IFfGNblTCqext4MD-1
 
