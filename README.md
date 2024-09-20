@@ -1089,7 +1089,16 @@ Al iniciar la aplicación, el usuario se encuentra en la página inicio, donde p
 **Descripcion**
 El recorrido inicia en una pantalla de categorías, donde el usuario puede seleccionar diferentes tipos de eventos. Después de elegir una categoría, se muestra una lista de eventos disponibles, con opciones para ver más detalles. Finalmente, el usuario llega a la sección de precios donde puede seleccionar y comprar entradas, además de ver opciones adicionales
 
-Enlace a los Wireflow Diagrams en la App Web lucidchart: https://lucid.app/lucidchart/249a2f6a-bf8d-48d8-8223-bc2953a7eddd/edit?invitationId=inv_71d29885-5c72-49e4-ac10-53526a9c92fb&page=0_0
+**User goal, filtra eventos disponibles segun fecha y categoria**
+![wireflow1](https://github.com/user-attachments/assets/9c1fbd74-c503-4740-b4f5-0de5b1bb9918)
+
+**Descripcion**
+El recorrido inicia en la pagina principal, donde el usuario se dirige a la seccion eventos y hace uso de los filtros disponibles para mejorar su busqueda. Posteriormente se muestran los resultados que coincidan con los filtros usados.
+
+**User goal, usuario administrador de eventos publica y edita eventos**
+![wireflow2](https://github.com/user-attachments/assets/101fc8b7-8f62-4d02-8304-c4addc4da19f)
+
+Enlace a los Wireflow Diagrams en la App Web lucidchart: https://lucid.app/lucidchart/249a2f6a-bf8d-48d8-8223-bc2953a7eddd/edit?viewport_loc=-2191%2C-613%2C8450%2C3681%2C0_0&invitationId=inv_71d29885-5c72-49e4-ac10-53526a9c92fb
 
 ### 4.4.2. Web Applications Mock-ups
 Mock-ups de la sección Iniciar sesión 
@@ -1158,7 +1167,9 @@ User goal, usuario administrador de eventos edita evento activo
 ![editar_evento](https://github.com/user-attachments/assets/a22f6ee4-fff2-4722-b345-2ad3faa9e6b6)
 
 
-Enlace a los User Flow Diagrams en la App Web lucidchart: https://lucid.app/lucidchart/4a6e204f-cc3a-447d-ae14-c70f09ef72f3/edit?viewport_loc=-3934%2C675%2C4020%2C1923%2C0_0&invitationId=inv_b08529c0-01bc-4e00-91d4-151304493c64
+Enlaces a los User Flow Diagrams en la App Web lucidchart: https://lucid.app/lucidchart/4a6e204f-cc3a-447d-ae14-c70f09ef72f3/edit?viewport_loc=-3934%2C675%2C4020%2C1923%2C0_0&invitationId=inv_b08529c0-01bc-4e00-91d4-151304493c64
+
+https://lucid.app/lucidchart/24487184-3c98-487e-9e18-d0a50505eae5/edit?viewport_loc=-2320%2C-4209%2C7671%2C3669%2C0_0&invitationId=inv_c56b54ec-0d16-4480-8b75-0053d4c7602a
 
 ## 4.5. Web Applications Prototyping
 A continuación se presentan los prototipos de la aplicación web de ArtCollab, los cuales fueron realizados en Figma. Además, se adjunta el enlace al video completo de la presentación del prototipo: https://www.figma.com/proto/Yt9EEcER3gZwHsZXLPUeuC/wireframes?node-id=2005-334&node-type=CANVAS&t=1tSvJdxTxOy9YR1b-1&scaling=min-zoom&content-scaling=fixed&page-id=2005%3A117&starting-point-node-id=2005%3A334
