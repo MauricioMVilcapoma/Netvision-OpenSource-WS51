@@ -1040,6 +1040,7 @@ Actualmente en nuestra landing page se tienen las siguientes secciones para la n
 
 - Wireframes de la sección editar cuenta & perfil
 ![Editar Perfil (desktop)](https://github.com/user-attachments/assets/e4908c84-08dc-499e-83b9-a920058ff766)
+![perfil_menu](https://github.com/user-attachments/assets/c36b14d0-63b7-461c-a348-c644046cad2d)
 
 - Wireframes de la sección recuperar contraseña
 ![Recuperar contraseña (desktop) (1)](https://github.com/user-attachments/assets/516a8ced-e8ae-4506-b395-18595656baa8)
@@ -1052,6 +1053,27 @@ Actualmente en nuestra landing page se tienen las siguientes secciones para la n
 
 - Wireframes de la sección eventos
 ![Popular Events (2)](https://github.com/user-attachments/assets/c2ea501a-30a6-4eb6-b7ba-a645e759748a)
+
+- Wireframes de la sección metodos de pago
+
+![metodos pago](https://github.com/user-attachments/assets/ebb10101-2a77-4158-98a8-9886f61776a7)
+![metodos pago 2](https://github.com/user-attachments/assets/8189341f-530d-4e97-bb64-fb8037a3f54d)
+
+- Wireframes de la sección filtrar evento
+![Evento-filtro](https://github.com/user-attachments/assets/f62b7a35-c61a-4bcb-b734-551643071943)
+![Events](https://github.com/user-attachments/assets/fab114f8-33a8-47d1-9e38-29219c764f0f)
+![Evento-resultado](https://github.com/user-attachments/assets/9ea4b73b-4756-4741-b1fb-9c9433e05b34)
+
+- Wireframes de la sección editar y publicar eventos
+![evento_ administrar](https://github.com/user-attachments/assets/302912ed-242c-46c8-a60f-cba6a1c9aee2)
+![publicar evento](https://github.com/user-attachments/assets/44b2be60-7910-40cf-b270-ab78530b50da)
+![detalles evento](https://github.com/user-attachments/assets/b9e05b0b-f6a7-42b1-a9ca-e4c8aac67385)
+
+- Wireframes de la sección chat de soporte
+
+![chat soporte](https://github.com/user-attachments/assets/28d97ca2-3812-4c2e-baeb-b6865f07f064)
+
+  
 Enlace a los wireframes de la App Web en Figma: https://www.figma.com/design/Yt9EEcER3gZwHsZXLPUeuC/wireframes?node-id=27-418&t=V8Wk4aipe7vwQ1B9-1
 
 ### 4.4.2. Web Applications Wireflow Diagrams
