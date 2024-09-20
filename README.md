@@ -303,15 +303,22 @@ El enfoque inicial se centrará en organizadores de eventos profesionales, quien
   El diseño de Eventify debe ser intuitivo, moderno y limpio. Debe tener una interfaz clara con características claramente visibles y accesibles tanto para organizadores de eventos como para asistentes, con un flujo de navegación fluido y opciones de soporte accesibles.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
-1. **Hipótesis 1:** Creemos que al ofrecer a los organizadores de eventos una plataforma que permita la personalización, aumentaremos su satisfacción y fidelidad. Sabremos que hemos tenido éxito cuando notemos un incremento en el número de eventos repetidos por los mismos organizadores dentro de los primeros seis meses.
 
-2. **Hipótesis 2:** Creemos que al simplificar y agilizar el proceso de compra de boletos, los asistentes estarán más inclinados a adquirir boletos con mayor frecuencia. Sabremos que hemos tenido éxito cuando notemos un aumento en las ventas de boletos en eventos nuevos.
+1. **Creemos que** aumentar la tasa de repetición de eventos en un 20% dentro del primer año se logrará **si** los organizadores de eventos obtienen el beneficio de herramientas de automatización y duplicación de eventos previamente realizados, **mediante** la capacidad de replicar fácilmente eventos pasados y automatizar la personalización de invitaciones.
 
-3. **Hipótesis 3:** Creemos que al integrar herramientas de promoción y venta de boletos en una sola plataforma, facilitaremos la gestión de eventos para los organizadores. Sabremos que hemos tenido éxito cuando notemos que al menos el 50% de los organizadores utilizan las herramientas integradas para más del 60% de sus eventos.
+2. **Creemos que** incrementar la satisfacción de los usuarios finales en un 15% dentro de los primeros seis meses se logrará **si** los asistentes a eventos obtienen el beneficio de una experiencia de compra de boletos más rápida y sin fricciones, **mediante** una interfaz de usuario intuitiva y la integración de opciones de pago seguras y diversas.
 
-4. **Hipótesis 4:** Creemos que al proporcionar estadísticas en tiempo real sobre la venta de boletos y la participación en eventos, las empresas tomarán decisiones más informadas y eficientes. Sabremos que hemos tenido éxito cuando notemos que más del 50% de las empresas revisan las estadísticas diariamente para ajustar sus estrategias de marketing y ventas.
+3. **Creemos que** reducir la cantidad de problemas técnicos reportados por los organizadores en un 30% en el próximo año se logrará **si** los organizadores de eventos obtienen el beneficio de una plataforma estable y fácil de usar, **mediante** la consolidación de todas las funciones de gestión de eventos en una sola solución centralizada.
 
-5. **Hipótesis 5:** Creemos que al diseñar una interfaz intuitiva y ofrecer soporte técnico efectivo, facilitaremos la adopción de la plataforma por parte de nuevos usuarios. Sabremos que hemos tenido éxito cuando notemos que los nuevos usuarios completan su primer evento sin necesidad de asistencia adicional dentro del primer mes de uso.
+4. **Creemos que** aumentar la visibilidad de los eventos en un 30% en los próximos seis meses se logrará **si** los organizadores de eventos obtienen el beneficio de herramientas de promoción integradas, **mediante** la capacidad de crear campañas automatizadas en redes sociales y listar eventos en un calendario público.
+
+5. **Creemos que** mejorar la retención de pequeños y medianos organizadores en un 25% dentro del primer año se logrará **si** los organizadores obtienen el beneficio de opciones de suscripción flexibles y accesibles, **mediante** planes adaptados a diferentes tamaños de negocio y la posibilidad de probar la plataforma sin compromiso inicial.
+
+6. **Creemos que** incrementar la conversión de visitantes a compradores de boletos en un 15% dentro de los primeros tres meses se logrará **si** los asistentes a eventos obtienen el beneficio de un proceso de compra más ágil, **mediante** una experiencia optimizada con menos pasos y opciones de pago simplificadas.
+
+7. **Creemos que** reducir el tiempo de planificación de eventos en un 25% se logrará **si** los organizadores de eventos obtienen el beneficio de herramientas automatizadas, **mediante** funcionalidades como plantillas predefinidas, generación automática de invitaciones y programación de recordatorios.
+
+8. **Creemos que** aumentar la fidelidad de los organizadores de eventos en un 20% en el primer año se logrará **si** los organizadores obtienen el beneficio de acceso a estadísticas en tiempo real y reportes detallados sobre la participación en sus eventos, **mediante** la integración de un sistema de análisis avanzado dentro de la plataforma.
 
 #### 1.2.2.4. Lean UX Canvas
 
