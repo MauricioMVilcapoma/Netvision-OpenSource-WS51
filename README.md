@@ -1543,8 +1543,10 @@ En esta seccion se busca detallar el proceso por la cual se trabajo el Sprint 1 
 | https://github.com/MauricioMVilcapoma/LandingPageEventify  | master            | b85cd8f99c7f2a4c1dd72afa9d18bb3c34f554f4       | Initial commit            | Initial setup of project repository, added basic structure and initial files. | Sep 1, 2024         |
 | https://github.com/MauricioMVilcapoma/LandingPageEventify  | feature/responsive-design  | 7e4d9bc2f9a730e1548b1a72da3f048fc94372f1       | Add responsive design               | Implemented mobile-first design for the landing page.       | Sep 4, 2024         |
 
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review
-aa
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+Durante el desarrollo de este primer sprint no fueron realizados acceptance test. Esto debido a que, en el alcance de este entregable, recién fue implementada una primera versión de nuestra Landing Page.
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
 Para este sprint, siendo el primero de nuestro proyecto, se pudo realizar una primera versión de nuestra Landing Page desplegada por medio de GitHub Pages. En esta se puede apreciar que están siendo aplicados todos los Style Guidelines establecidos para nuestro proyecto. A su vez, para este entregable, pudimos ofrecer una Landing Page que activamente le muestra al usuario lo que podrá realizar con nuestra aplicación al igual que múltiples call to action.
