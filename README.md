@@ -1192,16 +1192,19 @@ capturas de referencia:
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
-![structurizr-94825-SystemContext-001](https://github.com/user-attachments/assets/d94fbade-ba62-4a1d-8f3c-3be850609495)
-![structurizr-94825-SystemContext-001-key](https://github.com/user-attachments/assets/d69df320-7319-4b5c-93cb-daea37a06659)
+![structurizr-SystemContext-001](https://github.com/user-attachments/assets/c7c2528c-ac92-4f7f-9e37-5fa1eb228944)
+![structurizr-SystemContext-001-key](https://github.com/user-attachments/assets/40f6e6cd-0ee6-4100-98db-70aedbb102e7)
+
 
 ### 4.6.2. Software Architecture Container Diagrams
-![structurizr-94827-Container-001](https://github.com/user-attachments/assets/1af2782e-fef4-4fbd-927d-382419a415a0)
-![structurizr-94827-Container-001-key](https://github.com/user-attachments/assets/4739b982-9900-4d04-92ef-6e0db1591bad)
+![structurizr-Container-001](https://github.com/user-attachments/assets/60e02eaa-e027-42a5-8258-8a6072c263d5)
+![structurizr-Container-001-key](https://github.com/user-attachments/assets/1f2ff585-71b1-42ef-8b2d-895e1daa1c0a)
+
 
 ### 4.6.3. Software Architecture Components Diagrams
-![structurizr-94832-Component-001](https://github.com/user-attachments/assets/559b45a9-fb33-4857-bfaa-95cdff0d6602)
-![structurizr-94832-Component-001-key](https://github.com/user-attachments/assets/8e24fc47-46e0-4cde-ba20-3b88ad1ae154)
+![structurizr-Container-001](https://github.com/user-attachments/assets/8e253a3e-edc0-48b2-85f4-998299d9906f)
+![structurizr-Container-001-key](https://github.com/user-attachments/assets/4af88ae4-68b0-4770-acf0-6ab55cc23345)
+
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
