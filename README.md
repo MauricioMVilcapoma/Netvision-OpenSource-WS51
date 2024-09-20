@@ -1312,20 +1312,7 @@ Link LucidChart: https://lucid.app/lucidchart/57f1a752-5aae-4d38-b2b1-5afe0d980e
 | eventId             | Identificador del evento | int | Valores positivos | - | - |
 | venueId             | Identificador del lugar | int | Valores positivos | - | - |
 
-**4. Promotion**
-
-| Nombre del Atributo | Definición | Tipo de Dato | Rango | Unidad de Medida | Valores Restringidos |
-|---------------------|------------|--------------|-------|------------------|----------------------|
-| promotionId         | Identificador único de la promoción | int | Valores positivos | - | - |
-| eventId             | Identificador del evento asociado | int | Valores positivos | - | - |
-| code                | Código de la promoción | String | - | - | - |
-| discountPercentage  | Porcentaje de descuento | BigDecimal | 0-100 | % | - |
-| startDate           | Fecha de inicio de la promoción | LocalDate | - | - | - |
-| endDate             | Fecha de finalización de la promoción | LocalDate | - | - | - |
-| createdAt           | Fecha y hora de creación de la promoción | LocalDateTime | - | - | - |
-| updatedAt           | Fecha y hora de última actualización de la promoción | LocalDateTime | - | - | - |
-
-**5. EventCategory**
+**4. EventCategory**
 
 | Nombre del Atributo | Definición | Tipo de Dato | Rango | Unidad de Medida | Valores Restringidos |
 |---------------------|------------|--------------|-------|------------------|----------------------|
@@ -1333,7 +1320,7 @@ Link LucidChart: https://lucid.app/lucidchart/57f1a752-5aae-4d38-b2b1-5afe0d980e
 | name                | Nombre de la categoría | String | - | - | - |
 | description         | Descripción de la categoría | String | - | - | - |
 
-**6. EventTag**
+**5. EventTag**
 
 | Nombre del Atributo | Definición | Tipo de Dato | Rango | Unidad de Medida | Valores Restringidos |
 |---------------------|------------|--------------|-------|------------------|----------------------|
@@ -1341,22 +1328,13 @@ Link LucidChart: https://lucid.app/lucidchart/57f1a752-5aae-4d38-b2b1-5afe0d980e
 | eventId             | Identificador del evento | int | Valores positivos | - | - |
 | tagId               | Identificador de la etiqueta | int | Valores positivos | - | - |
 
-**7. Tag**
+**6. Tag**
 
 | Nombre del Atributo | Definición | Tipo de Dato | Rango | Unidad de Medida | Valores Restringidos |
 |---------------------|------------|--------------|-------|------------------|----------------------|
 | tagId               | Identificador único de la etiqueta | int | Valores positivos | - | - |
 | name                | Nombre de la etiqueta | String | - | - | - |
 
-**8. EventNotification**
-
-| Nombre del Atributo | Definición | Tipo de Dato | Rango | Unidad de Medida | Valores Restringidos |
-|---------------------|------------|--------------|-------|------------------|----------------------|
-| eventNotificationId | Identificador único de la notificación | int | Valores positivos | - | - |
-| eventId             | Identificador del evento asociado | int | Valores positivos | - | - |
-| notificationType    | Tipo de notificación | String | - | - | - |
-| notificationMessage | Mensaje de la notificación | String | - | - | - |
-| notificationDate    | Fecha y hora de la notificación | LocalDateTime | - | - | - |
 
 #### 3. Ticketing
 
@@ -1441,6 +1419,32 @@ Link LucidChart: https://lucid.app/lucidchart/57f1a752-5aae-4d38-b2b1-5afe0d980e
 | name                | Nombre del gateway de pago | String | - | - | - |
 | apiEndpoint         | Endpoint de la API del gateway de pago | String | - | - | - |
 | apiKey              | Clave API para autenticación del gateway | String | - | - | - |
+
+#### 5. Notification & Promotion Management
+
+**1. Promotion**
+
+| Nombre del Atributo | Definición | Tipo de Dato | Rango | Unidad de Medida | Valores Restringidos |
+|---------------------|------------|--------------|-------|------------------|----------------------|
+| promotionId         | Identificador único de la promoción | int | Valores positivos | - | - |
+| eventId             | Identificador del evento asociado | int | Valores positivos | - | - |
+| code                | Código de la promoción | String | - | - | - |
+| discountPercentage  | Porcentaje de descuento | BigDecimal | 0-100 | % | - |
+| startDate           | Fecha de inicio de la promoción | LocalDate | - | - | - |
+| endDate             | Fecha de finalización de la promoción | LocalDate | - | - | - |
+| createdAt           | Fecha y hora de creación de la promoción | LocalDateTime | - | - | - |
+| updatedAt           | Fecha y hora de última actualización de la promoción | LocalDateTime | - | - | - |
+
+**2. EventNotification**
+
+| Nombre del Atributo | Definición | Tipo de Dato | Rango | Unidad de Medida | Valores Restringidos |
+|---------------------|------------|--------------|-------|------------------|----------------------|
+| eventNotificationId | Identificador único de la notificación | int | Valores positivos | - | - |
+| eventId             | Identificador del evento asociado | int | Valores positivos | - | - |
+| notificationType    | Tipo de notificación | String | - | - | - |
+| notificationMessage | Mensaje de la notificación | String | - | - | - |
+| notificationDate    | Fecha y hora de la notificación | LocalDateTime | - | - | - |
+
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
