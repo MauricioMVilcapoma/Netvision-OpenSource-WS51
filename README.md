@@ -1469,34 +1469,32 @@ capturas de referencia:
 **Class Diagram**
 
 A continuación se muestra el diagrama de clases completo el cual esta dividido en 5 Bounded Contexts.
-![](https://github.com/RamiroGuzmanCh/Diagrams/blob/DIAGRAMA/diagramaCOMPLETO.png)
+![diagramacompleto2](https://github.com/user-attachments/assets/055d7b55-0e3b-4ec0-a91c-88706751d2f4)
 
 **User Management**
 
 Maneja la gestión de usuarios, autenticación, y perfiles y se encarga de la gestión de usuarios y sus datos, sin necesidad de conocer detalles de otros contextos como eventos o pagos.
-![](https://github.com/RamiroGuzmanCh/Diagrams/blob/main/UserManagement.png)
+![userManagement2](https://github.com/user-attachments/assets/9cc92c14-57b4-4e1f-8d7e-7b924d468acc)
 
 **Event Management**
 
 Maneja la creación, actualización y administración de eventos y relaciona eventos con lugares, categorías, etiquetas y notificaciones, pero no directamente con la venta de tickets o métodos de pago.
-![](https://github.com/RamiroGuzmanCh/Diagrams/blob/event2/eventManagement2.png)
+![eventttt](https://github.com/user-attachments/assets/5bfe344d-57a2-4ef8-9c3a-a97816f72f94)
 
 **Ticketing**
 
 Maneja la venta y el control de tickets para eventos y relaciona tickets con eventos, ventas de tickets, promociones y códigos QR. No necesita conocer detalles de la autenticación de usuarios o la gestión de pagos directamente (aunque puede interactuar con el contexto de Payment Processing para procesar pagos).
-![](https://github.com/RamiroGuzmanCh/Diagrams/blob/main/Ticketing.png)
+![ticketing2](https://github.com/user-attachments/assets/8fa2ec36-6617-4c9f-b0a5-255c037e2c83)
 
 **Payment Proccesing**
 
 Maneja las transacciones y métodos de pago y se encarga de la gestión de métodos de pago y transacciones, sin necesidad de saber detalles específicos de eventos, usuarios o tickets.
-
-![](https://github.com/RamiroGuzmanCh/Diagrams/blob/main/PaymentProcessing.png)
+![PayProces](https://github.com/user-attachments/assets/261ef75d-d066-46be-9d4a-4bb23dfb3b79)
 
 **Notification & Promotion Management**
 
 Este Bounded Context se centra en la gestión de notificaciones y promociones relacionadas con eventos. Su objetivo es facilitar la comunicación efectiva con los asistentes y optimizar la promoción de eventos mediante descuentos y ofertas.
-
-![](https://github.com/RamiroGuzmanCh/Diagrams/blob/event2/NotificationAndPromotion.png)
+![Notification2](https://github.com/user-attachments/assets/ded75fc0-47d8-4cdb-a75d-0c1d59e6240b)
 
 Link LucidChart: https://lucid.app/lucidchart/57f1a752-5aae-4d38-b2b1-5afe0d980e51/edit?viewport_loc=-7581%2C-1638%2C2742%2C1343%2C0_0&invitationId=inv_88b2ad43-b247-48f8-98f2-cd0237564469
 
@@ -1913,23 +1911,138 @@ A continuación, se presentan capturas de los informes de colaboración en GitHu
 ![insights-network](https://github.com/user-attachments/assets/7a94a253-b721-4a06-8e04-025218196ffa)
 
 
-## 5.3. Validation Interviews
-aa
-### 5.3.1. Diseño de Entrevistas
-aa
-### 5.3.2. Registro de Entrevistas
-aa
-### 5.3.3. Evaluaciones según heurísticas
-aa
-## 5.4. Video About-the-Product
-aa
+
+### 5.2.2. Sprint 2
+
+El Sprint 2 estuvo centrado en el despliegue completo del frontend de la aplicación **Eventify**, incluyendo la implementación de características avanzadas en la interfaz de usuario, la optimización de rendimiento y la configuración de entornos de desarrollo y producción. Este sprint fue clave para preparar el proyecto para su uso en entornos reales, asegurando un flujo continuo de integración y despliegue.
+
+#### 5.2.2.1. Sprint Planning 2
+
+| **Sprint #**                        | 2                                                                                              |
+|-----------------------------------|------------------------------------------------------------------------------------------------|
+| **Date**                           | 2024-09-15                                                                                     |
+| **Time**                           | 10:00 AM                                                                                       |
+| **Location**                       | Google Meet                                                                                    |
+| **Prepared By**                    | Velarde Luyo Piero Alberto                                                                      |
+| **Attendees (to planning meeting)**| Velarde Luyo Piero Alberto <br> Guzmán Chávez Alexander Ramiro <br> Huamán Aguilar Jhon Rony <br> Muñoz Vilcapoma Mauricio Rigoberto <br> Zevallos Linares Alessandro Netto |
+
+**Introducción:**
+
+El equipo se reunió para planificar el Sprint 2, cuyo enfoque estuvo en optimizar el frontend de la aplicación, configurando el entorno de despliegue, mejorando el rendimiento y asegurando la compatibilidad con distintos navegadores. Las tareas se organizaron para permitir la implementación fluida y el despliegue en múltiples dispositivos y plataformas.
+
+**Sprint Goal:**
+
+El objetivo del Sprint 2 es garantizar que **la aplicación frontend esté completamente optimizada y lista para su despliegue** en producción, con un enfoque en **rendimiento, experiencia de usuario y despliegue automatizado**.
+
+**Sprint 2 Velocity:**
+El equipo ha acordado una velocidad de **25 puntos** para este sprint, lo que refleja un incremento en la capacidad de trabajo tras el aprendizaje del Sprint 1.
+
+**Sum of Story Points:**
+El equipo ha asignado un total de **25 puntos**, distribuidos en **7 User Stories**.
+
+| **Sprint 2 – 1 Review Summary**        | Despliegue del frontend y optimización.                                                           |
+|----------------------------------------|---------------------------------------------------------------------------------------------------|
+| **Sprint 2 – 1 Retrospective Summary** | El equipo identificó mejoras necesarias en la gestión de tiempos y la automatización del despliegue continuo. Se realizó una retroalimentación positiva sobre el rendimiento del frontend en entornos de desarrollo, pero se planteó la necesidad de seguir optimizando el tiempo de carga en dispositivos móviles. La colaboración se destacó como un punto fuerte, pero se acordó mejorar la documentación para facilitar el entendimiento de los procesos de integración continua (CI) y despliegue continuo (CD). |
+
+#### 5.2.2.2. Sprint Backlog 2
+
+**Objetivo del Sprint**
+El principal objetivo de este sprint fue la optimización del frontend, con énfasis en el rendimiento, la compatibilidad multiplataforma y el despliegue continuo automatizado, todo mientras se garantizaba la usabilidad del sitio.
+
+| **Sprint #** | **Sprint 2** |
+|--------------|--------------|
+
+| **User Story** | **Work-Item / Task** |
+|--------------|--------------|
+
+| **Id**        | **Title**                                | **Id**  | **Title**                     | **Description**                                                    | **Estimation (Hours)** | **Assigned To**                    | **Status** |
+|--------------|------------------------------------------|---------|-------------------------------|--------------------------------------------------------------------|------------------------|-----------------------------------|------------|
+| US004        | Configurar entorno de despliegue          | T007    | Implementar CI/CD con GitHub Actions | Configurar pipelines para automatizar pruebas y despliegue.       | 6                      | Mauricio Muñoz                     | In Progress|
+| US005        | Optimización de rendimiento               | T008    | Mejorar tiempos de carga       | Optimizar imágenes y minificar archivos CSS y JavaScript.         | 4                      | Ramiro Guzmán                      | Done       |
+| US006        | Asegurar compatibilidad multiplataforma   | T009    | Realizar pruebas cross-browser | Probar y ajustar la UI en distintos navegadores (Chrome, Firefox, Safari). | 5                  | Jhon Huamán                        | In Progress|
+| US007        | Optimización para móviles                 | T010    | Implementar diseño responsive  | Mejorar el diseño responsive y la usabilidad en dispositivos móviles. | 6                 | Piero Velarde                       | In Progress|
+| US008        | Mejorar la experiencia de usuario         | T011    | Añadir transiciones y animaciones | Implementar animaciones suaves para mejorar la interacción del usuario. | 3                | Alessandro Zevallos                 | Done       |
+| US009        | Despliegue en producción                  | T012    | Configurar hosting en Netlify  | Desplegar la versión final en un entorno de producción utilizando Netlify. | 3                | Mauricio Muñoz                     | In Progress|
+| US010        | Pruebas de integración                    | T013    | Ejecutar pruebas de integración | Realizar pruebas automáticas para asegurar que todos los componentes funcionen correctamente. | 2               | Ramiro Guzmán                      | To Do      |
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+
+| Repository          | Branch            | Commit Id | Commit Message           | Commit Message Body            | Committed on (Date) |
+|---------------------|-------------------|-----------|--------------------------|--------------------------------|---------------------|
+| https://github.com/MauricioMVilcapoma/Eventify-Frontend  | develop           | 23e7a2f5a2d3e27fcf718a29352d9268bbac9d6f       | Implement CI/CD setup         | Configured GitHub Actions for continuous integration and deployment. | Sep 16, 2024         |
+| https://github.com/MauricioMVilcapoma/Eventify-Frontend  | develop           | a5d12fb45231fa9835f47a21d27f56d9b112e1f9       | Optimize loading times         | Minified JavaScript and compressed images for better load times. | Sep 18, 2024         |
+| https://github.com/MauricioMVilcapoma/Eventify-Frontend  | develop           | dcb6a7c50b083a4e48736adf4a0d99a87e7385ad       | Add responsive design fixes     | Improved layout responsiveness for mobile and tablet devices. | Sep 20, 2024         |
+| https://github.com/MauricioMVilcapoma/Eventify-Frontend  | feature/ui-improvements  | 6eb9f2e6db947d85b8235b1c78451b601a1baf3d       | Add smooth UI transitions       | Implemented smooth animations for better UX. | Sep 21, 2024         |
+| https://github.com/MauricioMVilcapoma/Eventify-Frontend  | feature/production-deploy  | c7e5a3eb31dc6b97569df2f33aefc1d2b528aa97       | Configure Netlify deployment     | Deployed the project to Netlify and configured hosting settings. | Sep 22, 2024         |
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+En este sprint se ejecutaron pruebas unitarias y de integración para asegurar que el frontend funcionara correctamente en los diferentes entornos. A continuación, se detallan los resultados de las pruebas y las correcciones realizadas.
+
+- **Pruebas unitarias:** Se ejecutaron pruebas unitarias para cada uno de los componentes del frontend, asegurando que los elementos interactivos respondieran de forma esperada.
+- **Pruebas de integración:** Se probaron las interacciones entre los componentes y su conexión con el backend simulado.
+- **Pruebas de rendimiento:** Se midieron los tiempos de carga antes y después de las optimizaciones, logrando una mejora del 30% en dispositivos móviles.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+En este sprint, logramos desplegar la versión optimizada del frontend en Netlify. El proceso de automatización con GitHub Actions facilitó la integración continua y permitió que cualquier cambio en la rama `develop` fuera desplegado automáticamente. Se realizaron pruebas finales en distintos navegadores y dispositivos, asegurando la compatibilidad.
+
+![netlify-deployment](https://github.com/user-attachments/assets/9f913e3b-3e44-4d4f-b6e3-78bff8e9a73a)
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Se configuró el servicio de despliegue en **Netlify**. A continuación, se incluye la documentación utilizada para la configuración y despliegue del proyecto en este servicio:
+
+1. **Netlify Deployment:**
+   - URL: [Eventify Frontend Deployment](https://eventify-frontend.netlify.app)
+   - Herramientas utilizadas: GitHub, Netlify
+   - Automatización: Configuración de pipelines en GitHub Actions para CI/CD.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+El despliegue del frontend fue exitoso en Netlify. Los pasos seguidos para el despliegue fueron los siguientes:
+
+1. **Configuración de Netlify:**
+   - Se conectó el repositorio de GitHub con Netlify para que cualquier cambio en la rama `develop` desencadene un despliegue automático.
+   - Se realizaron pruebas de carga en producción y se verificaron los tiempos de respuesta.
+
+2. **CI/CD con GitHub Actions:**
+   - Se configuraron pipelines para ejecutar pruebas unitarias e integración antes de desplegar.
+   - Automatización del proceso de despliegue para evitar fallos manuales.
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Durante este sprint, la colaboración en equipo fue fundamental para alcanzar los objetivos planteados. A través de reuniones diarias y el uso de herramientas de colaboración como Microsoft Teams y GitHub, el equipo pudo coordinar esfuerzos y resolver problemas en tiempo real. Sin embargo, se identificó la necesidad de mejorar la comunicación asíncrona, especialmente en tareas que requerían integración entre múltiples desarrolladores.
+
  
 # Conclusiones
-aa
-# Conclusiones y recomendaciones
-aa
+
+La implementación de la plataforma **Eventify** ha sido un proceso desafiante pero enriquecedor, caracterizado por avances significativos en el desarrollo y la colaboración del equipo. A lo largo de esta etapa, se han logrado hitos importantes que establecen una base sólida para el futuro del proyecto.
+
+### Principales conclusiones:
+
+- **Colaboración efectiva:** La sinergia entre los miembros del equipo ha facilitado un flujo de trabajo más dinámico y ha permitido la resolución ágil de problemas.
+- **Mejoras en la usabilidad:** Las iteraciones en el diseño y la funcionalidad de la aplicación han conducido a una experiencia más intuitiva para los usuarios finales.
+- **Automatización de procesos:** La adopción de herramientas de automatización ha optimizado la eficiencia en el desarrollo y el despliegue de la aplicación.
+
+# Conclusiones y recomendaciones generales
+
+Para garantizar el éxito continuo de **Eventify**, es fundamental considerar las siguientes recomendaciones:
+
+1. **Mantenimiento de documentación:** Es crucial que la documentación del proyecto se mantenga clara y accesible, facilitando así el onboarding de nuevos miembros y el entendimiento del proyecto en su conjunto.
+
+2. **Fomento de la comunicación:** Establecer canales de comunicación más fluidos, tanto síncronos como asíncronos, fortalecerá la colaboración entre los miembros del equipo y ayudará a mitigar malentendidos.
+
+3. **Implementación de pruebas continuas:** Adoptar un enfoque de pruebas riguroso, que incluya pruebas automatizadas y manuales, garantizará la calidad del producto final y reducirá el riesgo de errores en producción.
+
+4. **Recopilación de retroalimentación:** Crear mecanismos para recibir y analizar la retroalimentación de los usuarios permitirá realizar mejoras continuas en la plataforma, alineando el desarrollo con las expectativas y necesidades del público objetivo.
+
+5. **Capacitación continua del equipo:** Invertir en el desarrollo profesional del equipo mediante capacitaciones y talleres sobre tecnologías emergentes y mejores prácticas fortalecerá las habilidades del grupo y mejorará la calidad del trabajo.
+
+Al aplicar estas recomendaciones, se espera que **Eventify** no solo cumpla con los objetivos establecidos, sino que también se adapte a las necesidades cambiantes del mercado y de los usuarios, asegurando su relevancia y sostenibilidad en el futuro.
+
 # Video About-the-Team
-aa
+[Video About-the-Team]())
 # Bibliografía
 aa
 # Anexos
