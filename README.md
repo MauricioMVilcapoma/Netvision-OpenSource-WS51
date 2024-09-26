@@ -1212,34 +1212,32 @@ capturas de referencia:
 **Class Diagram**
 
 A continuación se muestra el diagrama de clases completo el cual esta dividido en 5 Bounded Contexts.
-![](https://hackmd.io/_uploads/rJ2qjcf0A.png)
+![diagramacompleto2](https://github.com/user-attachments/assets/055d7b55-0e3b-4ec0-a91c-88706751d2f4)
 
 **User Management**
 
 Maneja la gestión de usuarios, autenticación, y perfiles y se encarga de la gestión de usuarios y sus datos, sin necesidad de conocer detalles de otros contextos como eventos o pagos.
-![](https://hackmd.io/_uploads/rkGz29MCC.png)
+![userManagement2](https://github.com/user-attachments/assets/9cc92c14-57b4-4e1f-8d7e-7b924d468acc)
 
 **Event Management**
 
 Maneja la creación, actualización y administración de eventos y relaciona eventos con lugares, categorías, etiquetas y notificaciones, pero no directamente con la venta de tickets o métodos de pago.
-![](https://hackmd.io/_uploads/H1uLhqfAA.png)
+![eventttt](https://github.com/user-attachments/assets/5bfe344d-57a2-4ef8-9c3a-a97816f72f94)
 
 **Ticketing**
 
 Maneja la venta y el control de tickets para eventos y relaciona tickets con eventos, ventas de tickets, promociones y códigos QR. No necesita conocer detalles de la autenticación de usuarios o la gestión de pagos directamente (aunque puede interactuar con el contexto de Payment Processing para procesar pagos).
-![](https://hackmd.io/_uploads/SJKKhqG00.png)
+![ticketing2](https://github.com/user-attachments/assets/8fa2ec36-6617-4c9f-b0a5-255c037e2c83)
 
 **Payment Proccesing**
 
 Maneja las transacciones y métodos de pago y se encarga de la gestión de métodos de pago y transacciones, sin necesidad de saber detalles específicos de eventos, usuarios o tickets.
-
-![](https://hackmd.io/_uploads/Bkk6n5z0R.png)
+![PayProces](https://github.com/user-attachments/assets/261ef75d-d066-46be-9d4a-4bb23dfb3b79)
 
 **Notification & Promotion Management**
 
 Este Bounded Context se centra en la gestión de notificaciones y promociones relacionadas con eventos. Su objetivo es facilitar la comunicación efectiva con los asistentes y optimizar la promoción de eventos mediante descuentos y ofertas.
-
-![](https://hackmd.io/_uploads/ByYe65f00.png)
+![Notification2](https://github.com/user-attachments/assets/ded75fc0-47d8-4cdb-a75d-0c1d59e6240b)
 
 Link LucidChart: https://lucid.app/lucidchart/57f1a752-5aae-4d38-b2b1-5afe0d980e51/edit?viewport_loc=-7581%2C-1638%2C2742%2C1343%2C0_0&invitationId=inv_88b2ad43-b247-48f8-98f2-cd0237564469
 
